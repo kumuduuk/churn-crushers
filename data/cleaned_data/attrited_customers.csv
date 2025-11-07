@@ -1,0 +1,1413 @@
+,clientnum,customer_status,age,gender,dependencies,education_level,marital_status,income_category,card_category,months_on_book,no_of_products,months_inactive_12_mon,contacts_count_12_mon,credit_limit,total_revolving_bal,total_trans_amt,total_trans_ct,avg_utilization_ratio,age_bracket,utilization_cat
+14,708508758,Attrited Customer,62,F,0,Graduate,Married,Less than $40K,Blue,49,2,3,3,1438.3,0,692,16,0.0,60s,Low
+38,779471883,Attrited Customer,54,F,1,Graduate,Married,Less than $40K,Blue,40,2,3,1,1438.3,808,705,19,0.562,50s,Medium
+39,714374133,Attrited Customer,56,M,2,Graduate,Married,$120K +,Blue,36,1,3,3,15769.0,0,602,15,0.0,50s,Low
+45,712030833,Attrited Customer,48,M,2,Graduate,Married,$60K - $80K,Silver,35,2,4,4,34516.0,0,691,15,0.0,40s,Low
+65,711013983,Attrited Customer,55,F,4,Unknown,Married,$40K - $60K,Blue,45,2,4,3,2158.0,0,615,12,0.0,50s,Low
+79,711887583,Attrited Customer,47,M,2,Unknown,Married,$80K - $120K,Blue,37,2,3,3,5449.0,1628,836,18,0.299,40s,Low
+98,720201033,Attrited Customer,53,M,2,Graduate,Married,$80K - $120K,Blue,41,3,3,2,11669.0,2227,720,23,0.191,50s,Low
+109,789322833,Attrited Customer,48,F,5,High School,Married,Less than $40K,Blue,38,1,3,3,8025.0,0,673,18,0.0,40s,Low
+113,767712558,Attrited Customer,59,M,1,College,Single,$60K - $80K,Blue,53,2,3,3,14979.0,0,530,10,0.0,50s,Low
+114,712950783,Attrited Customer,48,F,4,Uneducated,Married,Less than $40K,Blue,38,3,2,3,2732.0,0,739,16,0.0,40s,Low
+132,713741358,Attrited Customer,46,M,5,Graduate,Single,$80K - $120K,Blue,33,6,3,3,32975.0,2517,597,17,0.076,40s,Low
+136,708953883,Attrited Customer,53,M,2,Unknown,Married,$80K - $120K,Blue,36,2,2,1,3212.0,0,757,20,0.0,50s,Low
+155,708868233,Attrited Customer,68,M,0,High School,Married,Less than $40K,Blue,52,1,3,2,1438.3,900,760,21,0.626,60s,Medium
+160,719808558,Attrited Customer,55,F,2,Graduate,Married,Less than $40K,Blue,43,2,4,3,1438.3,0,886,27,0.0,50s,Low
+161,711551958,Attrited Customer,59,M,2,Post-Graduate,Married,$60K - $80K,Blue,46,3,3,3,1438.3,0,844,24,0.0,50s,Low
+178,772336458,Attrited Customer,60,F,1,Uneducated,Married,$40K - $60K,Blue,50,4,4,3,1438.3,1025,702,12,0.713,60s,High
+183,720997383,Attrited Customer,52,M,1,Uneducated,Married,$80K - $120K,Blue,36,2,3,3,1857.0,1833,829,17,0.987,50s,High
+187,710299608,Attrited Customer,53,F,2,Unknown,Married,Less than $40K,Blue,33,2,3,3,2859.0,2517,817,30,0.88,50s,High
+189,821797008,Attrited Customer,49,M,5,College,Married,$40K - $60K,Blue,45,2,2,3,1438.3,0,815,21,0.0,40s,Low
+190,708874533,Attrited Customer,45,F,2,College,Married,Less than $40K,Blue,36,1,3,2,3387.0,0,510,24,0.0,40s,Low
+194,712125258,Attrited Customer,46,M,4,High School,Married,$120K +,Blue,30,3,3,3,2442.0,0,701,19,0.0,40s,Low
+200,772390908,Attrited Customer,59,M,0,High School,Single,$40K - $60K,Blue,48,2,4,3,3616.0,1054,687,17,0.291,50s,Low
+205,778867533,Attrited Customer,59,F,0,Post-Graduate,Married,$40K - $60K,Blue,40,1,4,1,1438.3,0,689,23,0.0,50s,Low
+212,771809733,Attrited Customer,64,F,0,High School,Married,$40K - $60K,Blue,53,1,3,3,3353.0,0,960,18,0.0,60s,Low
+218,719211558,Attrited Customer,45,M,2,Graduate,Single,$60K - $80K,Blue,36,1,1,2,3401.0,0,744,18,0.0,40s,Low
+223,718621608,Attrited Customer,54,F,2,High School,Married,Unknown,Blue,44,3,3,1,6094.0,0,909,14,0.0,50s,Low
+225,720272958,Attrited Customer,48,M,2,High School,Married,$120K +,Blue,36,3,3,3,27126.0,0,1000,25,0.0,40s,Low
+227,709173108,Attrited Customer,54,F,4,Graduate,Married,Unknown,Blue,40,6,2,2,2532.0,2221,799,21,0.877,50s,High
+247,708330858,Attrited Customer,57,M,3,Graduate,Married,$120K +,Blue,38,2,3,3,8249.0,1381,678,11,0.167,50s,Low
+263,709278258,Attrited Customer,54,M,2,Unknown,Married,$40K - $60K,Blue,44,4,3,2,2902.0,2517,996,26,0.867,50s,High
+268,714871683,Attrited Customer,58,M,1,Uneducated,Married,$40K - $60K,Blue,36,2,4,3,1438.3,537,715,13,0.373,50s,Medium
+313,717354558,Attrited Customer,57,M,2,Uneducated,Married,$120K +,Blue,40,3,3,3,3106.0,1120,683,17,0.361,50s,Medium
+315,714639783,Attrited Customer,42,M,3,College,Married,$60K - $80K,Blue,34,3,3,3,13450.0,0,1000,18,0.0,40s,Low
+322,778868958,Attrited Customer,42,F,2,Graduate,Married,Less than $40K,Blue,23,3,3,3,1929.0,1673,857,36,0.867,40s,High
+326,710940183,Attrited Customer,49,F,3,Graduate,Married,Less than $40K,Blue,38,6,3,2,2185.0,0,715,20,0.0,40s,Low
+332,709547658,Attrited Customer,39,M,2,Uneducated,Single,$60K - $80K,Blue,36,5,3,3,13961.0,1299,783,20,0.093,30s,Low
+334,712159083,Attrited Customer,58,F,4,Unknown,Married,Less than $40K,Blue,46,2,3,3,2536.0,0,901,35,0.0,50s,Low
+347,711791583,Attrited Customer,52,F,1,Graduate,Single,Less than $40K,Blue,40,1,2,2,2317.0,0,884,19,0.0,50s,Low
+348,712315683,Attrited Customer,53,F,2,Uneducated,Single,Less than $40K,Blue,45,1,1,1,1981.0,1518,973,25,0.766,50s,High
+352,789842283,Attrited Customer,54,M,2,Graduate,Married,$60K - $80K,Blue,42,3,3,2,4320.0,0,706,21,0.0,50s,Low
+355,719418933,Attrited Customer,53,M,2,Uneducated,Married,$80K - $120K,Blue,36,1,3,3,4503.0,0,748,20,0.0,50s,Low
+363,781794708,Attrited Customer,35,M,3,Post-Graduate,Unknown,$80K - $120K,Blue,29,2,1,3,17030.0,1911,715,25,0.112,30s,Low
+366,714272658,Attrited Customer,43,F,2,Uneducated,Single,Less than $40K,Blue,24,2,3,2,2962.0,2517,929,31,0.85,40s,High
+371,767294658,Attrited Customer,56,M,2,College,Single,$120K +,Blue,50,2,2,3,16867.0,0,654,14,0.0,50s,Low
+372,708241233,Attrited Customer,52,F,3,Post-Graduate,Single,Less than $40K,Blue,47,3,3,2,2972.0,0,922,25,0.0,50s,Low
+397,716223708,Attrited Customer,45,F,3,Uneducated,Single,Unknown,Blue,36,3,3,3,4028.0,710,791,22,0.176,40s,Low
+404,719443683,Attrited Customer,50,M,1,Unknown,Single,$120K +,Blue,39,3,2,3,27512.0,2137,1149,25,0.078,50s,Low
+405,779610033,Attrited Customer,58,M,1,College,Married,$80K - $120K,Blue,47,3,3,3,12151.0,1799,918,14,0.148,50s,Low
+415,709345008,Attrited Customer,53,F,2,Doctorate,Married,Unknown,Blue,39,1,2,3,1438.3,0,807,22,0.0,50s,Low
+425,769137108,Attrited Customer,43,F,2,Post-Graduate,Married,Less than $40K,Blue,37,3,3,1,1438.3,0,974,28,0.0,40s,Low
+426,717640083,Attrited Customer,59,M,1,High School,Married,$60K - $80K,Blue,36,3,2,3,6705.0,0,731,18,0.0,50s,Low
+438,711242058,Attrited Customer,48,M,4,Unknown,Single,$80K - $120K,Blue,36,1,3,1,11862.0,2517,643,16,0.212,40s,Low
+447,718121658,Attrited Customer,56,M,1,College,Married,$60K - $80K,Blue,44,5,3,3,1704.0,0,660,17,0.0,50s,Low
+448,711593808,Attrited Customer,55,M,1,High School,Married,$60K - $80K,Blue,46,2,2,3,1438.3,0,888,18,0.0,50s,Low
+450,718731183,Attrited Customer,61,M,1,Unknown,Married,$40K - $60K,Blue,49,1,2,2,5472.0,788,705,14,0.144,60s,Low
+458,713865333,Attrited Customer,45,F,4,Uneducated,Married,Less than $40K,Blue,38,3,4,3,4908.0,0,827,21,0.0,40s,Low
+459,797707008,Attrited Customer,44,F,3,Doctorate,Married,Less than $40K,Blue,38,6,1,3,7222.0,0,920,18,0.0,40s,Low
+461,720370533,Attrited Customer,55,M,3,Uneducated,Married,$60K - $80K,Blue,44,3,2,2,2323.0,0,804,15,0.0,50s,Low
+463,718675158,Attrited Customer,55,F,1,Unknown,Married,Less than $40K,Blue,36,4,1,3,1438.3,361,850,22,0.251,50s,Low
+468,720605808,Attrited Customer,53,F,1,Graduate,Single,Less than $40K,Blue,36,2,2,3,1438.3,0,799,17,0.0,50s,Low
+483,770724558,Attrited Customer,42,M,2,College,Married,$60K - $80K,Blue,28,6,1,3,7340.0,0,838,24,0.0,40s,Low
+485,719309958,Attrited Customer,55,M,3,Doctorate,Single,$80K - $120K,Blue,35,4,1,3,20865.0,0,837,25,0.0,50s,Low
+495,808897683,Attrited Customer,53,M,1,Graduate,Single,$80K - $120K,Blue,48,3,3,3,30271.0,1406,3231,47,0.046,50s,Low
+503,718939083,Attrited Customer,54,F,2,Graduate,Married,Less than $40K,Blue,45,3,1,3,1438.3,306,694,15,0.213,50s,Low
+507,712979133,Attrited Customer,55,M,4,High School,Married,$80K - $120K,Blue,41,2,2,2,27560.0,900,646,10,0.033,50s,Low
+511,720071583,Attrited Customer,48,F,2,Unknown,Married,Less than $40K,Blue,36,5,1,3,7151.0,800,854,22,0.112,40s,Low
+530,798792408,Attrited Customer,48,M,3,High School,Married,$80K - $120K,Blue,42,1,1,3,9959.0,0,805,24,0.0,40s,Low
+542,711204483,Attrited Customer,56,M,4,High School,Married,$60K - $80K,Blue,46,3,3,3,2340.0,1930,781,15,0.825,50s,High
+543,713945883,Attrited Customer,62,F,2,Graduate,Married,Less than $40K,Blue,52,4,2,2,2490.0,513,864,20,0.206,60s,Low
+565,789513858,Attrited Customer,43,M,3,Unknown,Married,$40K - $60K,Blue,35,2,2,3,1438.3,0,891,28,0.0,40s,Low
+574,771963708,Attrited Customer,56,M,3,Unknown,Married,$60K - $80K,Blue,45,5,3,2,12248.0,0,767,25,0.0,50s,Low
+575,712433508,Attrited Customer,59,F,1,Unknown,Married,Unknown,Blue,50,3,2,3,1438.3,0,724,16,0.0,50s,Low
+581,778506633,Attrited Customer,43,F,4,College,Married,Less than $40K,Blue,23,6,2,3,7706.0,392,965,27,0.051,40s,Low
+596,713530833,Attrited Customer,58,M,2,Graduate,Married,$40K - $60K,Blue,48,2,3,3,4085.0,2238,596,15,0.548,50s,Medium
+601,778699908,Attrited Customer,43,M,2,Uneducated,Married,$60K - $80K,Blue,24,2,3,3,14447.0,0,915,29,0.0,40s,Low
+607,716991933,Attrited Customer,53,F,3,Uneducated,Single,Less than $40K,Blue,35,6,3,1,9786.0,0,820,25,0.0,50s,Low
+622,712373208,Attrited Customer,43,M,3,Doctorate,Single,$60K - $80K,Blue,35,3,3,2,3312.0,0,647,19,0.0,40s,Low
+641,708455883,Attrited Customer,57,M,1,Graduate,Single,$80K - $120K,Blue,36,2,3,2,10244.0,861,1127,29,0.084,50s,Low
+644,763895958,Attrited Customer,53,M,2,High School,Married,$120K +,Blue,46,4,3,1,7474.0,0,732,21,0.0,50s,Low
+647,711927108,Attrited Customer,54,M,3,High School,Married,$80K - $120K,Blue,36,2,3,4,9457.0,350,1196,28,0.037,50s,Low
+663,711147483,Attrited Customer,46,F,3,Graduate,Single,Less than $40K,Blue,28,2,2,3,8551.0,1067,1097,32,0.125,40s,Low
+675,720990183,Attrited Customer,54,M,5,High School,Married,$60K - $80K,Blue,36,5,2,3,14539.0,0,965,26,0.0,50s,Low
+683,716608608,Attrited Customer,41,M,2,Uneducated,Married,$80K - $120K,Blue,33,5,3,3,8004.0,1452,1084,32,0.181,40s,Low
+693,788673708,Attrited Customer,57,F,2,High School,Married,$40K - $60K,Blue,45,2,1,3,1438.3,0,1254,35,0.0,50s,Low
+708,816600933,Attrited Customer,56,M,0,College,Married,$80K - $120K,Blue,51,3,2,3,14501.0,0,1031,25,0.0,50s,Low
+709,714208533,Attrited Customer,43,M,3,High School,Married,$60K - $80K,Blue,36,1,3,3,8663.0,288,916,33,0.033,40s,Low
+713,720426708,Attrited Customer,56,M,3,High School,Single,$60K - $80K,Blue,45,2,1,3,8512.0,0,811,27,0.0,50s,Low
+728,708983658,Attrited Customer,51,M,2,Uneducated,Single,$120K +,Blue,39,3,3,1,16868.0,0,940,25,0.0,50s,Low
+742,778663458,Attrited Customer,65,M,1,High School,Married,Less than $40K,Blue,47,3,2,1,1759.0,0,821,18,0.0,60s,Low
+743,716024808,Attrited Customer,57,M,1,Graduate,Married,$80K - $120K,Blue,36,3,3,3,4829.0,2418,938,21,0.501,50s,Medium
+754,721249158,Attrited Customer,42,M,2,Uneducated,Single,$60K - $80K,Blue,30,2,2,3,6414.0,0,708,14,0.0,40s,Low
+785,713845083,Attrited Customer,41,F,4,High School,Single,Less than $40K,Blue,36,6,2,3,4203.0,2517,1489,43,0.599,40s,Medium
+791,813499458,Attrited Customer,45,M,5,High School,Unknown,$60K - $80K,Blue,40,3,3,1,1438.3,0,2132,31,0.0,40s,Low
+812,712240083,Attrited Customer,38,F,3,Unknown,Single,Less than $40K,Blue,30,6,2,2,3730.0,2517,858,22,0.675,30s,Medium
+813,772532208,Attrited Customer,51,F,2,Doctorate,Married,Less than $40K,Blue,41,2,2,3,6630.0,916,842,24,0.138,50s,Low
+814,778929783,Attrited Customer,40,M,3,Graduate,Divorced,$80K - $120K,Blue,22,2,2,3,1925.0,0,781,28,0.0,40s,Low
+832,713053383,Attrited Customer,42,M,3,Graduate,Married,$80K - $120K,Blue,36,1,1,3,34516.0,781,853,12,0.023,40s,Low
+843,803595858,Attrited Customer,56,F,3,High School,Married,$40K - $60K,Blue,51,5,2,1,1438.3,0,594,14,0.0,50s,Low
+850,710754933,Attrited Customer,61,F,0,Graduate,Married,Less than $40K,Blue,49,6,2,3,1438.3,0,840,20,0.0,60s,Low
+851,720007383,Attrited Customer,41,F,2,Unknown,Single,Unknown,Blue,28,2,1,3,4411.0,2517,803,15,0.571,40s,Medium
+852,718362783,Attrited Customer,35,M,2,Graduate,Married,$80K - $120K,Blue,27,3,2,3,12643.0,0,787,21,0.0,30s,Low
+854,708856983,Attrited Customer,36,M,3,Post-Graduate,Married,$120K +,Blue,27,2,1,2,13873.0,0,694,18,0.0,30s,Low
+868,709961958,Attrited Customer,58,F,4,High School,Divorced,Unknown,Blue,45,4,1,1,21065.0,2517,1060,32,0.119,50s,Low
+878,717412608,Attrited Customer,38,F,2,High School,Married,$40K - $60K,Blue,28,3,2,2,7225.0,0,738,16,0.0,30s,Low
+891,712120608,Attrited Customer,35,M,3,College,Married,$80K - $120K,Blue,27,3,2,3,3575.0,1884,861,15,0.527,30s,Medium
+917,710899833,Attrited Customer,36,M,2,Graduate,Married,$40K - $60K,Blue,18,3,1,3,7758.0,1408,569,23,0.181,30s,Low
+933,739594758,Attrited Customer,51,F,2,Graduate,Single,Less than $40K,Blue,44,6,3,2,3181.0,2517,818,16,0.791,50s,High
+937,714078558,Attrited Customer,62,F,1,High School,Married,$40K - $60K,Blue,53,2,1,1,5249.0,0,1315,31,0.0,60s,Low
+954,779216358,Attrited Customer,48,M,2,College,Married,$80K - $120K,Blue,38,2,2,3,2111.0,0,773,17,0.0,40s,Low
+961,712924383,Attrited Customer,55,M,3,Unknown,Single,$60K - $80K,Blue,36,3,2,2,8411.0,979,990,22,0.116,50s,Low
+990,714983283,Attrited Customer,39,F,3,High School,Single,Less than $40K,Blue,36,6,1,3,3651.0,0,862,19,0.0,30s,Low
+992,710406633,Attrited Customer,51,F,3,Uneducated,Married,Unknown,Blue,36,3,3,2,3664.0,0,1168,31,0.0,50s,Low
+1033,709991883,Attrited Customer,53,M,1,Graduate,Married,$80K - $120K,Blue,42,2,1,2,6214.0,1147,938,35,0.185,50s,Low
+1036,809951133,Attrited Customer,54,M,3,College,Single,$120K +,Blue,49,3,2,3,34516.0,0,2115,24,0.0,50s,Low
+1042,720141408,Attrited Customer,49,F,2,Graduate,Single,Less than $40K,Blue,31,5,1,2,5456.0,951,1096,27,0.174,40s,Low
+1050,768490458,Attrited Customer,49,M,2,Uneducated,Married,$80K - $120K,Blue,43,1,3,3,5701.0,2517,961,32,0.442,40s,Medium
+1058,712196508,Attrited Customer,46,F,3,High School,Single,Unknown,Blue,34,4,3,3,29543.0,1164,1015,27,0.039,40s,Low
+1072,711159108,Attrited Customer,58,F,0,High School,Married,Less than $40K,Blue,36,3,2,2,7418.0,396,911,26,0.053,50s,Low
+1086,713206683,Attrited Customer,40,M,4,Graduate,Single,$80K - $120K,Silver,22,3,1,3,34516.0,0,1028,26,0.0,40s,Low
+1101,778388358,Attrited Customer,56,M,3,Graduate,Single,$60K - $80K,Blue,36,2,2,3,4742.0,855,870,24,0.18,50s,Low
+1114,779722308,Attrited Customer,45,F,3,High School,Married,$40K - $60K,Blue,30,5,2,2,12355.0,0,1044,28,0.0,40s,Low
+1119,713823033,Attrited Customer,31,F,2,Unknown,Married,Unknown,Blue,20,3,1,2,8149.0,0,808,30,0.0,30s,Low
+1120,787515333,Attrited Customer,40,M,3,Uneducated,Married,$80K - $120K,Blue,29,3,2,3,3616.0,1151,820,21,0.318,40s,Medium
+1125,710819733,Attrited Customer,56,M,3,Graduate,Married,$120K +,Blue,36,5,1,1,12211.0,0,903,29,0.0,50s,Low
+1177,818375733,Attrited Customer,51,F,2,College,Married,$40K - $60K,Blue,46,3,1,3,4882.0,695,1544,44,0.142,50s,Low
+1191,709707033,Attrited Customer,45,M,3,Graduate,Single,$60K - $80K,Blue,32,2,3,2,13162.0,0,1424,38,0.0,40s,Low
+1203,721178583,Attrited Customer,37,F,3,Graduate,Unknown,Unknown,Blue,22,2,3,2,5674.0,0,1096,29,0.0,30s,Low
+1222,771544533,Attrited Customer,42,F,5,High School,Married,Unknown,Blue,30,3,1,4,3578.0,0,1015,36,0.0,40s,Low
+1223,708927108,Attrited Customer,53,M,2,Graduate,Married,$120K +,Blue,36,1,3,2,12778.0,507,1133,28,0.04,50s,Low
+1232,711772008,Attrited Customer,35,F,3,Graduate,Single,Less than $40K,Blue,22,1,2,1,1890.0,666,1483,36,0.352,30s,Medium
+1233,708799983,Attrited Customer,40,M,1,Post-Graduate,Married,$60K - $80K,Blue,36,6,3,4,18386.0,890,1698,43,0.048,40s,Low
+1307,718418958,Attrited Customer,30,M,1,Post-Graduate,Divorced,Less than $40K,Blue,36,6,2,4,5061.0,0,1309,38,0.0,30s,Low
+1323,821179233,Attrited Customer,50,F,1,Post-Graduate,Single,$40K - $60K,Blue,46,1,3,3,1493.0,932,1554,43,0.624,50s,Medium
+1329,813752433,Attrited Customer,43,F,3,Graduate,Single,Less than $40K,Blue,38,5,2,4,4075.0,1986,2449,27,0.487,40s,Medium
+1335,708083283,Attrited Customer,58,M,0,Unknown,Single,$40K - $60K,Blue,45,3,1,3,3421.0,2517,992,21,0.736,50s,High
+1346,806407308,Attrited Customer,54,F,3,College,Single,Unknown,Blue,49,6,2,3,13184.0,0,2047,33,0.0,50s,Low
+1355,758583708,Attrited Customer,37,F,3,Graduate,Single,Less than $40K,Blue,24,2,1,4,2802.0,2460,1406,28,0.878,30s,High
+1368,721003008,Attrited Customer,36,F,4,Graduate,Married,Less than $40K,Blue,24,3,2,2,3261.0,2517,856,18,0.772,30s,High
+1386,720122808,Attrited Customer,52,M,2,High School,Married,$60K - $80K,Silver,35,4,4,3,33180.0,511,797,14,0.015,50s,Low
+1399,716053083,Attrited Customer,33,M,2,Graduate,Married,$120K +,Blue,21,2,2,4,27992.0,0,837,18,0.0,30s,Low
+1425,709537683,Attrited Customer,37,M,3,College,Married,$80K - $120K,Blue,30,3,4,3,11638.0,926,563,15,0.08,30s,Low
+1438,790145733,Attrited Customer,40,M,3,College,Single,$80K - $120K,Silver,33,1,3,4,34516.0,0,1112,26,0.0,40s,Low
+1466,719818983,Attrited Customer,39,M,1,College,Divorced,$80K - $120K,Blue,28,1,3,4,12464.0,0,1195,35,0.0,30s,Low
+1474,804668658,Attrited Customer,26,F,0,Uneducated,Single,Less than $40K,Blue,20,3,2,4,1438.3,0,947,20,0.0,20s,Low
+1530,771028533,Attrited Customer,48,F,3,Post-Graduate,Married,Less than $40K,Silver,35,5,1,3,10357.0,0,911,25,0.0,40s,Low
+1537,819610908,Attrited Customer,38,M,2,Uneducated,Single,$80K - $120K,Blue,33,1,4,4,32938.0,2089,1137,26,0.063,30s,Low
+1548,808273533,Attrited Customer,39,M,2,High School,Single,$60K - $80K,Blue,34,3,4,3,1818.0,0,2054,55,0.0,30s,Low
+1566,785011383,Attrited Customer,36,F,0,Uneducated,Divorced,$40K - $60K,Blue,30,1,3,4,2190.0,0,1412,38,0.0,30s,Low
+1570,716382708,Attrited Customer,46,F,2,Graduate,Single,Less than $40K,Blue,36,3,4,3,8309.0,858,1165,35,0.103,40s,Low
+1573,711224733,Attrited Customer,32,M,0,High School,Married,$120K +,Blue,27,3,3,4,22382.0,0,695,10,0.0,30s,Low
+1584,791856033,Attrited Customer,45,M,2,College,Divorced,$80K - $120K,Blue,39,3,4,4,34516.0,0,1041,27,0.0,40s,Low
+1586,716448783,Attrited Customer,48,F,3,Graduate,Married,$40K - $60K,Blue,39,2,4,3,6235.0,0,1225,34,0.0,40s,Low
+1605,708892833,Attrited Customer,37,M,2,Graduate,Married,$120K +,Blue,30,2,4,4,13662.0,0,725,22,0.0,30s,Low
+1613,719318583,Attrited Customer,37,M,3,High School,Married,Less than $40K,Blue,26,3,3,4,6866.0,2389,862,13,0.348,30s,Medium
+1643,720504633,Attrited Customer,46,M,2,Uneducated,Unknown,$60K - $80K,Blue,32,6,2,3,3254.0,0,967,24,0.0,40s,Low
+1646,711357858,Attrited Customer,47,F,3,Graduate,Single,Less than $40K,Blue,36,5,3,4,7246.0,0,777,13,0.0,40s,Low
+1661,711816108,Attrited Customer,40,M,3,High School,Single,$80K - $120K,Blue,29,2,2,4,18563.0,0,2395,45,0.0,40s,Low
+1664,713663508,Attrited Customer,58,M,0,High School,Unknown,$40K - $60K,Blue,42,3,2,3,1438.3,0,1088,22,0.0,50s,Low
+1693,718577958,Attrited Customer,39,M,2,Uneducated,Married,$120K +,Blue,26,2,3,4,8906.0,0,809,15,0.0,30s,Low
+1707,717664008,Attrited Customer,37,M,3,College,Married,$60K - $80K,Blue,19,2,3,4,3100.0,2517,694,12,0.812,30s,High
+1719,711562833,Attrited Customer,35,M,4,Graduate,Married,$80K - $120K,Blue,24,6,3,4,12634.0,0,717,18,0.0,30s,Low
+1730,720181758,Attrited Customer,37,M,0,Doctorate,Married,$120K +,Blue,22,3,3,4,8654.0,0,850,18,0.0,30s,Low
+1762,720427683,Attrited Customer,58,M,2,Uneducated,Single,$120K +,Blue,46,2,3,4,16163.0,0,2171,48,0.0,50s,Low
+1779,711692508,Attrited Customer,54,F,2,Post-Graduate,Married,Less than $40K,Blue,47,3,4,3,1438.3,0,1154,22,0.0,50s,Low
+1797,715651833,Attrited Customer,65,M,1,Unknown,Single,Less than $40K,Blue,36,3,4,4,2351.0,0,1593,35,0.0,60s,Low
+1827,712551258,Attrited Customer,39,M,1,Uneducated,Married,Less than $40K,Blue,36,3,3,3,4247.0,0,847,17,0.0,30s,Low
+1835,772292358,Attrited Customer,30,M,1,College,Divorced,Less than $40K,Blue,19,4,3,3,7970.0,0,1284,30,0.0,30s,Low
+1848,713021208,Attrited Customer,55,F,2,College,Single,Unknown,Silver,36,2,3,3,34516.0,0,1353,40,0.0,50s,Low
+1866,715366083,Attrited Customer,52,F,0,Doctorate,Single,Less than $40K,Blue,36,2,2,3,1438.3,978,947,33,0.68,50s,Medium
+1871,716244033,Attrited Customer,44,M,3,Graduate,Married,$40K - $60K,Blue,33,2,3,3,7266.0,906,1741,27,0.125,40s,Low
+1903,778381608,Attrited Customer,48,M,4,Doctorate,Single,$80K - $120K,Blue,28,3,3,4,6572.0,417,1766,46,0.063,40s,Low
+1921,709164408,Attrited Customer,32,M,1,Uneducated,Married,Less than $40K,Blue,23,1,3,3,2218.0,1696,730,20,0.765,30s,High
+1925,709785783,Attrited Customer,35,F,0,Graduate,Single,Less than $40K,Blue,25,5,3,4,2300.0,0,1485,34,0.0,30s,Low
+1950,720185058,Attrited Customer,46,M,3,Graduate,Married,$60K - $80K,Blue,36,2,3,4,4267.0,0,1067,23,0.0,40s,Low
+1954,717813558,Attrited Customer,57,F,3,High School,Single,Unknown,Blue,36,1,4,2,8389.0,1960,1334,38,0.234,50s,Low
+2010,719470458,Attrited Customer,46,M,3,College,Single,$80K - $120K,Blue,39,1,4,3,4026.0,243,1102,27,0.06,40s,Low
+2017,715319958,Attrited Customer,48,M,3,Uneducated,Married,$120K +,Blue,36,5,2,4,34516.0,787,1312,32,0.023,40s,Low
+2020,721243083,Attrited Customer,55,M,3,Uneducated,Divorced,$80K - $120K,Blue,41,1,3,4,34516.0,2408,1187,40,0.07,50s,Low
+2034,798022683,Attrited Customer,43,M,1,Graduate,Married,$80K - $120K,Blue,37,4,2,3,25517.0,321,2508,44,0.013,40s,Low
+2086,716112933,Attrited Customer,39,F,3,Graduate,Married,Unknown,Blue,36,3,2,3,1575.0,592,644,15,0.376,30s,Medium
+2117,719146008,Attrited Customer,48,M,3,Graduate,Married,$80K - $120K,Blue,39,4,4,3,18672.0,2517,1126,35,0.135,40s,Low
+2128,720693033,Attrited Customer,33,M,1,Unknown,Married,$60K - $80K,Blue,36,1,3,4,8925.0,168,741,10,0.019,30s,Low
+2130,712784058,Attrited Customer,45,F,2,High School,Divorced,Unknown,Blue,36,6,4,3,17156.0,2517,1142,33,0.147,40s,Low
+2270,710524533,Attrited Customer,38,F,4,College,Married,$40K - $60K,Blue,36,4,4,4,4913.0,2517,899,28,0.512,30s,Medium
+2319,714967233,Attrited Customer,52,M,2,Doctorate,Married,$120K +,Blue,34,3,2,3,11188.0,0,2109,47,0.0,50s,Low
+2349,787460883,Attrited Customer,41,M,3,Uneducated,Married,$40K - $60K,Blue,28,3,3,4,11091.0,0,1234,34,0.0,40s,Low
+2368,709206333,Attrited Customer,44,F,4,Graduate,Single,$40K - $60K,Blue,30,3,4,4,4333.0,0,1558,40,0.0,40s,Low
+2370,821149008,Attrited Customer,52,M,2,Graduate,Single,$80K - $120K,Blue,48,6,2,4,34516.0,0,1661,40,0.0,50s,Low
+2382,772273983,Attrited Customer,48,M,4,Uneducated,Single,$40K - $60K,Blue,37,1,3,4,5268.0,2191,2138,40,0.416,40s,Medium
+2385,719902908,Attrited Customer,51,M,3,Unknown,Married,$80K - $120K,Blue,36,3,3,3,5130.0,0,1434,31,0.0,50s,Low
+2399,709163358,Attrited Customer,41,M,5,Unknown,Single,$60K - $80K,Gold,32,2,3,4,34516.0,2517,1727,35,0.073,40s,Low
+2422,708139833,Attrited Customer,40,M,3,Graduate,Unknown,$60K - $80K,Blue,30,4,2,3,6391.0,0,2323,44,0.0,40s,Low
+2457,738627708,Attrited Customer,49,F,2,Unknown,Single,Unknown,Blue,41,5,3,4,5984.0,0,1838,42,0.0,40s,Low
+2470,771833433,Attrited Customer,49,M,2,High School,Married,$80K - $120K,Blue,38,3,2,4,29893.0,0,2063,48,0.0,40s,Low
+2477,828291858,Attrited Customer,38,M,3,College,Single,$60K - $80K,Blue,34,6,3,4,12050.0,1821,2381,40,0.151,30s,Low
+2496,720725058,Attrited Customer,51,F,1,Graduate,Single,Less than $40K,Blue,37,1,3,4,7176.0,0,1375,33,0.0,50s,Low
+2505,711935283,Attrited Customer,55,M,5,Post-Graduate,Single,$80K - $120K,Blue,47,3,1,4,1438.3,0,1427,36,0.0,50s,Low
+2506,716950758,Attrited Customer,46,M,4,High School,Married,$60K - $80K,Blue,36,1,3,2,8017.0,0,1657,43,0.0,40s,Low
+2539,721532583,Attrited Customer,45,M,4,Graduate,Married,$80K - $120K,Blue,36,5,3,4,12250.0,2165,1995,39,0.177,40s,Low
+2552,712623258,Attrited Customer,42,F,3,Graduate,Married,Less than $40K,Blue,36,2,3,3,5505.0,2517,2272,42,0.457,40s,Medium
+2561,720508233,Attrited Customer,62,M,0,Unknown,Single,$40K - $60K,Silver,42,3,4,4,17161.0,0,1898,42,0.0,60s,Low
+2596,715858008,Attrited Customer,49,F,1,Uneducated,Married,$40K - $60K,Blue,39,2,3,3,8061.0,2517,1224,31,0.312,40s,Medium
+2606,813053733,Attrited Customer,53,M,4,Unknown,Single,$120K +,Blue,48,3,3,4,34516.0,278,3029,49,0.008,50s,Low
+2608,720529308,Attrited Customer,63,M,0,High School,Single,$60K - $80K,Blue,48,5,3,1,1856.0,0,1805,46,0.0,60s,Low
+2618,710278458,Attrited Customer,52,M,2,High School,Single,$80K - $120K,Blue,43,4,3,3,11617.0,2517,1643,43,0.217,50s,Low
+2622,807593058,Attrited Customer,41,F,3,Unknown,Single,$40K - $60K,Blue,36,3,2,4,5317.0,0,2003,29,0.0,40s,Low
+2631,788030208,Attrited Customer,42,F,2,Uneducated,Single,Less than $40K,Silver,33,1,2,3,13453.0,2517,1904,42,0.187,40s,Low
+2638,720379533,Attrited Customer,47,M,3,Unknown,Unknown,$120K +,Blue,36,1,3,4,3952.0,0,2066,37,0.0,40s,Low
+2644,720983733,Attrited Customer,44,M,3,Unknown,Single,$60K - $80K,Blue,36,2,3,3,15422.0,864,2136,54,0.056,40s,Low
+2646,719099583,Attrited Customer,42,M,3,Graduate,Married,$40K - $60K,Blue,34,3,2,3,1640.0,1444,1360,33,0.88,40s,High
+2648,710654808,Attrited Customer,46,M,4,Graduate,Single,$80K - $120K,Blue,36,3,1,4,1818.0,0,2308,44,0.0,40s,Low
+2653,711196458,Attrited Customer,38,F,1,Unknown,Married,Less than $40K,Blue,20,2,2,3,1621.0,580,1893,41,0.358,30s,Medium
+2665,709224033,Attrited Customer,53,M,4,Uneducated,Single,$60K - $80K,Blue,43,1,3,2,13720.0,0,1830,36,0.0,50s,Low
+2673,804673308,Attrited Customer,49,M,5,Uneducated,Married,$40K - $60K,Blue,44,2,3,4,3893.0,0,1866,37,0.0,40s,Low
+2680,767784708,Attrited Customer,48,M,0,Doctorate,Married,$60K - $80K,Blue,41,2,3,4,7277.0,504,2356,40,0.069,40s,Low
+2713,716573058,Attrited Customer,54,F,3,Doctorate,Unknown,Less than $40K,Blue,36,3,3,4,1438.3,0,1598,40,0.0,50s,Low
+2714,716977758,Attrited Customer,44,F,3,Uneducated,Married,Less than $40K,Blue,36,2,3,1,3675.0,2517,1913,35,0.685,40s,Medium
+2722,717242058,Attrited Customer,43,F,5,Graduate,Married,Less than $40K,Blue,39,2,3,4,3981.0,0,2134,42,0.0,40s,Low
+2739,721233033,Attrited Customer,50,M,2,High School,Single,$80K - $120K,Blue,38,1,2,3,4915.0,464,1474,36,0.094,50s,Low
+2743,779502333,Attrited Customer,50,M,4,Graduate,Single,$120K +,Silver,32,5,3,2,34516.0,0,1480,37,0.0,50s,Low
+2752,789964983,Attrited Customer,45,M,2,Graduate,Divorced,$40K - $60K,Blue,36,2,2,4,9569.0,0,1724,35,0.0,40s,Low
+2758,709297608,Attrited Customer,38,M,3,College,Single,$80K - $120K,Blue,26,3,3,2,1438.3,0,1585,32,0.0,30s,Low
+2782,714629358,Attrited Customer,54,F,3,Graduate,Divorced,$40K - $60K,Blue,34,2,3,4,4948.0,0,1796,41,0.0,50s,Low
+2789,711538758,Attrited Customer,39,M,5,Graduate,Single,$60K - $80K,Blue,36,1,3,3,24657.0,633,1954,46,0.026,30s,Low
+2790,719987733,Attrited Customer,51,F,3,Unknown,Single,$40K - $60K,Blue,38,3,3,3,5026.0,0,1844,37,0.0,50s,Low
+2795,715371108,Attrited Customer,45,M,3,Graduate,Married,$80K - $120K,Blue,40,3,3,2,3728.0,0,1632,42,0.0,40s,Low
+2799,796903083,Attrited Customer,47,F,1,Doctorate,Married,$40K - $60K,Blue,36,2,3,2,1438.3,0,2584,42,0.0,40s,Low
+2804,772137183,Attrited Customer,52,M,2,Graduate,Single,$120K +,Blue,41,1,3,1,31668.0,810,1822,36,0.026,50s,Low
+2819,812449758,Attrited Customer,43,M,3,High School,Single,$60K - $80K,Blue,38,2,3,2,12254.0,0,2129,42,0.0,40s,Low
+2839,715485483,Attrited Customer,39,F,5,Graduate,Married,Less than $40K,Blue,36,3,3,3,3664.0,0,1479,44,0.0,30s,Low
+2850,718197108,Attrited Customer,54,M,2,Graduate,Single,$80K - $120K,Blue,36,5,3,3,12342.0,0,1430,37,0.0,50s,Low
+2854,710333883,Attrited Customer,48,M,3,Graduate,Married,$60K - $80K,Blue,37,5,2,2,8808.0,390,1905,42,0.044,40s,Low
+2862,789177333,Attrited Customer,47,F,2,Graduate,Married,Less than $40K,Blue,36,6,3,2,1693.0,1088,2104,40,0.643,40s,Medium
+2865,711079308,Attrited Customer,40,M,3,Graduate,Married,$60K - $80K,Blue,27,4,2,3,15186.0,0,1884,33,0.0,40s,Low
+2870,708733983,Attrited Customer,50,F,1,Doctorate,Single,$40K - $60K,Blue,36,6,3,2,5349.0,2391,2122,46,0.447,50s,Medium
+2883,711205758,Attrited Customer,45,M,3,College,Single,$80K - $120K,Silver,33,1,3,3,34516.0,0,2534,43,0.0,40s,Low
+2885,714659133,Attrited Customer,47,M,5,High School,Married,$80K - $120K,Blue,37,2,2,2,9410.0,0,2178,41,0.0,40s,Low
+2886,716425833,Attrited Customer,38,M,2,Graduate,Single,$120K +,Blue,36,5,2,1,34516.0,1229,1797,35,0.036,30s,Low
+2901,712164333,Attrited Customer,40,M,4,High School,Married,$60K - $80K,Blue,29,3,3,2,12544.0,1636,1758,51,0.13,40s,Low
+2910,826471458,Attrited Customer,42,M,3,Graduate,Married,Less than $40K,Blue,38,2,3,3,6967.0,1767,1919,38,0.254,40s,Low
+2934,815851233,Attrited Customer,52,M,3,High School,Single,$120K +,Blue,47,6,1,3,19032.0,0,1726,42,0.0,50s,Low
+2938,771776808,Attrited Customer,44,M,4,Uneducated,Married,$40K - $60K,Blue,33,5,4,3,1527.0,0,1877,38,0.0,40s,Low
+2959,789365508,Attrited Customer,49,M,2,High School,Divorced,$40K - $60K,Blue,39,2,3,4,14839.0,512,1453,26,0.035,40s,Low
+2965,716404383,Attrited Customer,47,F,2,Graduate,Married,Unknown,Blue,36,1,3,2,18799.0,2517,2315,52,0.134,40s,Low
+2975,711843708,Attrited Customer,61,F,0,Graduate,Divorced,Less than $40K,Blue,36,2,3,3,2125.0,0,2860,38,0.0,60s,Low
+2984,718877883,Attrited Customer,44,F,3,Unknown,Single,Less than $40K,Blue,36,3,1,1,5644.0,2517,2440,44,0.446,40s,Medium
+2987,719604858,Attrited Customer,45,F,3,Unknown,Married,Less than $40K,Blue,31,4,3,3,5941.0,0,2196,37,0.0,40s,Low
+2988,714549558,Attrited Customer,41,F,2,Graduate,Married,$40K - $60K,Blue,32,3,2,2,9576.0,0,2362,49,0.0,40s,Low
+2992,711275433,Attrited Customer,47,M,4,Uneducated,Unknown,Unknown,Blue,36,3,3,3,18873.0,0,2021,38,0.0,40s,Low
+2994,827117808,Attrited Customer,45,M,1,Graduate,Single,$60K - $80K,Blue,41,2,3,2,9904.0,2513,1152,28,0.254,40s,Low
+2995,804462633,Attrited Customer,43,F,3,High School,Divorced,Less than $40K,Blue,38,3,3,3,7084.0,0,2287,44,0.0,40s,Low
+2996,709321908,Attrited Customer,47,M,3,High School,Single,$80K - $120K,Blue,29,2,2,3,7498.0,2319,1676,51,0.309,40s,Medium
+2999,712597233,Attrited Customer,37,M,2,Uneducated,Unknown,$40K - $60K,Blue,36,2,3,2,3250.0,1721,1714,32,0.53,30s,Medium
+3011,719816583,Attrited Customer,46,M,3,Doctorate,Married,$120K +,Blue,38,3,2,2,8989.0,552,2309,49,0.061,40s,Low
+3022,713004933,Attrited Customer,40,M,3,High School,Married,$60K - $80K,Blue,27,3,2,1,6813.0,2332,2634,51,0.342,40s,Medium
+3024,772466508,Attrited Customer,45,M,3,Unknown,Single,$60K - $80K,Blue,35,6,2,1,18004.0,2517,2030,45,0.14,40s,Low
+3039,716575758,Attrited Customer,50,F,2,College,Unknown,Unknown,Blue,39,2,3,2,1438.3,0,1859,41,0.0,50s,Low
+3041,714097683,Attrited Customer,55,F,2,Graduate,Married,$40K - $60K,Blue,49,3,3,4,1809.0,0,2123,44,0.0,50s,Low
+3043,708121908,Attrited Customer,48,M,4,Unknown,Married,$80K - $120K,Blue,36,2,3,2,22917.0,0,2045,45,0.0,40s,Low
+3048,709435533,Attrited Customer,53,F,1,Unknown,Single,Less than $40K,Blue,41,2,3,2,3099.0,0,1401,44,0.0,50s,Low
+3053,719874633,Attrited Customer,44,M,1,High School,Unknown,$80K - $120K,Gold,36,2,2,3,34516.0,0,1891,34,0.0,40s,Low
+3055,719168883,Attrited Customer,45,F,5,Unknown,Single,Less than $40K,Blue,34,1,4,1,5155.0,0,2753,45,0.0,40s,Low
+3060,714212358,Attrited Customer,38,F,3,High School,Single,Unknown,Blue,36,1,3,2,5260.0,1706,2142,57,0.324,30s,Medium
+3078,721104708,Attrited Customer,41,F,3,Post-Graduate,Single,Less than $40K,Blue,36,1,3,1,2067.0,1966,3033,41,0.951,40s,High
+3079,717461283,Attrited Customer,38,F,2,Graduate,Single,Unknown,Blue,24,3,2,3,2214.0,570,2066,45,0.257,30s,Low
+3080,803028858,Attrited Customer,38,F,2,Graduate,Single,Less than $40K,Blue,32,2,3,3,3775.0,0,2031,36,0.0,30s,Low
+3091,712751133,Attrited Customer,42,M,3,Doctorate,Single,$60K - $80K,Blue,35,3,3,3,11328.0,1369,1829,42,0.121,40s,Low
+3095,708170508,Attrited Customer,38,M,2,Graduate,Married,$60K - $80K,Blue,36,2,3,2,1438.3,0,1651,42,0.0,30s,Low
+3102,719770158,Attrited Customer,54,F,3,Post-Graduate,Single,Less than $40K,Blue,49,1,4,3,8516.0,0,2189,37,0.0,50s,Low
+3110,716271183,Attrited Customer,45,F,2,Uneducated,Single,Less than $40K,Blue,37,3,2,2,8924.0,0,1720,42,0.0,40s,Low
+3121,721308033,Attrited Customer,45,F,2,Post-Graduate,Single,Less than $40K,Blue,37,3,3,1,3036.0,2517,2609,42,0.829,40s,High
+3144,771424908,Attrited Customer,38,M,2,Unknown,Unknown,$60K - $80K,Blue,26,2,2,3,11252.0,1129,1766,31,0.1,30s,Low
+3146,711012783,Attrited Customer,43,M,4,Graduate,Single,$120K +,Blue,36,1,3,4,33384.0,0,2066,46,0.0,40s,Low
+3152,819714408,Attrited Customer,44,F,2,Graduate,Married,Unknown,Blue,39,6,3,3,5666.0,2386,1981,42,0.421,40s,Medium
+3166,712235433,Attrited Customer,43,F,1,Graduate,Single,Less than $40K,Blue,36,2,3,2,2886.0,0,2326,50,0.0,40s,Low
+3168,714377058,Attrited Customer,63,F,1,Unknown,Single,Less than $40K,Blue,36,3,3,4,1896.0,0,2186,50,0.0,60s,Low
+3170,708654933,Attrited Customer,51,F,2,Doctorate,Married,Less than $40K,Platinum,42,3,2,3,15987.0,193,2021,46,0.012,50s,Low
+3171,720283758,Attrited Customer,44,F,2,Uneducated,Married,Unknown,Blue,36,1,3,3,13735.0,1733,1783,43,0.126,40s,Low
+3176,718735908,Attrited Customer,47,M,4,Graduate,Single,$120K +,Blue,35,3,4,3,7015.0,0,1799,51,0.0,40s,Low
+3178,804833058,Attrited Customer,49,M,3,Unknown,Single,$80K - $120K,Blue,44,1,3,4,4384.0,0,1832,49,0.0,40s,Low
+3180,713639058,Attrited Customer,49,M,3,High School,Married,$60K - $80K,Blue,34,6,3,3,1511.0,0,1329,35,0.0,40s,Low
+3181,709560258,Attrited Customer,49,F,3,Graduate,Single,Unknown,Blue,31,2,3,4,4946.0,0,2239,38,0.0,40s,Low
+3183,720362058,Attrited Customer,57,M,2,Uneducated,Single,$60K - $80K,Silver,49,4,3,3,32182.0,0,1937,46,0.0,50s,Low
+3190,719602908,Attrited Customer,42,F,2,Post-Graduate,Single,$40K - $60K,Blue,34,3,3,3,5667.0,812,2064,42,0.143,40s,Low
+3205,709713033,Attrited Customer,55,M,1,College,Single,$80K - $120K,Blue,48,3,3,3,6846.0,0,1735,35,0.0,50s,Low
+3207,708633783,Attrited Customer,43,M,3,Uneducated,Single,$80K - $120K,Blue,30,3,2,4,11336.0,0,1809,39,0.0,40s,Low
+3209,720950283,Attrited Customer,47,M,3,High School,Married,$80K - $120K,Blue,34,3,3,3,21359.0,0,2064,63,0.0,40s,Low
+3226,715016508,Attrited Customer,42,F,3,High School,Married,$40K - $60K,Blue,36,1,3,4,4527.0,0,2441,37,0.0,40s,Low
+3253,781306758,Attrited Customer,58,M,2,Uneducated,Single,$80K - $120K,Blue,52,1,2,4,3091.0,2517,1844,49,0.814,50s,High
+3255,712294083,Attrited Customer,54,F,2,High School,Single,Unknown,Blue,44,4,3,4,3778.0,0,2367,45,0.0,50s,Low
+3257,711334983,Attrited Customer,41,F,3,High School,Married,Unknown,Blue,32,1,2,4,26229.0,0,2077,46,0.0,40s,Low
+3268,716434533,Attrited Customer,40,M,3,High School,Married,$80K - $120K,Blue,36,2,3,4,29149.0,0,2106,56,0.0,40s,Low
+3269,828215508,Attrited Customer,55,F,2,Graduate,Unknown,Less than $40K,Blue,50,4,4,3,1438.3,0,1785,33,0.0,50s,Low
+3273,712812408,Attrited Customer,40,F,3,Unknown,Married,Less than $40K,Blue,28,2,3,3,1535.0,0,1921,41,0.0,40s,Low
+3279,713585958,Attrited Customer,48,F,4,College,Married,Less than $40K,Blue,36,2,3,2,5997.0,0,1457,42,0.0,40s,Low
+3286,710493558,Attrited Customer,46,F,1,Post-Graduate,Married,$40K - $60K,Blue,38,3,2,2,1803.0,0,1979,37,0.0,40s,Low
+3297,773667708,Attrited Customer,50,M,1,Graduate,Divorced,$60K - $80K,Blue,44,3,4,3,7050.0,1008,2176,39,0.143,50s,Low
+3309,806947308,Attrited Customer,40,M,4,Post-Graduate,Married,$60K - $80K,Blue,35,3,4,3,20178.0,1553,1735,44,0.077,40s,Low
+3311,708386958,Attrited Customer,47,F,3,Unknown,Married,Less than $40K,Blue,34,3,3,2,1561.0,0,1947,28,0.0,40s,Low
+3313,718220358,Attrited Customer,58,M,1,Graduate,Single,$120K +,Blue,36,2,3,4,28618.0,0,1712,41,0.0,50s,Low
+3315,712656783,Attrited Customer,49,M,1,Graduate,Single,$120K +,Blue,36,3,4,3,8136.0,2517,2179,40,0.309,40s,Medium
+3318,738899658,Attrited Customer,45,F,2,Graduate,Single,Unknown,Blue,38,6,2,3,3120.0,2517,2468,43,0.807,40s,High
+3322,714727833,Attrited Customer,41,F,2,Uneducated,Single,Less than $40K,Blue,36,2,2,3,2892.0,2517,2257,48,0.87,40s,High
+3343,815353083,Attrited Customer,44,M,1,College,Divorced,$80K - $120K,Silver,39,2,3,2,34516.0,2361,1853,36,0.068,40s,Low
+3347,712050933,Attrited Customer,48,M,4,College,Married,$80K - $120K,Blue,32,5,2,3,25190.0,0,1533,41,0.0,40s,Low
+3351,717592758,Attrited Customer,44,F,3,Unknown,Single,Less than $40K,Blue,36,3,2,2,1606.0,1578,2418,44,0.983,40s,High
+3358,708687483,Attrited Customer,54,F,4,Graduate,Single,Less than $40K,Silver,36,3,2,3,13626.0,0,1711,30,0.0,50s,Low
+3370,768256908,Attrited Customer,45,M,3,Uneducated,Married,Less than $40K,Blue,39,3,3,4,8580.0,1636,1880,37,0.191,40s,Low
+3373,721451208,Attrited Customer,54,M,2,Graduate,Single,$60K - $80K,Silver,45,2,3,2,30540.0,0,1980,36,0.0,50s,Low
+3378,714751158,Attrited Customer,49,M,2,High School,Divorced,$80K - $120K,Blue,36,4,2,4,34516.0,2517,1789,48,0.073,40s,Low
+3380,718342158,Attrited Customer,38,F,4,Graduate,Single,Less than $40K,Blue,26,2,2,2,4391.0,1933,1849,36,0.44,30s,Medium
+3383,716654808,Attrited Customer,48,M,4,High School,Single,$120K +,Blue,39,3,4,4,24593.0,0,2084,31,0.0,40s,Low
+3385,716390958,Attrited Customer,45,M,4,Unknown,Married,$120K +,Blue,31,1,4,3,26107.0,0,1697,47,0.0,40s,Low
+3386,716564433,Attrited Customer,53,F,1,Graduate,Single,Less than $40K,Blue,36,3,2,4,4287.0,0,1635,41,0.0,50s,Low
+3393,716022258,Attrited Customer,51,F,3,College,Single,Less than $40K,Blue,36,3,3,3,8960.0,2222,1853,40,0.248,50s,Low
+3397,778433283,Attrited Customer,51,M,3,High School,Married,$60K - $80K,Blue,31,3,3,3,8989.0,0,2031,53,0.0,50s,Low
+3409,778617708,Attrited Customer,46,M,3,College,Married,$80K - $120K,Blue,26,6,2,3,1438.3,864,2299,40,0.601,40s,Medium
+3412,772574283,Attrited Customer,50,F,2,Graduate,Married,$40K - $60K,Blue,40,3,1,4,7191.0,0,1654,30,0.0,50s,Low
+3425,709709283,Attrited Customer,38,M,3,College,Single,$40K - $60K,Blue,19,1,2,4,3458.0,321,2256,40,0.093,30s,Low
+3427,780105483,Attrited Customer,65,F,0,Uneducated,Single,Less than $40K,Blue,50,3,4,4,1697.0,377,2799,49,0.222,60s,Low
+3429,715294083,Attrited Customer,46,M,2,College,Single,$80K - $120K,Blue,38,2,3,2,10309.0,0,1760,40,0.0,40s,Low
+3444,716711433,Attrited Customer,48,M,5,High School,Married,$40K - $60K,Blue,39,3,3,1,7897.0,157,2270,46,0.02,40s,Low
+3456,711588708,Attrited Customer,50,F,2,Uneducated,Married,$40K - $60K,Blue,36,1,3,1,1438.3,458,1863,42,0.318,50s,Medium
+3457,714492783,Attrited Customer,46,F,4,Uneducated,Married,Less than $40K,Blue,36,3,3,3,1438.3,0,1517,38,0.0,40s,Low
+3458,709192233,Attrited Customer,50,F,2,Unknown,Married,Unknown,Blue,39,3,2,1,1773.0,0,1764,30,0.0,50s,Low
+3472,718791708,Attrited Customer,48,M,2,High School,Married,$80K - $120K,Blue,32,1,2,4,16362.0,2268,2228,37,0.139,40s,Low
+3480,772695033,Attrited Customer,47,M,5,High School,Single,$80K - $120K,Blue,37,3,4,4,18800.0,2517,1575,23,0.134,40s,Low
+3482,708831858,Attrited Customer,43,F,3,Uneducated,Married,Less than $40K,Blue,30,1,3,4,4579.0,1506,1915,44,0.329,40s,Medium
+3485,780006783,Attrited Customer,59,M,1,Uneducated,Single,$40K - $60K,Silver,49,3,2,2,15809.0,0,3109,48,0.0,50s,Low
+3488,771342183,Attrited Customer,53,F,3,Graduate,Single,$40K - $60K,Blue,40,6,3,2,1625.0,0,2314,43,0.0,50s,Low
+3489,712901283,Attrited Customer,53,F,2,Graduate,Single,$40K - $60K,Blue,36,2,3,2,2121.0,0,1464,32,0.0,50s,Low
+3491,718473558,Attrited Customer,42,F,3,Doctorate,Single,Less than $40K,Blue,18,5,3,4,8668.0,0,1402,38,0.0,40s,Low
+3498,709708233,Attrited Customer,49,F,3,Doctorate,Married,Less than $40K,Blue,29,3,4,2,7066.0,0,1695,38,0.0,40s,Low
+3501,709178733,Attrited Customer,50,F,2,Post-Graduate,Married,$40K - $60K,Blue,36,3,2,3,5527.0,1120,2281,37,0.203,50s,Low
+3514,713253858,Attrited Customer,50,F,1,College,Married,Unknown,Blue,37,2,2,3,1461.0,0,2176,40,0.0,50s,Low
+3521,803796708,Attrited Customer,52,M,3,Uneducated,Unknown,$120K +,Blue,46,2,4,4,13354.0,0,1097,28,0.0,50s,Low
+3522,717368208,Attrited Customer,49,M,1,Graduate,Single,$120K +,Blue,36,6,2,4,26723.0,0,2138,43,0.0,40s,Low
+3527,715409733,Attrited Customer,47,F,4,College,Single,Less than $40K,Blue,36,2,2,3,2263.0,0,2385,33,0.0,40s,Low
+3529,715732533,Attrited Customer,52,M,4,Graduate,Married,$60K - $80K,Blue,36,4,1,3,9375.0,1625,2108,51,0.173,50s,Low
+3530,713722608,Attrited Customer,48,F,2,Unknown,Divorced,Less than $40K,Blue,35,3,1,4,2806.0,2514,1757,35,0.896,40s,High
+3531,709101258,Attrited Customer,41,F,2,High School,Divorced,Less than $40K,Blue,28,4,2,2,1478.0,524,2180,46,0.355,40s,Medium
+3533,721427358,Attrited Customer,47,M,4,Unknown,Divorced,$80K - $120K,Blue,28,6,1,3,8757.0,0,2108,47,0.0,40s,Low
+3537,709338633,Attrited Customer,56,F,1,Graduate,Single,$40K - $60K,Blue,37,2,4,3,2339.0,0,1542,45,0.0,50s,Low
+3541,711245433,Attrited Customer,50,F,4,Graduate,Single,Unknown,Blue,41,5,3,3,2509.0,0,2281,41,0.0,50s,Low
+3550,717195933,Attrited Customer,42,M,3,Graduate,Married,$60K - $80K,Blue,30,2,2,3,5298.0,0,2431,37,0.0,40s,Low
+3563,789382758,Attrited Customer,54,M,3,Graduate,Single,$40K - $60K,Blue,44,6,3,3,5501.0,0,2050,51,0.0,50s,Low
+3567,721437333,Attrited Customer,46,M,2,Graduate,Single,$80K - $120K,Blue,36,2,2,2,5054.0,2517,2027,39,0.498,40s,Medium
+3575,711626658,Attrited Customer,62,F,1,High School,Single,Less than $40K,Blue,36,2,3,4,1930.0,0,1971,45,0.0,60s,Low
+3576,717793983,Attrited Customer,55,M,3,Graduate,Single,$40K - $60K,Silver,45,2,3,1,18128.0,0,2503,49,0.0,50s,Low
+3581,714119283,Attrited Customer,42,F,2,Unknown,Single,$40K - $60K,Blue,34,3,3,3,2516.0,0,2257,51,0.0,40s,Low
+3588,799239033,Attrited Customer,53,F,3,High School,Single,$40K - $60K,Blue,47,1,3,4,1714.0,0,2279,46,0.0,50s,Low
+3593,814483608,Attrited Customer,47,F,4,Graduate,Divorced,Less than $40K,Blue,42,1,3,3,5798.0,2517,1860,43,0.434,40s,Medium
+3596,715514133,Attrited Customer,44,F,4,Graduate,Married,Less than $40K,Blue,31,3,3,4,2184.0,0,1973,42,0.0,40s,Low
+3598,794707083,Attrited Customer,50,M,2,College,Single,$80K - $120K,Blue,44,5,2,4,3495.0,0,2131,41,0.0,50s,Low
+3599,805313808,Attrited Customer,52,F,3,High School,Married,$40K - $60K,Blue,47,2,2,3,8018.0,134,2409,38,0.017,50s,Low
+3600,772922883,Attrited Customer,41,M,3,Unknown,Married,$80K - $120K,Blue,22,3,3,4,20543.0,0,1874,42,0.0,40s,Low
+3607,713333433,Attrited Customer,49,M,3,Uneducated,Unknown,$60K - $80K,Blue,41,3,4,4,18075.0,0,1477,30,0.0,40s,Low
+3611,787921383,Attrited Customer,53,M,0,High School,Single,$120K +,Silver,44,2,4,4,34516.0,2297,1461,43,0.067,50s,Low
+3652,715664808,Attrited Customer,43,M,2,Graduate,Single,$80K - $120K,Blue,30,3,3,3,34516.0,0,2427,51,0.0,40s,Low
+3655,710533233,Attrited Customer,38,F,1,Graduate,Married,Less than $40K,Blue,29,3,3,4,1438.3,0,2139,47,0.0,30s,Low
+3657,720197058,Attrited Customer,47,F,3,Graduate,Unknown,Unknown,Blue,33,1,3,4,3443.0,0,2505,45,0.0,40s,Low
+3658,716317458,Attrited Customer,51,F,2,Post-Graduate,Single,Less than $40K,Blue,36,3,3,3,4281.0,0,1723,44,0.0,50s,Low
+3671,717035283,Attrited Customer,46,M,1,Graduate,Single,$60K - $80K,Blue,37,2,3,4,2445.0,848,2216,39,0.347,40s,Medium
+3677,803113383,Attrited Customer,55,F,1,Uneducated,Single,Less than $40K,Blue,49,3,4,3,3292.0,0,2222,54,0.0,50s,Low
+3678,721273008,Attrited Customer,54,F,1,College,Unknown,Less than $40K,Silver,43,6,3,4,10797.0,1252,1739,38,0.116,50s,Low
+3683,820282383,Attrited Customer,45,F,2,Graduate,Married,Less than $40K,Blue,40,6,3,3,5848.0,2517,2000,32,0.43,40s,Medium
+3693,712693908,Attrited Customer,43,M,3,Graduate,Married,$120K +,Blue,31,2,4,1,13883.0,783,1871,32,0.056,40s,Low
+3698,708642708,Attrited Customer,40,F,2,Uneducated,Married,Unknown,Blue,36,3,2,3,13019.0,0,1484,33,0.0,40s,Low
+3699,811475733,Attrited Customer,53,F,1,College,Married,$40K - $60K,Blue,48,2,2,3,3339.0,0,2432,48,0.0,50s,Low
+3712,780067158,Attrited Customer,51,F,2,Uneducated,Single,Less than $40K,Blue,36,2,3,3,1746.0,1107,1907,47,0.634,50s,Medium
+3716,809599158,Attrited Customer,48,M,4,Uneducated,Single,$80K - $120K,Silver,43,2,3,4,34516.0,0,1626,28,0.0,40s,Low
+3723,709798908,Attrited Customer,45,F,4,Unknown,Single,Less than $40K,Blue,32,3,3,4,2858.0,0,2611,43,0.0,40s,Low
+3726,708084558,Attrited Customer,46,M,3,Doctorate,Divorced,$80K - $120K,Blue,38,6,3,3,8258.0,1771,1447,23,0.214,40s,Low
+3729,718711158,Attrited Customer,52,M,3,Graduate,Married,$120K +,Blue,36,1,2,3,3841.0,2517,2680,51,0.655,50s,Medium
+3733,709143183,Attrited Customer,52,F,2,Doctorate,Married,$40K - $60K,Blue,43,3,2,4,1822.0,1605,2538,39,0.881,50s,High
+3738,821759658,Attrited Customer,41,F,4,High School,Divorced,$40K - $60K,Blue,37,3,2,3,4650.0,204,2014,54,0.044,40s,Low
+3744,712783083,Attrited Customer,48,F,4,High School,Married,Less than $40K,Blue,37,1,2,3,3607.0,0,2013,35,0.0,40s,Low
+3746,821749608,Attrited Customer,41,M,3,Graduate,Single,$80K - $120K,Blue,37,3,3,3,19402.0,0,1937,51,0.0,40s,Low
+3749,826261008,Attrited Customer,48,F,3,Graduate,Unknown,Less than $40K,Blue,44,3,3,2,1438.3,0,2054,46,0.0,40s,Low
+3751,709444983,Attrited Customer,38,F,3,Uneducated,Single,$40K - $60K,Blue,30,3,2,3,2435.0,2432,1460,32,0.999,30s,High
+3753,769575783,Attrited Customer,49,F,3,College,Married,Less than $40K,Blue,41,3,3,3,1603.0,749,2644,43,0.467,40s,Medium
+3755,709563258,Attrited Customer,50,F,2,Uneducated,Single,Unknown,Blue,41,2,3,2,2751.0,2253,2108,40,0.819,50s,High
+3772,708916083,Attrited Customer,49,F,0,Doctorate,Unknown,Less than $40K,Blue,37,5,2,3,1749.0,0,2510,38,0.0,40s,Low
+3778,778364583,Attrited Customer,45,F,2,Graduate,Married,Less than $40K,Blue,25,3,2,3,5911.0,916,1656,31,0.155,40s,Low
+3785,717308433,Attrited Customer,49,M,5,Uneducated,Unknown,$60K - $80K,Blue,43,3,3,3,1960.0,0,2253,39,0.0,40s,Low
+3788,713796033,Attrited Customer,47,M,2,Graduate,Married,$40K - $60K,Blue,42,6,3,3,4738.0,0,1900,36,0.0,40s,Low
+3789,710812533,Attrited Customer,46,F,3,High School,Single,Unknown,Silver,36,4,2,3,34516.0,154,1987,46,0.004,40s,Low
+3791,714864333,Attrited Customer,43,M,2,College,Divorced,$120K +,Blue,37,4,1,2,34516.0,0,1370,38,0.0,40s,Low
+3795,720810783,Attrited Customer,54,F,2,Graduate,Married,Unknown,Blue,44,2,3,3,3781.0,1692,2310,43,0.448,50s,Medium
+3797,715987758,Attrited Customer,49,M,3,Graduate,Single,$80K - $120K,Blue,36,3,2,1,3261.0,0,3081,50,0.0,40s,Low
+3806,713388108,Attrited Customer,62,F,0,High School,Unknown,Less than $40K,Blue,51,4,2,3,5210.0,0,2162,36,0.0,60s,Low
+3809,719917233,Attrited Customer,49,M,3,Post-Graduate,Married,$80K - $120K,Blue,36,3,3,2,13382.0,1159,1828,45,0.087,40s,Low
+3811,721365033,Attrited Customer,37,M,3,Uneducated,Single,$40K - $60K,Blue,36,3,2,4,1696.0,0,2095,43,0.0,30s,Low
+3819,810974958,Attrited Customer,51,M,2,High School,Married,$60K - $80K,Blue,46,5,3,2,4123.0,1760,2447,40,0.427,50s,Medium
+3820,712267983,Attrited Customer,57,F,0,Graduate,Single,Less than $40K,Blue,45,4,3,3,3023.0,2517,2477,42,0.833,50s,High
+3822,718250883,Attrited Customer,59,F,2,High School,Married,Unknown,Blue,51,3,3,3,3875.0,1397,2312,49,0.361,50s,Medium
+3824,802243458,Attrited Customer,48,M,2,Doctorate,Single,$40K - $60K,Blue,42,6,3,2,2760.0,0,1759,34,0.0,40s,Low
+3832,720330558,Attrited Customer,44,M,3,Graduate,Married,$80K - $120K,Blue,25,5,2,3,25256.0,966,2048,40,0.038,40s,Low
+3833,720784833,Attrited Customer,48,F,3,Graduate,Single,Unknown,Blue,36,3,3,1,1630.0,1243,1884,43,0.763,40s,High
+3836,721448283,Attrited Customer,39,F,1,Graduate,Single,Less than $40K,Blue,26,3,3,1,1876.0,1536,2579,47,0.819,30s,High
+3837,710552733,Attrited Customer,42,M,5,Unknown,Married,$60K - $80K,Blue,36,2,3,2,4963.0,0,2335,40,0.0,40s,Low
+3856,714384783,Attrited Customer,59,F,1,Graduate,Married,Less than $40K,Blue,36,2,3,3,2468.0,0,2017,37,0.0,50s,Low
+3857,713847858,Attrited Customer,49,F,3,Graduate,Divorced,Less than $40K,Blue,36,3,3,3,1438.3,0,1849,43,0.0,40s,Low
+3861,810875958,Attrited Customer,51,F,3,Graduate,Married,Less than $40K,Blue,46,1,4,3,2016.0,395,2473,44,0.196,50s,Low
+3862,718766058,Attrited Customer,56,M,2,Graduate,Single,$80K - $120K,Blue,36,1,2,2,1438.3,0,2123,37,0.0,50s,Low
+3869,709309308,Attrited Customer,50,M,3,College,Unknown,$80K - $120K,Blue,37,1,3,2,27186.0,0,1704,34,0.0,50s,Low
+3872,711721458,Attrited Customer,50,F,2,Graduate,Unknown,Less than $40K,Blue,36,5,2,2,1438.3,0,2329,43,0.0,50s,Low
+3873,708798483,Attrited Customer,37,F,3,Unknown,Single,Unknown,Blue,24,2,3,2,2054.0,0,2567,43,0.0,30s,Low
+3874,708501783,Attrited Customer,43,M,2,High School,Married,$120K +,Blue,36,6,2,4,34516.0,1477,1868,40,0.043,40s,Low
+3882,803800533,Attrited Customer,39,M,1,Unknown,Single,$40K - $60K,Blue,33,3,3,4,2088.0,975,2866,59,0.467,30s,Medium
+3889,718352358,Attrited Customer,49,F,3,Post-Graduate,Married,Less than $40K,Blue,35,3,3,2,1914.0,0,2687,41,0.0,40s,Low
+3892,719894433,Attrited Customer,43,F,4,Unknown,Married,Less than $40K,Blue,24,6,2,3,1679.0,951,2492,43,0.566,40s,Medium
+3899,778720533,Attrited Customer,53,F,4,Graduate,Married,Less than $40K,Blue,37,3,2,3,1722.0,0,2141,35,0.0,50s,Low
+3907,709488108,Attrited Customer,42,M,4,College,Single,$40K - $60K,Blue,36,5,2,3,10543.0,0,1841,39,0.0,40s,Low
+3914,820276908,Attrited Customer,42,F,4,College,Married,$40K - $60K,Blue,37,3,3,1,4139.0,0,2232,41,0.0,40s,Low
+3923,819647358,Attrited Customer,38,M,2,Unknown,Single,$60K - $80K,Blue,33,2,3,2,12871.0,0,2413,53,0.0,30s,Low
+3930,802834158,Attrited Customer,42,M,4,Unknown,Married,$60K - $80K,Blue,36,3,2,2,6743.0,1737,1934,30,0.258,40s,Low
+3931,712038258,Attrited Customer,48,M,4,Unknown,Single,$80K - $120K,Blue,36,3,3,3,32838.0,1717,2538,42,0.052,40s,Low
+3932,712864683,Attrited Customer,42,F,3,Doctorate,Single,Less than $40K,Blue,30,2,3,3,1438.3,0,1693,37,0.0,40s,Low
+3936,713886333,Attrited Customer,47,M,2,High School,Married,$60K - $80K,Blue,39,2,3,1,18660.0,728,1682,43,0.039,40s,Low
+3937,711741708,Attrited Customer,41,M,3,Post-Graduate,Unknown,$80K - $120K,Blue,33,3,2,3,7591.0,0,2302,42,0.0,40s,Low
+3943,778915233,Attrited Customer,51,F,0,Graduate,Married,Less than $40K,Blue,32,4,2,3,1757.0,331,2377,47,0.188,50s,Low
+3948,780146658,Attrited Customer,40,F,2,Post-Graduate,Married,$40K - $60K,Blue,25,2,2,4,3795.0,2517,1633,32,0.663,40s,Medium
+3950,755467683,Attrited Customer,48,F,1,Graduate,Single,Less than $40K,Blue,41,6,2,4,3001.0,482,2403,42,0.161,40s,Low
+3958,708804633,Attrited Customer,44,F,2,Doctorate,Divorced,Less than $40K,Blue,36,1,2,2,1916.0,0,2888,39,0.0,40s,Low
+3959,714479358,Attrited Customer,51,M,3,Graduate,Single,$80K - $120K,Blue,36,6,3,3,3610.0,1554,2216,34,0.43,50s,Medium
+3962,769438608,Attrited Customer,48,F,1,Graduate,Married,Less than $40K,Blue,42,3,3,2,1942.0,860,2522,42,0.443,40s,Medium
+3969,713608383,Attrited Customer,54,F,1,Unknown,Married,Less than $40K,Blue,40,1,1,4,1438.3,0,1632,36,0.0,50s,Low
+3973,720867708,Attrited Customer,45,F,4,Graduate,Unknown,Less than $40K,Blue,33,1,3,2,1748.0,1103,2335,41,0.631,40s,Medium
+3976,721126833,Attrited Customer,51,M,2,High School,Married,$80K - $120K,Blue,41,5,2,3,14902.0,0,2038,39,0.0,50s,Low
+3979,712807758,Attrited Customer,47,F,3,Graduate,Single,Less than $40K,Blue,39,3,3,3,1438.3,0,2476,32,0.0,40s,Low
+3980,824140908,Attrited Customer,52,M,3,Uneducated,Single,$120K +,Blue,48,5,3,4,20974.0,0,1246,27,0.0,50s,Low
+3983,720444408,Attrited Customer,35,F,1,College,Single,Less than $40K,Blue,25,2,2,4,2231.0,1791,2576,42,0.803,30s,High
+3989,789358908,Attrited Customer,53,F,3,College,Married,Less than $40K,Blue,43,3,2,2,3573.0,0,2562,36,0.0,50s,Low
+3995,797491683,Attrited Customer,45,M,5,Unknown,Married,$80K - $120K,Silver,39,2,2,3,34516.0,1964,2234,49,0.057,40s,Low
+4007,709170108,Attrited Customer,60,F,1,Unknown,Single,$40K - $60K,Blue,41,3,2,4,2425.0,0,1522,36,0.0,60s,Low
+4008,716056158,Attrited Customer,63,M,0,Graduate,Single,$60K - $80K,Blue,51,3,3,3,11619.0,0,2395,49,0.0,60s,Low
+4010,715406658,Attrited Customer,47,F,1,Unknown,Single,Less than $40K,Blue,37,4,2,1,2173.0,596,2738,45,0.274,40s,Low
+4012,773228133,Attrited Customer,39,F,2,Graduate,Married,Less than $40K,Blue,29,3,2,2,1677.0,0,2437,41,0.0,30s,Low
+4019,716782758,Attrited Customer,48,M,3,Graduate,Single,$60K - $80K,Blue,42,3,2,4,19075.0,0,2013,32,0.0,40s,Low
+4023,708797583,Attrited Customer,49,F,4,Unknown,Single,Unknown,Blue,31,6,3,3,2672.0,0,2576,39,0.0,40s,Low
+4024,708809283,Attrited Customer,41,F,4,Graduate,Divorced,$40K - $60K,Blue,33,1,3,1,10360.0,2517,2414,28,0.243,40s,Low
+4028,711100608,Attrited Customer,55,M,1,Uneducated,Single,$60K - $80K,Blue,48,5,2,2,1723.0,0,2574,43,0.0,50s,Low
+4035,768624258,Attrited Customer,55,F,2,Graduate,Single,Less than $40K,Blue,49,2,1,2,1583.0,234,2541,36,0.148,50s,Low
+4044,719174433,Attrited Customer,36,F,1,Unknown,Single,Less than $40K,Blue,24,2,1,2,1735.0,0,2467,35,0.0,30s,Low
+4052,714346608,Attrited Customer,51,F,2,Graduate,Single,$40K - $60K,Blue,36,3,1,4,1495.0,0,2220,50,0.0,50s,Low
+4057,798481383,Attrited Customer,40,F,3,Uneducated,Married,Less than $40K,Blue,34,5,1,2,2694.0,0,2684,38,0.0,40s,Low
+4060,823904133,Attrited Customer,53,F,2,College,Single,Unknown,Blue,49,2,2,4,10195.0,0,2489,54,0.0,50s,Low
+4064,711646908,Attrited Customer,39,M,3,Unknown,Single,$60K - $80K,Blue,23,1,2,3,7821.0,2517,2010,43,0.322,30s,Medium
+4065,718171308,Attrited Customer,44,F,3,Graduate,Married,Less than $40K,Blue,36,6,3,4,1984.0,0,2506,46,0.0,40s,Low
+4069,770024733,Attrited Customer,53,F,2,Uneducated,Single,$40K - $60K,Blue,47,1,2,3,1699.0,0,2520,49,0.0,50s,Low
+4072,708702258,Attrited Customer,40,F,3,Uneducated,Single,Unknown,Blue,36,3,2,2,3698.0,478,2051,31,0.129,40s,Low
+4077,720519333,Attrited Customer,59,F,2,Unknown,Single,Unknown,Blue,45,1,3,3,2721.0,1885,2594,48,0.693,50s,Medium
+4081,717001908,Attrited Customer,41,F,5,Graduate,Married,Less than $40K,Blue,28,6,2,2,6936.0,0,2874,44,0.0,40s,Low
+4087,719564208,Attrited Customer,46,F,1,Uneducated,Single,$40K - $60K,Blue,30,3,2,1,7195.0,0,2751,47,0.0,40s,Low
+4090,713229633,Attrited Customer,45,F,0,Unknown,Married,$40K - $60K,Blue,30,3,2,4,2759.0,0,2061,47,0.0,40s,Low
+4096,798041508,Attrited Customer,50,F,4,Graduate,Single,Less than $40K,Blue,44,2,3,2,3201.0,2517,1880,42,0.786,50s,High
+4103,715014633,Attrited Customer,32,F,0,Uneducated,Married,Unknown,Blue,36,6,3,2,8791.0,0,2579,51,0.0,30s,Low
+4104,714372333,Attrited Customer,59,F,0,Doctorate,Married,Less than $40K,Blue,52,6,4,2,2302.0,0,2256,40,0.0,50s,Low
+4108,779320008,Attrited Customer,43,M,3,College,Married,$80K - $120K,Blue,25,3,3,3,2900.0,2517,2180,31,0.868,40s,High
+4114,713153733,Attrited Customer,49,F,2,Graduate,Unknown,Less than $40K,Blue,29,6,3,3,2520.0,1473,2061,36,0.585,40s,Medium
+4115,780201633,Attrited Customer,41,F,3,Graduate,Single,$40K - $60K,Blue,31,4,3,2,5655.0,1154,2189,51,0.204,40s,Low
+4119,788095158,Attrited Customer,52,M,3,Uneducated,Married,$80K - $120K,Blue,44,3,3,3,11606.0,0,2623,39,0.0,50s,Low
+4126,716855058,Attrited Customer,49,F,4,Graduate,Married,Less than $40K,Blue,38,5,2,4,1757.0,0,2557,45,0.0,40s,Low
+4129,709500183,Attrited Customer,46,F,3,College,Married,Less than $40K,Blue,36,2,3,4,1804.0,0,2077,44,0.0,40s,Low
+4132,715445058,Attrited Customer,49,F,0,Doctorate,Married,Less than $40K,Blue,40,3,4,4,3547.0,2517,2715,45,0.71,40s,High
+4135,718524783,Attrited Customer,40,M,3,High School,Unknown,$80K - $120K,Blue,34,1,3,4,29715.0,0,2128,39,0.0,40s,Low
+4141,708117933,Attrited Customer,44,F,2,Graduate,Divorced,Less than $40K,Blue,36,3,2,3,1880.0,0,2469,34,0.0,40s,Low
+4147,712777233,Attrited Customer,65,M,0,Graduate,Single,Unknown,Blue,48,1,4,3,1671.0,0,2701,51,0.0,60s,Low
+4148,712706058,Attrited Customer,44,F,5,Graduate,Single,Less than $40K,Blue,37,1,2,4,1491.0,0,1970,46,0.0,40s,Low
+4155,711871758,Attrited Customer,30,F,1,Graduate,Married,Less than $40K,Blue,36,2,2,3,2905.0,2517,2487,39,0.866,30s,High
+4157,719519058,Attrited Customer,55,F,4,High School,Married,Less than $40K,Blue,36,4,2,3,1477.0,0,2419,49,0.0,50s,Low
+4158,716873733,Attrited Customer,43,F,4,Post-Graduate,Divorced,Less than $40K,Blue,30,4,3,3,3556.0,2517,2639,53,0.708,40s,High
+4171,720206658,Attrited Customer,40,F,3,Graduate,Married,Less than $40K,Blue,29,6,2,4,1479.0,458,1811,44,0.31,40s,Medium
+4172,713857758,Attrited Customer,53,F,1,Graduate,Married,Unknown,Blue,36,6,3,1,5842.0,198,1828,44,0.034,50s,Low
+4174,710674533,Attrited Customer,46,M,1,Uneducated,Married,$60K - $80K,Blue,34,3,3,4,15060.0,0,1611,42,0.0,40s,Low
+4178,717448383,Attrited Customer,41,M,4,Unknown,Single,$80K - $120K,Blue,28,1,2,4,4428.0,0,2331,36,0.0,40s,Low
+4181,716307558,Attrited Customer,50,F,3,High School,Married,Less than $40K,Blue,40,6,2,4,2897.0,1506,2214,46,0.52,50s,Medium
+4189,781320783,Attrited Customer,47,M,2,Graduate,Divorced,$80K - $120K,Blue,41,3,2,3,4586.0,0,2529,43,0.0,40s,Low
+4193,714100008,Attrited Customer,47,F,2,College,Married,Less than $40K,Blue,36,6,2,3,5667.0,2517,2176,38,0.444,40s,Medium
+4195,708223383,Attrited Customer,47,F,3,High School,Married,Unknown,Blue,39,6,3,4,11410.0,979,2736,38,0.086,40s,Low
+4196,708705783,Attrited Customer,47,M,3,Doctorate,Married,$60K - $80K,Blue,36,6,3,1,1584.0,1214,2628,41,0.766,40s,High
+4198,709017258,Attrited Customer,51,F,2,Unknown,Married,Less than $40K,Blue,36,1,2,2,2114.0,0,2872,45,0.0,50s,Low
+4199,709161108,Attrited Customer,44,M,1,Unknown,Single,$60K - $80K,Blue,33,3,2,4,2540.0,0,1531,31,0.0,40s,Low
+4203,714089658,Attrited Customer,41,M,2,Graduate,Single,$60K - $80K,Blue,36,3,2,1,2238.0,0,2063,42,0.0,40s,Low
+4204,718863258,Attrited Customer,54,F,2,Doctorate,Married,Less than $40K,Blue,41,2,2,3,3881.0,2517,2463,38,0.649,50s,Medium
+4212,713283933,Attrited Customer,42,M,2,Uneducated,Married,$40K - $60K,Blue,30,1,3,3,3032.0,0,2273,44,0.0,40s,Low
+4221,712292133,Attrited Customer,45,F,3,College,Married,Less than $40K,Blue,36,4,2,4,2330.0,2294,2107,40,0.985,40s,High
+4225,712229283,Attrited Customer,48,F,4,Doctorate,Unknown,Unknown,Blue,24,4,2,3,1438.3,0,2306,46,0.0,40s,Low
+4228,794273283,Attrited Customer,51,M,3,Uneducated,Single,$80K - $120K,Blue,45,3,3,3,25670.0,0,2709,51,0.0,50s,Low
+4229,788838033,Attrited Customer,45,M,2,College,Single,$60K - $80K,Blue,29,3,2,4,3841.0,0,2832,48,0.0,40s,Low
+4234,789013833,Attrited Customer,50,M,2,High School,Married,$120K +,Silver,37,5,2,1,34516.0,399,2118,41,0.012,50s,Low
+4241,714084483,Attrited Customer,49,F,3,Uneducated,Single,Unknown,Blue,36,4,2,3,3855.0,211,1724,34,0.055,40s,Low
+4242,719495958,Attrited Customer,42,F,1,Unknown,Married,Less than $40K,Blue,36,3,3,4,2983.0,0,2509,46,0.0,40s,Low
+4244,714726858,Attrited Customer,31,F,0,Post-Graduate,Divorced,Less than $40K,Blue,36,6,3,3,4871.0,0,2773,34,0.0,30s,Low
+4247,717172308,Attrited Customer,45,F,3,High School,Married,$40K - $60K,Blue,37,4,2,4,3304.0,0,1731,32,0.0,40s,Low
+4248,771795933,Attrited Customer,49,M,4,Unknown,Single,$120K +,Blue,38,3,3,4,34516.0,2517,2376,55,0.073,40s,Low
+4260,711819708,Attrited Customer,33,F,3,Post-Graduate,Unknown,Unknown,Blue,25,3,2,4,4734.0,2517,2275,55,0.532,30s,Medium
+4261,713041683,Attrited Customer,55,M,2,Graduate,Married,$120K +,Blue,36,3,2,4,4697.0,0,1867,34,0.0,50s,Low
+4265,709663608,Attrited Customer,43,F,1,Graduate,Married,Less than $40K,Blue,36,4,2,4,1536.0,0,1973,36,0.0,40s,Low
+4273,812411058,Attrited Customer,49,F,0,Uneducated,Single,Less than $40K,Blue,44,3,3,2,2094.0,0,2690,46,0.0,40s,Low
+4275,778397358,Attrited Customer,42,M,5,Unknown,Married,$60K - $80K,Blue,22,6,2,4,5096.0,0,2574,43,0.0,40s,Low
+4281,715609533,Attrited Customer,47,F,3,Unknown,Single,Less than $40K,Blue,35,1,3,3,5398.0,0,1887,36,0.0,40s,Low
+4291,716922633,Attrited Customer,38,M,2,Uneducated,Single,$120K +,Blue,30,6,3,4,4043.0,2517,2600,47,0.623,30s,Medium
+4292,710211783,Attrited Customer,38,F,4,Unknown,Married,Less than $40K,Blue,26,3,2,2,1438.3,0,2264,39,0.0,30s,Low
+4299,780496833,Attrited Customer,56,F,1,College,Single,Less than $40K,Blue,43,3,2,2,2846.0,0,2122,44,0.0,50s,Low
+4301,789081408,Attrited Customer,44,F,4,Uneducated,Single,Less than $40K,Blue,32,6,3,4,1438.3,170,2527,45,0.118,40s,Low
+4302,720634683,Attrited Customer,48,F,2,College,Married,Unknown,Blue,37,5,2,4,2220.0,0,2456,45,0.0,40s,Low
+4312,710289783,Attrited Customer,43,F,2,Uneducated,Divorced,Less than $40K,Blue,25,5,2,4,2086.0,2007,2537,48,0.962,40s,High
+4318,823615983,Attrited Customer,54,M,2,Uneducated,Single,$40K - $60K,Blue,50,2,1,3,3682.0,2517,1642,35,0.684,50s,Medium
+4319,709987683,Attrited Customer,46,F,4,Graduate,Married,Unknown,Blue,36,4,3,4,2286.0,0,2798,40,0.0,40s,Low
+4324,713370033,Attrited Customer,53,F,0,Graduate,Single,Less than $40K,Blue,40,4,1,4,1438.3,0,2014,53,0.0,50s,Low
+4332,713949858,Attrited Customer,39,F,2,Doctorate,Married,Less than $40K,Blue,36,4,3,4,1438.3,886,1674,42,0.616,30s,Medium
+4335,719751483,Attrited Customer,39,F,2,Uneducated,Single,Less than $40K,Blue,36,4,3,1,1438.3,576,2567,48,0.4,30s,Medium
+4337,779681433,Attrited Customer,48,F,3,Graduate,Married,$40K - $60K,Blue,31,6,3,4,14899.0,0,1519,26,0.0,40s,Low
+4359,778601733,Attrited Customer,55,F,3,High School,Single,$40K - $60K,Blue,47,5,4,3,2687.0,1689,2370,34,0.629,50s,Medium
+4361,720044658,Attrited Customer,53,M,1,Post-Graduate,Single,$60K - $80K,Blue,46,6,2,4,4573.0,2076,2720,46,0.454,50s,Medium
+4362,716373483,Attrited Customer,48,F,5,Graduate,Married,Less than $40K,Blue,40,4,3,2,2860.0,2517,1544,45,0.88,40s,High
+4365,716600733,Attrited Customer,47,F,4,Unknown,Married,Less than $40K,Blue,36,3,3,3,2033.0,228,2572,43,0.112,40s,Low
+4370,710411358,Attrited Customer,39,F,4,College,Married,$40K - $60K,Blue,28,4,2,4,7596.0,2199,2164,45,0.289,30s,Low
+4371,715660308,Attrited Customer,54,F,3,College,Married,Less than $40K,Blue,44,5,3,2,2921.0,2412,2612,33,0.826,50s,High
+4376,778959258,Attrited Customer,51,F,1,Unknown,Married,Less than $40K,Blue,32,5,3,3,1438.3,0,2585,45,0.0,50s,Low
+4381,714620358,Attrited Customer,37,F,2,Graduate,Divorced,Less than $40K,Blue,30,3,3,4,3328.0,2517,2196,47,0.756,30s,High
+4382,709145958,Attrited Customer,43,F,3,Unknown,Married,Less than $40K,Blue,36,2,2,2,2440.0,1002,1533,42,0.411,40s,Medium
+4384,716668308,Attrited Customer,39,F,4,High School,Single,Unknown,Blue,36,3,2,4,12405.0,0,3151,39,0.0,30s,Low
+4387,789212883,Attrited Customer,30,F,1,Uneducated,Divorced,Less than $40K,Blue,19,6,1,2,1644.0,0,2533,44,0.0,30s,Low
+4393,712450008,Attrited Customer,50,F,2,Post-Graduate,Married,Unknown,Blue,36,5,2,4,4045.0,0,2438,41,0.0,50s,Low
+4395,713492583,Attrited Customer,34,F,2,Graduate,Married,Less than $40K,Blue,29,5,2,2,5845.0,0,2308,35,0.0,30s,Low
+4400,714058308,Attrited Customer,43,F,5,Uneducated,Single,Less than $40K,Blue,36,5,3,4,2689.0,2384,1941,53,0.887,40s,High
+4402,713114133,Attrited Customer,42,F,2,Uneducated,Single,Less than $40K,Blue,23,4,2,3,1443.0,0,2092,38,0.0,40s,Low
+4406,709495833,Attrited Customer,44,F,2,Graduate,Single,Less than $40K,Blue,36,5,2,4,1438.3,0,1944,36,0.0,40s,Low
+4407,717575958,Attrited Customer,50,F,1,Post-Graduate,Married,$40K - $60K,Blue,41,6,3,3,1694.0,479,2349,42,0.283,50s,Low
+4426,708681708,Attrited Customer,51,F,2,Unknown,Single,Less than $40K,Blue,43,5,3,2,3245.0,0,1977,29,0.0,50s,Low
+4429,711468708,Attrited Customer,38,F,4,High School,Single,$40K - $60K,Blue,31,4,3,2,1438.3,0,1986,52,0.0,30s,Low
+4430,821724483,Attrited Customer,48,M,4,Unknown,Single,$40K - $60K,Blue,43,2,3,2,11272.0,1744,1455,34,0.155,40s,Low
+4439,779841483,Attrited Customer,55,F,1,Doctorate,Married,Unknown,Blue,39,1,3,3,12972.0,1424,2238,36,0.11,50s,Low
+4445,710138883,Attrited Customer,47,F,3,Graduate,Unknown,Less than $40K,Blue,36,5,2,2,8109.0,0,1835,43,0.0,40s,Low
+4449,709112508,Attrited Customer,42,F,3,College,Single,Less than $40K,Blue,36,3,3,4,3802.0,1300,2165,36,0.342,40s,Medium
+4452,718160358,Attrited Customer,51,F,1,Graduate,Married,Less than $40K,Blue,39,5,3,2,1438.3,0,2492,35,0.0,50s,Low
+4453,719325783,Attrited Customer,65,M,2,Unknown,Single,Less than $40K,Blue,36,4,2,3,2954.0,2517,1909,28,0.852,60s,High
+4459,713980383,Attrited Customer,49,F,3,Graduate,Single,Unknown,Blue,38,1,2,4,11025.0,0,1902,28,0.0,40s,Low
+4462,715194183,Attrited Customer,53,F,2,Unknown,Single,Less than $40K,Blue,36,3,3,4,2575.0,411,2423,43,0.16,50s,Low
+4471,713826183,Attrited Customer,41,M,3,High School,Unknown,$40K - $60K,Blue,33,4,3,4,1639.0,0,2242,44,0.0,40s,Low
+4473,780292683,Attrited Customer,55,M,1,Uneducated,Single,$120K +,Blue,41,3,4,4,24542.0,2354,984,24,0.096,50s,Low
+4475,711116133,Attrited Customer,50,F,1,Uneducated,Single,Less than $40K,Blue,37,3,2,4,1838.0,0,2461,47,0.0,50s,Low
+4476,708584208,Attrited Customer,36,F,2,Graduate,Unknown,Less than $40K,Blue,36,5,2,4,3111.0,2517,2367,41,0.809,30s,High
+4480,713096583,Attrited Customer,40,F,1,High School,Single,Less than $40K,Blue,36,4,3,2,1438.3,544,2294,40,0.378,40s,Medium
+4482,756025233,Attrited Customer,43,F,4,Uneducated,Single,Less than $40K,Blue,36,5,3,2,2422.0,1014,2437,44,0.419,40s,Medium
+4483,711977508,Attrited Customer,56,F,2,Uneducated,Single,Less than $40K,Blue,43,1,2,4,1440.0,1211,2141,40,0.841,50s,High
+4484,710666583,Attrited Customer,29,F,1,Uneducated,Single,Less than $40K,Blue,36,3,2,4,2516.0,2312,2321,36,0.919,20s,High
+4485,712369308,Attrited Customer,48,F,4,Doctorate,Divorced,$40K - $60K,Blue,35,4,3,2,3646.0,1047,1969,38,0.287,40s,Low
+4489,712721358,Attrited Customer,48,F,3,Uneducated,Divorced,Less than $40K,Blue,36,5,3,2,4073.0,2517,2059,43,0.618,40s,Medium
+4493,717336408,Attrited Customer,51,F,1,Doctorate,Single,Less than $40K,Blue,45,5,3,1,1952.0,1411,2452,44,0.723,50s,High
+4505,708731658,Attrited Customer,53,F,0,High School,Married,Less than $40K,Blue,41,3,3,4,1438.3,0,1587,42,0.0,50s,Low
+4506,708706833,Attrited Customer,39,F,3,Uneducated,Divorced,Unknown,Blue,36,4,3,3,2809.0,0,2466,40,0.0,30s,Low
+4516,715954158,Attrited Customer,48,M,3,Post-Graduate,Married,$40K - $60K,Blue,36,3,2,4,2954.0,931,2433,29,0.315,40s,Medium
+4517,715499058,Attrited Customer,36,F,2,High School,Married,$40K - $60K,Blue,36,4,3,2,1848.0,0,2775,33,0.0,30s,Low
+4527,709199358,Attrited Customer,60,M,1,Uneducated,Married,Less than $40K,Blue,36,1,3,4,3316.0,0,1684,19,0.0,60s,Low
+4528,821889858,Attrited Customer,50,F,1,Doctorate,Single,Unknown,Blue,46,6,4,3,1970.0,1477,2493,44,0.75,50s,High
+4537,720296808,Attrited Customer,52,F,3,Graduate,Married,Unknown,Blue,39,3,3,2,4173.0,1771,2554,47,0.424,50s,Medium
+4543,709283358,Attrited Customer,43,F,4,Unknown,Married,Less than $40K,Blue,29,6,2,3,2895.0,0,2473,42,0.0,40s,Low
+4545,789481233,Attrited Customer,39,M,2,High School,Married,$40K - $60K,Blue,30,5,3,3,2220.0,0,2859,55,0.0,30s,Low
+4552,710661333,Attrited Customer,55,F,2,Unknown,Single,Unknown,Blue,36,4,3,2,10241.0,1545,2513,47,0.151,50s,Low
+4554,710570058,Attrited Customer,44,F,1,Graduate,Single,Less than $40K,Blue,25,3,2,4,3101.0,0,2512,37,0.0,40s,Low
+4561,771284658,Attrited Customer,47,F,1,Unknown,Married,Less than $40K,Blue,35,6,2,4,1850.0,896,2613,41,0.484,40s,Medium
+4571,713590158,Attrited Customer,41,M,4,Graduate,Single,$60K - $80K,Blue,34,5,2,4,5045.0,2080,2042,40,0.412,40s,Medium
+4572,715547058,Attrited Customer,35,F,0,Graduate,Married,Less than $40K,Blue,36,4,3,4,2089.0,0,2707,51,0.0,30s,Low
+4578,720531633,Attrited Customer,55,F,1,Graduate,Unknown,Less than $40K,Blue,36,4,2,2,3552.0,2517,2665,36,0.709,50s,High
+4579,718508883,Attrited Customer,43,F,3,Unknown,Single,Less than $40K,Blue,36,6,3,3,2325.0,238,2306,47,0.102,40s,Low
+4585,720234708,Attrited Customer,45,M,2,High School,Single,$120K +,Blue,33,6,3,2,15490.0,0,2429,50,0.0,40s,Low
+4588,716136333,Attrited Customer,40,F,4,Uneducated,Single,Less than $40K,Blue,24,5,2,1,4212.0,2517,2725,41,0.598,40s,Medium
+4594,780086658,Attrited Customer,43,M,4,Doctorate,Unknown,$60K - $80K,Blue,28,3,2,4,18229.0,0,2060,39,0.0,40s,Low
+4608,715487733,Attrited Customer,44,F,4,Graduate,Married,$40K - $60K,Blue,36,6,3,3,1452.0,0,2287,42,0.0,40s,Low
+4609,708154833,Attrited Customer,39,F,2,Graduate,Single,Less than $40K,Blue,27,1,3,3,1438.3,811,2336,46,0.564,30s,Medium
+4612,788941983,Attrited Customer,36,F,3,Graduate,Single,$40K - $60K,Blue,22,1,3,1,2013.0,0,2425,50,0.0,30s,Low
+4615,714614133,Attrited Customer,53,F,3,Unknown,Married,Less than $40K,Blue,36,3,3,3,2819.0,0,2128,39,0.0,50s,Low
+4628,775152708,Attrited Customer,49,M,3,Post-Graduate,Unknown,$80K - $120K,Blue,39,2,3,4,20769.0,901,1835,43,0.043,40s,Low
+4634,714487458,Attrited Customer,49,F,5,Graduate,Divorced,$40K - $60K,Blue,40,6,4,2,2920.0,0,2306,39,0.0,40s,Low
+4635,711390333,Attrited Customer,59,M,0,Post-Graduate,Married,$80K - $120K,Blue,46,5,4,2,6526.0,489,2331,45,0.075,50s,Low
+4636,787974108,Attrited Customer,37,F,1,High School,Single,$40K - $60K,Blue,27,4,2,2,1793.0,792,2374,40,0.442,30s,Medium
+4641,710729358,Attrited Customer,40,F,2,High School,Single,Unknown,Blue,30,6,3,4,6479.0,0,2539,42,0.0,40s,Low
+4649,717477783,Attrited Customer,49,F,4,Unknown,Single,Less than $40K,Silver,37,1,2,2,10195.0,2389,1563,36,0.234,40s,Low
+4651,789942033,Attrited Customer,43,M,4,Graduate,Single,$60K - $80K,Blue,34,5,3,3,10573.0,0,2237,43,0.0,40s,Low
+4668,717949008,Attrited Customer,40,F,4,High School,Single,$40K - $60K,Blue,29,5,2,3,1554.0,412,2341,43,0.265,40s,Low
+4678,712734933,Attrited Customer,43,F,2,College,Married,Less than $40K,Blue,36,5,2,3,4020.0,0,1952,39,0.0,40s,Low
+4685,713163258,Attrited Customer,38,F,2,Unknown,Married,Unknown,Blue,33,4,3,3,3388.0,0,1959,52,0.0,30s,Low
+4690,713334483,Attrited Customer,46,M,1,Post-Graduate,Single,$60K - $80K,Blue,32,5,2,3,8766.0,0,2263,35,0.0,40s,Low
+4694,713025558,Attrited Customer,53,F,5,Doctorate,Single,Less than $40K,Blue,38,3,2,3,1438.3,0,1935,47,0.0,50s,Low
+4699,809565183,Attrited Customer,52,F,1,Graduate,Single,Less than $40K,Blue,47,3,3,4,1842.0,625,2650,43,0.339,50s,Medium
+4706,713685033,Attrited Customer,44,F,2,Graduate,Married,Less than $40K,Blue,33,3,2,2,2417.0,0,1848,38,0.0,40s,Low
+4709,720941433,Attrited Customer,53,F,3,High School,Married,Less than $40K,Blue,41,3,3,2,1547.0,0,2312,43,0.0,50s,Low
+4713,787493808,Attrited Customer,48,F,4,Graduate,Unknown,Less than $40K,Blue,36,5,2,2,2700.0,2480,2396,49,0.919,40s,High
+4720,715297908,Attrited Customer,41,F,4,College,Unknown,Unknown,Blue,22,4,2,3,1438.3,1125,2534,52,0.782,40s,High
+4723,718812708,Attrited Customer,57,M,2,Graduate,Single,$120K +,Blue,44,5,3,4,34516.0,219,1882,48,0.006,50s,Low
+4724,709505808,Attrited Customer,45,F,3,College,Single,Unknown,Blue,33,5,3,4,4345.0,2198,1918,31,0.506,40s,Medium
+4725,711267633,Attrited Customer,50,F,3,Graduate,Divorced,Less than $40K,Blue,40,5,4,4,4248.0,316,2271,36,0.074,50s,Low
+4730,720963258,Attrited Customer,52,F,3,College,Married,Less than $40K,Blue,40,3,2,3,3474.0,0,2675,37,0.0,50s,Low
+4732,714634983,Attrited Customer,44,F,1,Unknown,Single,Unknown,Blue,36,3,3,3,3517.0,0,2403,48,0.0,40s,Low
+4734,709005633,Attrited Customer,62,M,0,High School,Single,$60K - $80K,Blue,51,3,2,4,18734.0,0,2112,52,0.0,60s,Low
+4740,709460883,Attrited Customer,38,F,2,Doctorate,Married,Less than $40K,Blue,28,5,2,4,1614.0,0,2437,46,0.0,30s,Low
+4743,787665258,Attrited Customer,47,F,3,Unknown,Married,Less than $40K,Blue,37,1,2,2,1438.3,0,2393,36,0.0,40s,Low
+4747,816850458,Attrited Customer,33,M,2,Unknown,Married,$60K - $80K,Blue,28,6,2,4,1698.0,0,2448,40,0.0,30s,Low
+4752,793712658,Attrited Customer,52,M,3,Graduate,Married,$80K - $120K,Blue,46,4,2,3,15011.0,2517,1821,36,0.168,50s,Low
+4767,720085233,Attrited Customer,51,F,2,Doctorate,Divorced,Unknown,Blue,40,6,3,4,8930.0,2517,2167,38,0.282,50s,Low
+4776,713952558,Attrited Customer,53,F,3,Doctorate,Single,Unknown,Blue,43,3,3,2,1790.0,1474,2128,40,0.823,50s,High
+4781,712849158,Attrited Customer,55,M,0,High School,Divorced,$80K - $120K,Blue,44,4,3,3,19793.0,2488,2186,44,0.126,50s,Low
+4790,711535158,Attrited Customer,46,F,1,College,Unknown,Unknown,Blue,35,5,3,3,2197.0,461,1955,42,0.21,40s,Low
+4792,718311933,Attrited Customer,53,F,4,Doctorate,Married,Less than $40K,Blue,37,6,2,2,3719.0,2517,2587,43,0.677,50s,Medium
+4793,718404783,Attrited Customer,59,F,0,Unknown,Married,Unknown,Blue,49,5,2,4,6996.0,0,2384,33,0.0,50s,Low
+4794,817332483,Attrited Customer,63,M,0,Doctorate,Single,Unknown,Blue,47,6,4,3,7306.0,0,2445,43,0.0,60s,Low
+4795,710015733,Attrited Customer,41,F,1,Doctorate,Divorced,Less than $40K,Blue,30,3,3,1,2029.0,621,3142,37,0.306,40s,Medium
+4796,794965233,Attrited Customer,51,F,1,Graduate,Married,Less than $40K,Silver,45,6,3,3,13199.0,781,1927,44,0.059,50s,Low
+4800,720930633,Attrited Customer,58,F,0,High School,Single,Less than $40K,Blue,46,5,4,2,1977.0,0,2341,37,0.0,50s,Low
+4801,710136258,Attrited Customer,33,F,2,Graduate,Single,Less than $40K,Blue,24,6,2,3,1806.0,0,2833,43,0.0,30s,Low
+4807,822132858,Attrited Customer,41,M,4,Uneducated,Married,$80K - $120K,Blue,37,1,2,2,23250.0,0,2205,43,0.0,40s,Low
+4808,713526258,Attrited Customer,47,M,3,Uneducated,Single,$120K +,Blue,36,3,3,4,34516.0,0,2020,33,0.0,40s,Low
+4812,780584658,Attrited Customer,33,F,2,Uneducated,Unknown,$40K - $60K,Blue,22,4,2,2,1843.0,1293,2077,61,0.702,30s,High
+4816,709612983,Attrited Customer,41,F,2,Graduate,Married,$40K - $60K,Blue,36,5,2,4,2990.0,1828,2265,41,0.611,40s,Medium
+4823,709688883,Attrited Customer,45,M,3,High School,Unknown,$80K - $120K,Blue,36,4,3,2,3845.0,0,2174,39,0.0,40s,Low
+4825,708692583,Attrited Customer,44,F,2,High School,Single,Less than $40K,Blue,31,3,3,3,1506.0,168,2312,44,0.112,40s,Low
+4827,713815383,Attrited Customer,53,M,1,High School,Single,$80K - $120K,Blue,36,3,2,2,11778.0,0,2147,44,0.0,50s,Low
+4831,717450633,Attrited Customer,47,M,3,Uneducated,Single,$60K - $80K,Blue,36,3,2,4,1659.0,1544,1920,39,0.931,40s,High
+4834,717646983,Attrited Customer,59,F,1,Graduate,Single,Less than $40K,Blue,49,4,3,4,3214.0,424,2720,53,0.132,50s,Low
+4835,778837083,Attrited Customer,50,M,2,Graduate,Married,$80K - $120K,Blue,31,3,3,3,12906.0,321,2078,62,0.025,50s,Low
+4836,715622508,Attrited Customer,52,M,2,Unknown,Married,$80K - $120K,Blue,41,6,4,3,7904.0,0,2094,32,0.0,50s,Low
+4837,708946008,Attrited Customer,46,F,3,College,Married,Less than $40K,Blue,36,5,2,2,1438.3,1214,2445,39,0.844,40s,High
+4841,814840833,Attrited Customer,44,M,4,Doctorate,Married,$120K +,Blue,39,4,3,2,7924.0,2517,2393,37,0.318,40s,Medium
+4844,712110333,Attrited Customer,37,F,3,High School,Single,Unknown,Blue,18,4,1,3,2179.0,0,2568,48,0.0,30s,Low
+4845,718673358,Attrited Customer,35,M,3,Doctorate,Married,$80K - $120K,Blue,30,5,3,4,13590.0,1528,2137,52,0.112,30s,Low
+4846,712479633,Attrited Customer,31,F,1,Unknown,Single,Less than $40K,Blue,20,3,1,2,1695.0,0,2428,43,0.0,30s,Low
+4850,716643033,Attrited Customer,41,F,2,Graduate,Married,Less than $40K,Blue,31,3,3,3,2580.0,2137,2981,40,0.828,40s,High
+4854,713573508,Attrited Customer,41,M,4,Graduate,Unknown,$40K - $60K,Silver,32,4,2,4,16509.0,425,1740,43,0.026,40s,Low
+4855,709430508,Attrited Customer,40,M,4,High School,Unknown,$40K - $60K,Blue,32,1,2,3,7316.0,1335,1849,50,0.182,40s,Low
+4859,713314533,Attrited Customer,40,M,2,Unknown,Single,$60K - $80K,Blue,27,6,2,3,12283.0,0,1993,41,0.0,40s,Low
+4865,814191333,Attrited Customer,55,M,2,Unknown,Divorced,$120K +,Blue,50,5,4,3,24250.0,278,2153,41,0.011,50s,Low
+4886,715960308,Attrited Customer,53,F,1,Graduate,Divorced,Less than $40K,Blue,44,3,3,3,4090.0,2517,2016,49,0.615,50s,Medium
+4889,789923058,Attrited Customer,53,F,1,High School,Married,$40K - $60K,Blue,44,3,3,3,1816.0,0,2474,44,0.0,50s,Low
+4892,779269158,Attrited Customer,43,F,2,Graduate,Married,Unknown,Blue,25,4,2,4,21961.0,0,2237,39,0.0,40s,Low
+4896,778289883,Attrited Customer,42,F,2,Graduate,Unknown,Less than $40K,Blue,32,3,3,3,1507.0,0,2528,41,0.0,40s,Low
+4901,768162108,Attrited Customer,49,M,3,College,Married,$120K +,Blue,43,5,3,3,4781.0,0,2451,50,0.0,40s,Low
+4915,714581358,Attrited Customer,48,F,3,Graduate,Single,Less than $40K,Blue,43,3,3,4,1502.0,0,2204,36,0.0,40s,Low
+4922,771899433,Attrited Customer,48,M,3,Graduate,Married,$80K - $120K,Blue,37,5,2,4,7970.0,2434,1263,27,0.305,40s,Medium
+4924,709711758,Attrited Customer,45,F,3,Uneducated,Divorced,Less than $40K,Blue,32,3,2,2,1942.0,0,1853,31,0.0,40s,Low
+4925,721137558,Attrited Customer,40,M,4,Graduate,Divorced,$40K - $60K,Blue,28,1,2,3,5821.0,894,2011,42,0.154,40s,Low
+4931,709729533,Attrited Customer,47,M,3,Uneducated,Single,$40K - $60K,Blue,39,4,3,1,1809.0,457,2169,49,0.253,40s,Low
+4940,720991833,Attrited Customer,48,F,2,Doctorate,Married,Less than $40K,Blue,36,4,3,4,2514.0,2090,2603,53,0.831,40s,High
+4955,714102183,Attrited Customer,50,M,3,Uneducated,Single,$120K +,Blue,36,1,2,3,7970.0,2282,1872,41,0.286,50s,Low
+4956,715410783,Attrited Customer,55,F,1,Unknown,Single,Less than $40K,Blue,36,5,2,3,1836.0,572,2400,34,0.312,50s,Medium
+4965,767668908,Attrited Customer,46,F,3,Graduate,Married,Unknown,Blue,40,3,4,3,13095.0,1836,1552,32,0.14,40s,Low
+4968,714246333,Attrited Customer,58,F,4,High School,Married,Unknown,Blue,48,1,4,3,5396.0,1803,2107,39,0.334,50s,Medium
+4971,755661933,Attrited Customer,48,F,3,Graduate,Single,$40K - $60K,Blue,41,5,3,3,1899.0,671,2434,45,0.353,40s,Medium
+4976,716669658,Attrited Customer,51,F,1,High School,Single,Less than $40K,Blue,33,6,3,3,2006.0,1608,2760,38,0.802,50s,High
+4987,721032633,Attrited Customer,55,F,3,Unknown,Single,$40K - $60K,Blue,32,5,3,4,2496.0,1999,2590,50,0.801,50s,High
+4989,718890933,Attrited Customer,45,F,4,Doctorate,Married,Less than $40K,Blue,27,3,2,2,1438.3,0,2429,38,0.0,40s,Low
+5002,714006333,Attrited Customer,42,F,4,Graduate,Married,Less than $40K,Blue,36,5,2,3,2128.0,528,2289,41,0.248,40s,Low
+5003,770596458,Attrited Customer,45,F,2,Doctorate,Married,Less than $40K,Blue,31,4,3,4,2704.0,2262,2362,39,0.837,40s,High
+5006,708949908,Attrited Customer,50,M,1,Graduate,Divorced,$120K +,Blue,42,1,3,2,1656.0,0,2073,44,0.0,50s,Low
+5022,779310033,Attrited Customer,42,F,4,Doctorate,Married,Less than $40K,Blue,24,3,2,3,4304.0,0,1788,36,0.0,40s,Low
+5028,796931508,Attrited Customer,42,M,4,High School,Unknown,$60K - $80K,Blue,36,4,3,4,1871.0,0,2593,48,0.0,40s,Low
+5030,714287583,Attrited Customer,41,F,3,Unknown,Married,Less than $40K,Blue,32,3,2,3,1438.3,0,1852,38,0.0,40s,Low
+5031,718975083,Attrited Customer,47,F,4,Graduate,Single,Less than $40K,Blue,40,6,4,3,2473.0,0,2133,44,0.0,40s,Low
+5033,714031083,Attrited Customer,46,F,3,Graduate,Unknown,Unknown,Blue,30,3,2,1,8869.0,0,1935,40,0.0,40s,Low
+5035,716570958,Attrited Customer,50,M,3,Post-Graduate,Divorced,$60K - $80K,Blue,36,3,2,3,14409.0,511,2351,39,0.035,50s,Low
+5036,710116833,Attrited Customer,59,F,1,High School,Single,$40K - $60K,Blue,36,5,3,3,1665.0,0,2748,40,0.0,50s,Low
+5040,815908908,Attrited Customer,47,F,4,Uneducated,Single,Unknown,Blue,42,3,4,3,6263.0,2517,2613,50,0.402,40s,Medium
+5056,712927383,Attrited Customer,51,F,2,Uneducated,Single,Less than $40K,Blue,36,3,3,3,1438.3,642,1939,49,0.446,50s,Medium
+5060,711430908,Attrited Customer,45,F,4,Graduate,Married,Less than $40K,Blue,34,3,2,1,1438.3,0,2153,35,0.0,40s,Low
+5063,779530908,Attrited Customer,48,F,3,Unknown,Divorced,Less than $40K,Blue,31,5,2,4,1438.3,0,1897,58,0.0,40s,Low
+5070,721228308,Attrited Customer,47,F,2,High School,Married,Less than $40K,Blue,39,5,3,3,3899.0,0,2182,40,0.0,40s,Low
+5072,708708858,Attrited Customer,50,F,1,Graduate,Single,Less than $40K,Blue,36,1,3,4,2422.0,502,2548,46,0.207,50s,Low
+5077,789328083,Attrited Customer,42,F,4,High School,Married,Less than $40K,Blue,32,6,3,3,3454.0,0,2826,39,0.0,40s,Low
+5080,716421633,Attrited Customer,43,F,3,Graduate,Married,Less than $40K,Blue,36,4,2,4,3523.0,0,3174,44,0.0,40s,Low
+5091,789662283,Attrited Customer,50,F,3,High School,Married,Less than $40K,Blue,33,3,3,4,2140.0,0,2915,50,0.0,50s,Low
+5095,711527508,Attrited Customer,46,F,3,High School,Married,$40K - $60K,Blue,34,2,3,2,8583.0,0,1794,31,0.0,40s,Low
+5100,787505133,Attrited Customer,36,M,3,College,Married,$120K +,Blue,24,2,2,3,11316.0,1599,2595,49,0.141,30s,Low
+5103,719018208,Attrited Customer,52,F,0,Doctorate,Married,Unknown,Blue,46,6,4,3,7210.0,0,2516,36,0.0,50s,Low
+5114,770968383,Attrited Customer,41,M,4,Graduate,Married,$80K - $120K,Silver,28,3,2,3,34516.0,825,2022,52,0.024,40s,Low
+5118,771723408,Attrited Customer,37,F,2,Unknown,Single,Less than $40K,Blue,25,3,2,4,1690.0,0,2645,60,0.0,30s,Low
+5121,713569158,Attrited Customer,43,F,3,High School,Single,$40K - $60K,Blue,34,1,3,2,1654.0,1474,2086,47,0.891,40s,High
+5127,718626033,Attrited Customer,47,M,3,High School,Married,$60K - $80K,Blue,39,2,3,2,10061.0,0,2802,52,0.0,40s,Low
+5139,711144183,Attrited Customer,55,F,3,Graduate,Married,Unknown,Blue,45,1,3,1,2815.0,1848,2618,29,0.656,50s,Medium
+5142,785262333,Attrited Customer,46,M,5,Uneducated,Unknown,$40K - $60K,Blue,40,5,4,3,6185.0,1960,2225,45,0.317,40s,Medium
+5144,719073483,Attrited Customer,45,M,3,Uneducated,Married,$80K - $120K,Blue,38,3,3,3,9234.0,0,2586,44,0.0,40s,Low
+5149,719084358,Attrited Customer,55,F,1,Graduate,Married,Less than $40K,Blue,46,6,4,3,4232.0,0,2312,37,0.0,50s,Low
+5151,712434708,Attrited Customer,52,F,3,High School,Married,Less than $40K,Blue,39,5,3,2,3302.0,2517,2682,47,0.762,50s,High
+5153,708412758,Attrited Customer,33,F,3,Graduate,Single,Less than $40K,Blue,36,5,2,3,1457.0,0,2200,45,0.0,30s,Low
+5160,713158083,Attrited Customer,56,M,2,High School,Single,$120K +,Blue,46,2,4,4,7327.0,0,2185,41,0.0,50s,Low
+5164,720010608,Attrited Customer,37,M,2,Unknown,Single,$40K - $60K,Blue,24,6,2,4,10226.0,0,2243,44,0.0,30s,Low
+5168,711939558,Attrited Customer,37,F,2,Unknown,Single,Less than $40K,Blue,36,3,2,3,1534.0,0,2596,39,0.0,30s,Low
+5178,711531858,Attrited Customer,48,F,4,Unknown,Married,Less than $40K,Blue,41,3,3,3,2447.0,1267,2132,37,0.518,40s,Medium
+5186,819943458,Attrited Customer,57,M,3,Graduate,Single,$120K +,Blue,52,6,4,3,34516.0,1000,1777,37,0.029,50s,Low
+5188,721351983,Attrited Customer,43,F,4,Uneducated,Married,Less than $40K,Blue,36,5,3,3,3492.0,2517,2510,47,0.721,40s,High
+5189,714477408,Attrited Customer,36,F,3,High School,Married,Less than $40K,Blue,36,3,3,3,2977.0,1340,2201,39,0.45,30s,Medium
+5203,711801933,Attrited Customer,54,F,4,High School,Single,$40K - $60K,Blue,36,3,3,4,1438.3,0,2092,42,0.0,50s,Low
+5226,714602658,Attrited Customer,39,F,1,Graduate,Married,Less than $40K,Blue,36,1,2,3,1462.0,0,1998,36,0.0,30s,Low
+5227,712446783,Attrited Customer,50,F,4,Graduate,Married,Less than $40K,Blue,30,5,3,4,4038.0,1530,2400,41,0.379,50s,Medium
+5228,720049083,Attrited Customer,35,F,1,Unknown,Divorced,Unknown,Blue,24,5,3,3,1438.3,0,2355,47,0.0,30s,Low
+5239,816378033,Attrited Customer,46,M,4,Uneducated,Single,$80K - $120K,Gold,41,6,3,2,34516.0,1104,1989,47,0.032,40s,Low
+5253,717202083,Attrited Customer,46,M,2,Unknown,Single,$80K - $120K,Blue,34,2,3,3,7077.0,0,2619,41,0.0,40s,Low
+5256,789122808,Attrited Customer,41,F,4,College,Married,$40K - $60K,Blue,29,5,2,3,3281.0,0,2907,45,0.0,40s,Low
+5263,711507783,Attrited Customer,54,F,2,Doctorate,Single,Less than $40K,Blue,42,3,4,3,1694.0,0,1930,41,0.0,50s,Low
+5267,716856408,Attrited Customer,39,F,4,Graduate,Single,Less than $40K,Blue,28,5,2,4,1438.3,0,2392,44,0.0,30s,Low
+5271,720124758,Attrited Customer,49,M,3,Uneducated,Married,$80K - $120K,Blue,40,5,4,3,2509.0,450,2239,47,0.179,40s,Low
+5290,782802033,Attrited Customer,45,F,4,Unknown,Married,Less than $40K,Blue,39,3,2,2,3411.0,1472,2108,55,0.432,40s,Medium
+5299,780289308,Attrited Customer,61,F,0,High School,Married,Less than $40K,Blue,47,1,3,4,4130.0,0,2418,57,0.0,60s,Low
+5302,714503433,Attrited Customer,57,F,2,Doctorate,Married,Less than $40K,Blue,36,1,3,3,1615.0,950,2212,43,0.588,50s,Medium
+5309,715497558,Attrited Customer,44,F,1,College,Married,Less than $40K,Blue,36,6,3,3,3052.0,0,2598,47,0.0,40s,Low
+5315,717252483,Attrited Customer,57,F,2,Graduate,Married,Less than $40K,Blue,41,3,3,3,2796.0,0,2196,35,0.0,50s,Low
+5317,719742108,Attrited Customer,38,F,1,High School,Single,Less than $40K,Blue,26,5,2,4,3554.0,0,2372,44,0.0,30s,Low
+5319,717208833,Attrited Customer,34,F,3,High School,Single,Less than $40K,Blue,21,2,2,2,1576.0,0,2703,56,0.0,30s,Low
+5322,713463708,Attrited Customer,40,F,4,Graduate,Single,Less than $40K,Blue,25,4,2,3,1438.3,0,2493,42,0.0,40s,Low
+5326,711790308,Attrited Customer,54,F,0,High School,Unknown,Less than $40K,Blue,34,4,3,3,2223.0,632,2538,49,0.284,50s,Low
+5329,712046808,Attrited Customer,49,F,3,Doctorate,Divorced,Unknown,Blue,42,1,3,3,3802.0,1558,2003,43,0.41,40s,Medium
+5335,708888633,Attrited Customer,52,M,3,Doctorate,Married,$80K - $120K,Blue,36,2,3,3,3022.0,895,2724,38,0.296,50s,Low
+5337,812406183,Attrited Customer,45,F,4,Unknown,Single,Less than $40K,Blue,40,5,4,3,1438.3,0,2207,41,0.0,40s,Low
+5338,714595983,Attrited Customer,49,F,1,Uneducated,Married,$40K - $60K,Blue,41,4,3,3,1438.3,522,2030,37,0.363,40s,Medium
+5340,720270633,Attrited Customer,40,F,3,Graduate,Single,Less than $40K,Blue,36,5,3,1,1516.0,0,2709,54,0.0,40s,Low
+5347,718653333,Attrited Customer,45,F,2,College,Single,Less than $40K,Blue,33,1,3,3,1833.0,0,2037,31,0.0,40s,Low
+5351,713422083,Attrited Customer,30,F,0,Graduate,Single,Less than $40K,Blue,36,5,3,3,1574.0,0,2560,59,0.0,30s,Low
+5353,712222758,Attrited Customer,38,F,3,Graduate,Married,Less than $40K,Blue,36,3,2,3,2300.0,0,2500,47,0.0,30s,Low
+5366,718148358,Attrited Customer,50,F,3,High School,Married,Less than $40K,Blue,36,2,3,3,1572.0,0,2447,41,0.0,50s,Low
+5372,794507133,Attrited Customer,37,F,2,Doctorate,Single,$40K - $60K,Blue,18,4,1,3,1900.0,0,2880,46,0.0,30s,Low
+5383,767266758,Attrited Customer,41,F,2,High School,Single,Less than $40K,Blue,34,1,3,4,1661.0,0,2473,49,0.0,40s,Low
+5385,720739083,Attrited Customer,36,F,2,Post-Graduate,Married,Less than $40K,Blue,25,5,2,3,1691.0,0,2716,63,0.0,30s,Low
+5393,713594883,Attrited Customer,44,F,2,Uneducated,Single,Unknown,Blue,32,5,3,3,1486.0,849,2380,43,0.571,40s,Medium
+5395,714962658,Attrited Customer,35,M,2,Unknown,Single,Less than $40K,Blue,36,5,3,3,1931.0,0,2482,40,0.0,30s,Low
+5396,717429258,Attrited Customer,48,F,3,Doctorate,Single,Less than $40K,Blue,39,3,3,4,1644.0,500,2450,45,0.304,40s,Medium
+5399,709548783,Attrited Customer,44,M,2,Doctorate,Unknown,$40K - $60K,Blue,36,5,3,4,1438.3,0,2100,54,0.0,40s,Low
+5402,713336883,Attrited Customer,61,F,0,High School,Single,Less than $40K,Blue,36,4,3,4,1760.0,0,2285,46,0.0,60s,Low
+5405,809626983,Attrited Customer,48,F,3,High School,Married,Less than $40K,Blue,43,3,3,3,1670.0,0,2790,37,0.0,40s,Low
+5412,772728933,Attrited Customer,50,M,2,High School,Married,$120K +,Blue,40,6,4,3,13709.0,813,2511,40,0.059,50s,Low
+5413,815320383,Attrited Customer,46,F,3,Unknown,Unknown,Less than $40K,Blue,41,5,3,2,4710.0,0,2690,43,0.0,40s,Low
+5424,714475908,Attrited Customer,43,M,2,Uneducated,Single,$60K - $80K,Blue,35,5,3,2,6348.0,0,1732,39,0.0,40s,Low
+5426,716790633,Attrited Customer,43,M,3,Graduate,Married,$60K - $80K,Blue,36,4,2,3,17239.0,0,1789,38,0.0,40s,Low
+5427,716127333,Attrited Customer,45,F,3,Graduate,Married,Unknown,Blue,36,5,2,3,18432.0,484,2300,45,0.026,40s,Low
+5430,780032208,Attrited Customer,44,M,3,Graduate,Married,$60K - $80K,Blue,34,5,3,3,14201.0,0,2223,47,0.0,40s,Low
+5435,789052308,Attrited Customer,40,M,3,Graduate,Unknown,$40K - $60K,Blue,28,6,2,2,4323.0,0,2451,38,0.0,40s,Low
+5436,714948858,Attrited Customer,50,F,2,Unknown,Single,Less than $40K,Blue,36,3,2,2,3647.0,2517,2935,58,0.69,50s,Medium
+5441,719685408,Attrited Customer,40,M,2,Uneducated,Married,$60K - $80K,Blue,29,3,2,2,6332.0,318,2505,43,0.05,40s,Low
+5445,710284233,Attrited Customer,33,M,4,Uneducated,Married,$80K - $120K,Blue,36,5,3,4,1438.3,0,2439,43,0.0,30s,Low
+5447,713312208,Attrited Customer,53,M,1,High School,Married,$40K - $60K,Blue,43,1,2,3,3146.0,0,1868,38,0.0,50s,Low
+5456,779844408,Attrited Customer,43,F,1,Post-Graduate,Married,Less than $40K,Blue,27,4,3,3,1438.3,0,2137,40,0.0,40s,Low
+5462,801715383,Attrited Customer,45,M,4,Graduate,Married,$60K - $80K,Blue,39,6,3,2,12890.0,0,2216,51,0.0,40s,Low
+5465,714188883,Attrited Customer,46,F,5,Doctorate,Single,Less than $40K,Blue,37,3,2,2,1787.0,0,2345,36,0.0,40s,Low
+5467,708536283,Attrited Customer,35,M,1,Doctorate,Single,$80K - $120K,Blue,27,3,2,2,2904.0,2517,2653,46,0.867,30s,High
+5473,709307808,Attrited Customer,59,F,2,High School,Married,$40K - $60K,Blue,36,3,3,3,4375.0,0,2507,53,0.0,50s,Low
+5475,715701033,Attrited Customer,43,M,2,Graduate,Married,$80K - $120K,Blue,33,5,3,3,2111.0,1761,2112,46,0.834,40s,High
+5480,718826883,Attrited Customer,50,M,3,Uneducated,Single,$80K - $120K,Blue,36,6,3,2,6925.0,0,2506,36,0.0,50s,Low
+5483,815504583,Attrited Customer,48,F,4,Graduate,Single,$40K - $60K,Blue,43,3,2,4,1538.0,0,2275,43,0.0,40s,Low
+5487,709891608,Attrited Customer,41,M,2,High School,Married,$120K +,Blue,24,5,2,3,9924.0,0,1949,43,0.0,40s,Low
+5494,711949683,Attrited Customer,55,F,2,College,Divorced,$40K - $60K,Blue,36,6,2,3,4410.0,2517,1883,44,0.571,50s,Medium
+5495,787747308,Attrited Customer,49,F,4,Uneducated,Unknown,Less than $40K,Blue,39,6,3,2,3468.0,2517,2494,39,0.726,40s,High
+5499,713804883,Attrited Customer,46,F,4,Post-Graduate,Single,Less than $40K,Blue,37,3,2,2,1836.0,0,1799,28,0.0,40s,Low
+5502,753795633,Attrited Customer,48,F,2,Uneducated,Married,Less than $40K,Blue,41,5,3,2,2964.0,2517,2327,38,0.849,40s,High
+5507,817607358,Attrited Customer,44,F,2,High School,Unknown,Unknown,Gold,35,3,3,3,34516.0,0,2227,44,0.0,40s,Low
+5514,712297683,Attrited Customer,47,F,3,College,Married,Less than $40K,Blue,35,6,3,2,1781.0,0,2196,35,0.0,40s,Low
+5515,714684933,Attrited Customer,40,F,1,Uneducated,Married,Less than $40K,Blue,28,5,2,3,3680.0,0,2725,41,0.0,40s,Low
+5516,720742083,Attrited Customer,48,F,4,Unknown,Married,Less than $40K,Blue,36,4,3,3,2740.0,2425,2431,46,0.885,40s,High
+5528,721124658,Attrited Customer,40,M,3,Uneducated,Single,$80K - $120K,Blue,27,4,2,3,3427.0,0,2625,63,0.0,40s,Low
+5534,720815208,Attrited Customer,52,M,0,High School,Single,$120K +,Blue,39,5,3,3,34516.0,216,2395,47,0.006,50s,Low
+5538,720520308,Attrited Customer,46,F,4,Graduate,Married,Less than $40K,Blue,28,4,2,3,8318.0,2517,2427,52,0.303,40s,Medium
+5540,798972183,Attrited Customer,49,F,2,Unknown,Single,$40K - $60K,Blue,43,1,3,2,1643.0,526,2520,38,0.32,40s,Medium
+5548,714250908,Attrited Customer,53,F,2,Graduate,Married,Less than $40K,Blue,47,3,4,2,2927.0,2517,2231,60,0.86,50s,High
+5553,719384433,Attrited Customer,44,F,3,High School,Divorced,Less than $40K,Blue,28,5,2,3,1877.0,1203,2581,57,0.641,40s,Medium
+5558,789880533,Attrited Customer,46,F,4,Graduate,Single,$40K - $60K,Blue,36,5,3,4,5913.0,1651,2404,39,0.279,40s,Low
+5559,711221958,Attrited Customer,43,F,3,Graduate,Single,$40K - $60K,Blue,26,3,2,2,2867.0,0,2646,41,0.0,40s,Low
+5562,716368008,Attrited Customer,54,F,1,Graduate,Married,Unknown,Blue,36,4,2,2,3137.0,959,2925,41,0.306,50s,Medium
+5563,712092783,Attrited Customer,47,F,3,Doctorate,Single,Less than $40K,Blue,40,6,2,3,2437.0,0,2027,42,0.0,40s,Low
+5568,708726708,Attrited Customer,42,F,3,Graduate,Single,$40K - $60K,Blue,36,6,2,3,1451.0,599,2192,35,0.413,40s,Medium
+5570,712767858,Attrited Customer,42,F,0,College,Single,$40K - $60K,Blue,30,5,2,3,1438.3,1223,2181,43,0.85,40s,High
+5573,713891133,Attrited Customer,41,F,2,Unknown,Single,Less than $40K,Blue,36,3,2,2,1438.3,834,1890,43,0.58,40s,Medium
+5575,779279883,Attrited Customer,60,F,2,High School,Married,Less than $40K,Blue,42,3,3,2,1438.3,0,1628,42,0.0,60s,Low
+5582,712953483,Attrited Customer,64,F,0,Graduate,Single,Less than $40K,Blue,36,1,3,4,1682.0,0,1811,39,0.0,60s,Low
+5583,779029458,Attrited Customer,54,F,1,Post-Graduate,Single,Less than $40K,Blue,35,4,3,3,1724.0,0,2725,47,0.0,50s,Low
+5592,765459858,Attrited Customer,47,M,3,Graduate,Divorced,Less than $40K,Blue,40,4,4,3,6397.0,0,2511,56,0.0,40s,Low
+5593,714894708,Attrited Customer,53,M,1,Uneducated,Unknown,$120K +,Blue,45,4,4,2,23958.0,2517,2777,45,0.105,50s,Low
+5597,720130233,Attrited Customer,48,M,2,High School,Single,$60K - $80K,Blue,36,4,3,1,1641.0,0,2536,45,0.0,40s,Low
+5605,718279008,Attrited Customer,44,M,3,High School,Single,$60K - $80K,Silver,36,5,2,3,25276.0,0,2282,38,0.0,40s,Low
+5611,814091058,Attrited Customer,38,F,1,College,Single,Less than $40K,Blue,33,6,2,3,3119.0,2517,2492,50,0.807,30s,High
+5612,710555433,Attrited Customer,42,F,4,Graduate,Single,Less than $40K,Blue,36,6,2,2,2803.0,0,2216,40,0.0,40s,Low
+5614,718263108,Attrited Customer,44,F,3,Unknown,Divorced,Less than $40K,Blue,32,3,3,2,1693.0,1457,2829,42,0.861,40s,High
+5619,779931783,Attrited Customer,52,M,2,High School,Single,$120K +,Blue,38,6,3,3,34516.0,0,2213,47,0.0,50s,Low
+5624,712691883,Attrited Customer,41,F,2,High School,Married,Less than $40K,Blue,36,3,2,2,2811.0,2404,2245,41,0.855,40s,High
+5630,708316008,Attrited Customer,59,F,1,Graduate,Single,Unknown,Blue,36,3,2,3,10031.0,0,1792,29,0.0,50s,Low
+5632,711846183,Attrited Customer,38,F,3,Graduate,Single,$40K - $60K,Blue,26,3,2,3,2669.0,0,2271,31,0.0,30s,Low
+5633,720612333,Attrited Customer,44,F,3,College,Single,Less than $40K,Blue,28,6,2,2,1951.0,0,2697,45,0.0,40s,Low
+5635,710525508,Attrited Customer,48,F,2,High School,Married,Less than $40K,Blue,36,6,3,3,1438.3,455,2090,50,0.316,40s,Medium
+5636,757854858,Attrited Customer,50,M,2,Unknown,Married,$60K - $80K,Blue,43,4,3,4,3143.0,0,2297,37,0.0,50s,Low
+5646,709232808,Attrited Customer,44,F,3,Unknown,Divorced,$40K - $60K,Blue,34,2,3,2,1689.0,0,1588,37,0.0,40s,Low
+5649,714527433,Attrited Customer,39,M,4,Graduate,Married,$80K - $120K,Blue,30,5,2,2,17523.0,0,1974,54,0.0,30s,Low
+5652,714014733,Attrited Customer,33,M,2,College,Single,$80K - $120K,Blue,36,4,3,2,9642.0,1431,2172,33,0.148,30s,Low
+5654,712733958,Attrited Customer,46,F,2,Unknown,Single,Less than $40K,Blue,36,6,3,3,1731.0,0,2304,46,0.0,40s,Low
+5659,716122008,Attrited Customer,44,F,3,Unknown,Married,Less than $40K,Blue,35,3,3,2,1855.0,0,2544,27,0.0,40s,Low
+5660,714960408,Attrited Customer,44,F,3,College,Single,Less than $40K,Blue,34,4,3,1,1605.0,890,2722,45,0.555,40s,Medium
+5661,772382283,Attrited Customer,46,F,3,Graduate,Married,Less than $40K,Blue,36,3,3,3,2302.0,1593,2689,49,0.692,40s,Medium
+5663,714266883,Attrited Customer,54,F,4,Post-Graduate,Unknown,Less than $40K,Blue,44,5,3,3,2440.0,503,2334,51,0.206,50s,Low
+5674,751518633,Attrited Customer,48,M,5,Post-Graduate,Single,$120K +,Silver,41,5,3,1,34516.0,2517,2260,50,0.073,40s,Low
+5678,712395408,Attrited Customer,51,F,3,Graduate,Divorced,Less than $40K,Blue,41,5,3,3,1495.0,691,2552,42,0.462,50s,Medium
+5679,818459733,Attrited Customer,41,M,3,Doctorate,Single,$120K +,Blue,26,3,2,2,9220.0,0,2276,32,0.0,40s,Low
+5680,708867408,Attrited Customer,52,M,2,High School,Married,$60K - $80K,Blue,40,3,4,2,23128.0,1958,2050,35,0.085,50s,Low
+5689,719420883,Attrited Customer,56,F,4,Graduate,Unknown,Less than $40K,Blue,44,5,3,3,1677.0,0,2477,45,0.0,50s,Low
+5694,753365883,Attrited Customer,44,F,3,Unknown,Single,Unknown,Blue,37,3,2,3,1900.0,0,2298,45,0.0,40s,Low
+5697,717915783,Attrited Customer,60,M,0,Unknown,Married,$60K - $80K,Blue,47,5,1,3,4541.0,1037,2829,44,0.228,60s,Low
+5711,708298233,Attrited Customer,49,F,3,Graduate,Married,Less than $40K,Blue,37,4,2,1,6184.0,0,1756,49,0.0,40s,Low
+5714,712329933,Attrited Customer,47,F,1,High School,Unknown,Less than $40K,Blue,41,6,3,2,3654.0,0,1998,44,0.0,40s,Low
+5719,795784008,Attrited Customer,44,F,3,Graduate,Married,Less than $40K,Blue,38,4,2,3,3889.0,2517,1718,37,0.647,40s,Medium
+5724,720275358,Attrited Customer,47,M,2,Graduate,Married,$40K - $60K,Blue,30,4,3,2,1889.0,0,2479,46,0.0,40s,Low
+5727,710727333,Attrited Customer,49,F,3,High School,Married,Less than $40K,Blue,36,4,2,2,1763.0,0,2813,43,0.0,40s,Low
+5730,715400733,Attrited Customer,43,F,3,Uneducated,Married,$40K - $60K,Blue,36,6,4,3,1438.3,0,2116,38,0.0,40s,Low
+5733,711389358,Attrited Customer,42,M,3,Graduate,Married,$40K - $60K,Blue,23,5,3,2,5791.0,2517,2516,64,0.435,40s,Medium
+5736,711253383,Attrited Customer,48,F,2,Unknown,Married,Unknown,Blue,38,6,2,3,4382.0,0,2446,34,0.0,40s,Low
+5738,794554683,Attrited Customer,41,F,4,Graduate,Married,Less than $40K,Blue,26,4,2,2,3159.0,0,2925,46,0.0,40s,Low
+5748,711323283,Attrited Customer,57,M,2,Uneducated,Married,$60K - $80K,Blue,41,3,3,2,2527.0,1030,2767,43,0.408,50s,Medium
+5763,720711483,Attrited Customer,56,F,1,High School,Married,Unknown,Blue,42,5,2,3,3674.0,2517,2608,45,0.685,50s,Medium
+5771,809440008,Attrited Customer,39,F,2,High School,Single,Unknown,Blue,34,3,3,1,2069.0,550,2716,43,0.266,30s,Low
+5778,711237633,Attrited Customer,49,M,0,Graduate,Married,$60K - $80K,Blue,29,3,3,3,1460.0,0,2329,36,0.0,40s,Low
+5780,718913358,Attrited Customer,36,M,2,Graduate,Single,Less than $40K,Blue,36,3,3,3,4225.0,2517,2659,43,0.596,30s,Medium
+5782,718452633,Attrited Customer,35,F,4,Graduate,Married,Unknown,Blue,36,4,3,3,1931.0,0,2569,46,0.0,30s,Low
+5783,769883733,Attrited Customer,46,M,3,Post-Graduate,Single,$40K - $60K,Blue,40,3,4,2,2344.0,0,2098,31,0.0,40s,Low
+5794,711122958,Attrited Customer,41,F,3,Graduate,Single,Less than $40K,Blue,33,5,3,3,1764.0,0,2105,57,0.0,40s,Low
+5802,708606633,Attrited Customer,56,F,3,Graduate,Married,$40K - $60K,Blue,44,6,3,4,1544.0,0,1902,35,0.0,50s,Low
+5805,713115483,Attrited Customer,44,F,3,Uneducated,Married,Less than $40K,Blue,36,6,3,3,1684.0,0,2275,45,0.0,40s,Low
+5818,713186058,Attrited Customer,42,F,3,Unknown,Married,$40K - $60K,Blue,36,4,2,3,1438.3,0,2191,51,0.0,40s,Low
+5820,789241308,Attrited Customer,54,F,2,Unknown,Unknown,Less than $40K,Blue,39,4,3,3,1438.3,0,2145,41,0.0,50s,Low
+5822,778272408,Attrited Customer,52,M,1,Unknown,Divorced,$80K - $120K,Blue,42,4,4,2,5763.0,0,2310,48,0.0,50s,Low
+5826,715328658,Attrited Customer,41,F,5,Post-Graduate,Married,Less than $40K,Blue,36,5,3,3,1495.0,0,2622,70,0.0,40s,Low
+5827,708918558,Attrited Customer,37,F,2,Graduate,Married,$40K - $60K,Blue,36,5,3,2,1959.0,662,3046,52,0.338,30s,Medium
+5830,721480158,Attrited Customer,50,F,2,Unknown,Married,Less than $40K,Blue,43,3,3,2,1438.3,910,2370,44,0.633,50s,Medium
+5831,709100283,Attrited Customer,36,F,2,High School,Single,Unknown,Blue,26,3,2,2,5956.0,2517,2828,46,0.423,30s,Medium
+5835,713466033,Attrited Customer,39,F,2,Graduate,Divorced,Less than $40K,Blue,36,5,2,3,2092.0,0,2015,33,0.0,30s,Low
+5849,719630358,Attrited Customer,50,F,4,High School,Married,Less than $40K,Blue,36,1,3,2,3546.0,0,2616,47,0.0,50s,Low
+5850,712399308,Attrited Customer,38,F,3,High School,Unknown,Less than $40K,Blue,36,5,3,3,2989.0,2387,2143,67,0.799,30s,High
+5859,717255333,Attrited Customer,40,M,3,Graduate,Single,$80K - $120K,Blue,36,1,2,2,6921.0,0,2729,44,0.0,40s,Low
+5862,708793008,Attrited Customer,46,M,3,Doctorate,Divorced,$80K - $120K,Blue,35,5,3,3,9949.0,0,2207,40,0.0,40s,Low
+5872,718303683,Attrited Customer,36,F,2,Graduate,Married,Less than $40K,Blue,23,4,2,2,1666.0,813,2622,60,0.488,30s,Medium
+5879,708660408,Attrited Customer,40,F,1,College,Married,$40K - $60K,Blue,36,4,2,4,1737.0,1689,2459,43,0.972,40s,High
+5888,711671058,Attrited Customer,48,F,1,Uneducated,Married,Unknown,Blue,38,5,2,2,1438.3,0,2171,38,0.0,40s,Low
+5890,808747233,Attrited Customer,50,M,2,Doctorate,Married,$120K +,Silver,45,6,3,3,34516.0,0,2573,55,0.0,50s,Low
+5891,713084208,Attrited Customer,43,M,4,College,Married,$40K - $60K,Blue,32,6,3,3,4373.0,0,2397,46,0.0,40s,Low
+5892,709803258,Attrited Customer,48,M,2,Unknown,Married,$80K - $120K,Blue,28,5,2,3,12073.0,0,2400,52,0.0,40s,Low
+5895,818699208,Attrited Customer,47,F,4,Post-Graduate,Married,Unknown,Blue,42,4,4,4,6451.0,0,2400,43,0.0,40s,Low
+5897,719516208,Attrited Customer,54,M,2,College,Single,$120K +,Blue,36,3,2,3,34516.0,0,2329,47,0.0,50s,Low
+5898,717026658,Attrited Customer,43,F,3,Uneducated,Married,Less than $40K,Blue,32,6,3,3,1897.0,0,2866,47,0.0,40s,Low
+5913,713261133,Attrited Customer,38,M,4,Graduate,Unknown,$60K - $80K,Blue,22,5,2,3,8632.0,0,2221,40,0.0,30s,Low
+5917,768243858,Attrited Customer,54,M,3,High School,Married,$80K - $120K,Blue,48,3,4,3,3288.0,2517,2717,46,0.766,50s,High
+5929,717072108,Attrited Customer,50,F,2,Unknown,Single,$40K - $60K,Blue,36,3,3,2,2762.0,0,2571,44,0.0,50s,Low
+5930,721460283,Attrited Customer,49,F,3,Post-Graduate,Single,Less than $40K,Blue,35,5,1,2,2214.0,915,2144,51,0.413,40s,Medium
+5939,719577258,Attrited Customer,43,F,2,Uneducated,Divorced,Less than $40K,Blue,30,3,3,4,6811.0,0,1937,39,0.0,40s,Low
+5941,772528158,Attrited Customer,55,F,3,Unknown,Single,Less than $40K,Blue,45,4,3,4,1741.0,0,2546,42,0.0,50s,Low
+5942,718707933,Attrited Customer,54,M,2,Uneducated,Married,$60K - $80K,Blue,35,4,3,4,2189.0,382,2750,51,0.175,50s,Low
+5949,771638733,Attrited Customer,49,M,3,Doctorate,Single,$40K - $60K,Blue,37,5,2,3,4354.0,0,2750,59,0.0,40s,Low
+5955,713930433,Attrited Customer,57,M,2,Uneducated,Unknown,$80K - $120K,Blue,36,5,3,3,4316.0,0,1920,53,0.0,50s,Low
+5957,772162683,Attrited Customer,34,F,2,Graduate,Married,Less than $40K,Blue,23,6,2,2,3116.0,0,2768,45,0.0,30s,Low
+5958,712531008,Attrited Customer,43,M,3,Unknown,Married,$120K +,Blue,34,4,3,2,24868.0,794,2510,32,0.032,40s,Low
+5965,716709858,Attrited Customer,34,F,1,Uneducated,Unknown,Less than $40K,Blue,25,1,2,3,3074.0,0,2721,54,0.0,30s,Low
+5970,814765533,Attrited Customer,44,F,4,High School,Single,$40K - $60K,Blue,39,4,3,3,10587.0,2517,2971,54,0.238,40s,Low
+5980,826421958,Attrited Customer,46,F,1,High School,Married,Less than $40K,Blue,42,5,4,1,1438.3,0,1843,44,0.0,40s,Low
+5982,708158133,Attrited Customer,45,M,3,College,Married,$80K - $120K,Blue,36,3,2,2,3031.0,2517,2188,50,0.83,40s,High
+5989,708653958,Attrited Customer,38,M,3,College,Married,$60K - $80K,Blue,36,5,2,2,6114.0,1461,2608,36,0.239,30s,Low
+5990,712161858,Attrited Customer,55,F,5,Unknown,Single,Less than $40K,Blue,36,4,2,3,1438.3,0,2244,54,0.0,50s,Low
+6002,780143283,Attrited Customer,43,F,3,Graduate,Married,$40K - $60K,Blue,32,4,3,3,2701.0,2498,2678,37,0.925,40s,High
+6005,719881533,Attrited Customer,46,M,2,College,Married,$40K - $60K,Silver,34,5,3,4,16547.0,0,1561,41,0.0,40s,Low
+6008,771783333,Attrited Customer,49,F,1,Uneducated,Divorced,$40K - $60K,Blue,37,6,2,2,2173.0,0,2379,57,0.0,40s,Low
+6018,711274458,Attrited Customer,38,F,3,High School,Married,Less than $40K,Blue,27,4,3,3,1438.3,0,2478,45,0.0,30s,Low
+6023,714035283,Attrited Customer,56,F,1,Post-Graduate,Married,Less than $40K,Blue,36,6,2,2,2802.0,2256,2371,46,0.805,50s,High
+6027,708376983,Attrited Customer,58,F,1,Unknown,Single,Unknown,Blue,50,5,2,2,8513.0,799,2119,37,0.094,50s,Low
+6029,711862533,Attrited Customer,55,F,1,Uneducated,Married,Less than $40K,Blue,36,5,3,2,2258.0,2000,2500,42,0.886,50s,High
+6030,772407333,Attrited Customer,41,F,3,Unknown,Married,Less than $40K,Blue,30,5,3,3,1654.0,0,1730,30,0.0,40s,Low
+6035,720654183,Attrited Customer,45,M,4,Graduate,Married,$80K - $120K,Blue,35,2,3,3,23542.0,1307,2152,46,0.056,40s,Low
+6038,779348358,Attrited Customer,52,F,1,Uneducated,Single,Less than $40K,Blue,37,5,3,4,1717.0,0,3004,46,0.0,50s,Low
+6044,827051808,Attrited Customer,44,F,0,College,Married,Less than $40K,Blue,40,5,4,2,7499.0,1083,2478,45,0.144,40s,Low
+6045,710484408,Attrited Customer,39,M,4,Post-Graduate,Married,$120K +,Blue,29,6,3,3,8700.0,1742,2306,50,0.2,30s,Low
+6046,817108083,Attrited Customer,55,M,3,Unknown,Single,$60K - $80K,Blue,35,3,3,3,14266.0,1341,1625,34,0.094,50s,Low
+6056,713474733,Attrited Customer,51,M,2,Graduate,Single,$80K - $120K,Blue,31,5,3,2,1438.3,327,1783,40,0.227,50s,Low
+6064,790119408,Attrited Customer,48,F,3,Uneducated,Married,Less than $40K,Blue,41,5,3,2,4960.0,0,2430,48,0.0,40s,Low
+6067,708684108,Attrited Customer,46,F,4,Graduate,Married,$40K - $60K,Blue,34,5,3,1,4152.0,1446,2218,30,0.348,40s,Medium
+6073,708736608,Attrited Customer,40,M,3,Graduate,Married,$120K +,Blue,27,5,3,2,2269.0,0,2108,39,0.0,40s,Low
+6074,713047608,Attrited Customer,40,F,2,College,Unknown,Less than $40K,Blue,36,6,1,3,2387.0,2013,2134,41,0.843,40s,High
+6076,711886383,Attrited Customer,54,F,5,High School,Married,Unknown,Blue,44,5,3,3,5342.0,605,2426,46,0.113,50s,Low
+6077,713058858,Attrited Customer,54,F,2,Graduate,Unknown,Less than $40K,Blue,46,5,3,2,1695.0,913,2130,48,0.539,50s,Medium
+6082,714789033,Attrited Customer,54,F,1,Graduate,Married,Less than $40K,Blue,50,3,3,3,3173.0,2517,2763,51,0.793,50s,High
+6083,809811858,Attrited Customer,43,M,5,High School,Unknown,$80K - $120K,Blue,38,3,3,2,1504.0,0,2530,43,0.0,40s,Low
+6084,826709658,Attrited Customer,45,F,3,Graduate,Divorced,$40K - $60K,Blue,41,1,3,3,1477.0,0,2214,43,0.0,40s,Low
+6092,719098308,Attrited Customer,56,F,2,High School,Single,Less than $40K,Blue,42,5,4,2,2423.0,268,2516,59,0.111,50s,Low
+6111,757194408,Attrited Customer,43,M,3,College,Married,$60K - $80K,Blue,36,2,3,3,1438.3,0,1707,38,0.0,40s,Low
+6113,762020133,Attrited Customer,37,F,3,High School,Married,Unknown,Blue,30,3,3,3,9874.0,0,2446,47,0.0,30s,Low
+6117,780720258,Attrited Customer,45,M,4,High School,Divorced,Less than $40K,Blue,34,4,2,3,3489.0,2517,2684,39,0.721,40s,High
+6125,788835408,Attrited Customer,49,F,3,Unknown,Married,Less than $40K,Blue,33,6,3,3,2910.0,0,2648,41,0.0,40s,Low
+6127,712327608,Attrited Customer,54,F,0,Doctorate,Single,Less than $40K,Blue,36,4,3,2,2708.0,0,2321,45,0.0,50s,Low
+6132,712982808,Attrited Customer,47,M,2,Doctorate,Divorced,$80K - $120K,Blue,32,1,3,3,1438.3,0,2388,42,0.0,40s,Low
+6134,715222533,Attrited Customer,52,F,3,Graduate,Married,Less than $40K,Blue,36,5,3,3,2566.0,1079,2340,36,0.42,50s,Medium
+6142,708373083,Attrited Customer,40,F,4,Unknown,Married,$40K - $60K,Blue,30,1,3,4,3356.0,2517,2032,39,0.75,40s,High
+6148,712552608,Attrited Customer,46,F,3,Graduate,Married,Less than $40K,Blue,34,3,3,1,1438.3,0,2658,43,0.0,40s,Low
+6153,794675058,Attrited Customer,36,M,3,Graduate,Married,$80K - $120K,Blue,21,5,3,2,5015.0,1963,2491,43,0.391,30s,Medium
+6157,809616108,Attrited Customer,38,F,2,High School,Single,Less than $40K,Blue,33,3,3,3,1568.0,0,2812,59,0.0,30s,Low
+6161,708108333,Attrited Customer,47,F,3,Graduate,Married,Unknown,Blue,36,3,3,1,5590.0,0,1507,32,0.0,40s,Low
+6168,708972783,Attrited Customer,48,F,4,College,Married,Less than $40K,Blue,37,3,2,3,1745.0,0,2297,44,0.0,40s,Low
+6171,767553333,Attrited Customer,45,M,3,Graduate,Single,$80K - $120K,Blue,39,1,3,3,8383.0,0,2600,44,0.0,40s,Low
+6183,720062508,Attrited Customer,38,F,2,Unknown,Married,$40K - $60K,Blue,28,6,2,2,1628.0,0,2527,41,0.0,30s,Low
+6184,714013983,Attrited Customer,37,F,4,Post-Graduate,Married,Less than $40K,Blue,36,3,3,3,1586.0,0,2109,41,0.0,30s,Low
+6190,713583408,Attrited Customer,51,F,4,Graduate,Single,$40K - $60K,Blue,37,2,3,2,4708.0,920,2179,50,0.195,50s,Low
+6197,713957283,Attrited Customer,42,F,4,Uneducated,Married,Less than $40K,Blue,23,3,2,3,3214.0,0,2119,44,0.0,40s,Low
+6201,815539233,Attrited Customer,54,M,4,High School,Single,$80K - $120K,Silver,49,1,3,4,34516.0,214,1201,22,0.006,50s,Low
+6209,711399408,Attrited Customer,34,F,2,Graduate,Divorced,Unknown,Blue,25,2,3,4,12373.0,0,2462,40,0.0,30s,Low
+6211,711716133,Attrited Customer,42,F,3,High School,Married,$40K - $60K,Blue,34,6,3,1,1585.0,1381,2360,40,0.871,40s,High
+6218,715530258,Attrited Customer,46,F,2,Post-Graduate,Single,Unknown,Blue,37,1,3,3,4848.0,2517,2353,53,0.519,40s,Medium
+6223,710410158,Attrited Customer,49,M,2,Graduate,Unknown,$80K - $120K,Blue,38,3,4,3,34516.0,0,1592,35,0.0,40s,Low
+6231,708976908,Attrited Customer,40,M,3,Post-Graduate,Single,$80K - $120K,Blue,36,4,4,3,8958.0,0,2131,43,0.0,40s,Low
+6234,712602708,Attrited Customer,36,M,3,Unknown,Unknown,$80K - $120K,Blue,36,4,1,2,1815.0,0,2039,34,0.0,30s,Low
+6243,771422883,Attrited Customer,57,F,3,Graduate,Married,Less than $40K,Blue,45,1,4,2,1759.0,186,2705,35,0.106,50s,Low
+6245,708703308,Attrited Customer,35,F,1,Unknown,Married,$40K - $60K,Blue,26,6,4,4,2045.0,1707,2183,39,0.835,30s,High
+6251,820047858,Attrited Customer,44,F,4,Graduate,Unknown,Less than $40K,Blue,39,1,4,2,3017.0,1868,2096,50,0.619,40s,Medium
+6253,708186933,Attrited Customer,33,M,1,Graduate,Single,$60K - $80K,Blue,36,4,3,2,1819.0,725,2254,45,0.399,30s,Medium
+6255,815315058,Attrited Customer,48,F,4,High School,Married,$40K - $60K,Blue,43,4,2,2,1438.3,0,2520,45,0.0,40s,Low
+6261,713512308,Attrited Customer,50,F,0,Graduate,Single,Less than $40K,Blue,41,2,3,1,3423.0,0,2229,45,0.0,50s,Low
+6264,709581483,Attrited Customer,40,F,4,Doctorate,Married,Less than $40K,Blue,21,1,2,1,2984.0,2517,2373,53,0.843,40s,High
+6265,711201108,Attrited Customer,37,F,3,High School,Single,Less than $40K,Blue,29,3,3,3,1653.0,0,2284,35,0.0,30s,Low
+6268,714887808,Attrited Customer,43,F,1,Uneducated,Single,Less than $40K,Blue,36,1,3,2,1818.0,0,2279,50,0.0,40s,Low
+6271,709714008,Attrited Customer,50,F,1,Unknown,Single,Unknown,Blue,39,6,3,3,9248.0,0,2325,45,0.0,50s,Low
+6273,714519408,Attrited Customer,44,F,3,College,Married,Less than $40K,Blue,36,2,3,3,5357.0,2139,1979,48,0.399,40s,Medium
+6276,712740108,Attrited Customer,43,F,4,Uneducated,Divorced,Less than $40K,Blue,33,6,3,1,1706.0,0,2371,45,0.0,40s,Low
+6277,720251358,Attrited Customer,54,F,2,High School,Divorced,Less than $40K,Blue,36,6,3,1,3591.0,2517,2313,43,0.701,50s,High
+6282,828294933,Attrited Customer,49,F,3,High School,Married,Less than $40K,Blue,45,3,2,3,2951.0,2437,2519,36,0.826,40s,High
+6284,712307283,Attrited Customer,54,M,1,College,Single,$120K +,Blue,37,6,2,3,9090.0,2517,2239,43,0.277,50s,Low
+6286,778910883,Attrited Customer,53,M,2,Unknown,Married,$80K - $120K,Blue,34,4,3,2,1837.0,875,2169,43,0.476,50s,Medium
+6292,779848383,Attrited Customer,37,F,3,Graduate,Single,Less than $40K,Blue,21,4,2,2,1784.0,577,2348,47,0.323,30s,Medium
+6307,712163433,Attrited Customer,47,M,3,Uneducated,Married,$40K - $60K,Blue,29,1,2,4,1684.0,644,2164,36,0.382,40s,Medium
+6313,711487533,Attrited Customer,47,F,3,Unknown,Married,Less than $40K,Blue,38,3,3,2,1438.3,0,1687,38,0.0,40s,Low
+6314,715306983,Attrited Customer,42,M,5,High School,Married,$60K - $80K,Blue,36,1,2,3,1866.0,0,2833,42,0.0,40s,Low
+6316,789637308,Attrited Customer,45,F,2,College,Divorced,$40K - $60K,Blue,39,4,3,4,3076.0,0,2580,50,0.0,40s,Low
+6319,794172033,Attrited Customer,58,F,1,Post-Graduate,Divorced,Less than $40K,Blue,52,4,1,3,1817.0,0,2347,45,0.0,50s,Low
+6327,714520233,Attrited Customer,59,F,0,Graduate,Married,Less than $40K,Blue,36,2,3,2,1708.0,0,1992,38,0.0,50s,Low
+6333,717725433,Attrited Customer,54,F,2,Graduate,Married,$40K - $60K,Blue,44,3,4,2,1606.0,0,2258,37,0.0,50s,Low
+6354,710690733,Attrited Customer,47,F,3,Graduate,Married,Less than $40K,Blue,35,4,3,2,1666.0,0,2816,38,0.0,40s,Low
+6358,779084208,Attrited Customer,43,F,3,High School,Divorced,Less than $40K,Blue,24,4,2,2,1662.0,613,2326,31,0.369,40s,Medium
+6359,715304958,Attrited Customer,42,F,3,Graduate,Single,Less than $40K,Blue,27,6,2,2,2053.0,0,3053,50,0.0,40s,Low
+6362,715950483,Attrited Customer,39,F,1,Uneducated,Married,$40K - $60K,Blue,27,3,3,3,2821.0,725,2397,35,0.257,30s,Low
+6366,711919608,Attrited Customer,42,F,3,Graduate,Married,Less than $40K,Blue,36,4,3,2,2031.0,1720,2702,32,0.847,40s,High
+6370,789095958,Attrited Customer,50,M,1,Unknown,Single,$60K - $80K,Blue,38,4,3,3,7603.0,744,2497,42,0.098,50s,Low
+6371,713736333,Attrited Customer,41,F,3,Uneducated,Married,$40K - $60K,Blue,36,1,3,4,3606.0,0,1829,41,0.0,40s,Low
+6375,714213708,Attrited Customer,35,F,3,College,Single,Less than $40K,Blue,25,4,3,2,3611.0,2517,2178,45,0.697,30s,Medium
+6382,720142308,Attrited Customer,52,F,2,Graduate,Married,Less than $40K,Blue,36,5,3,4,2160.0,0,2360,56,0.0,50s,Low
+6389,819688458,Attrited Customer,44,F,5,Graduate,Unknown,Less than $40K,Blue,39,6,3,2,1545.0,0,2646,39,0.0,40s,Low
+6390,710785383,Attrited Customer,49,F,2,Graduate,Married,Less than $40K,Blue,39,3,3,1,2212.0,0,2394,55,0.0,40s,Low
+6392,713597658,Attrited Customer,36,F,3,Uneducated,Single,Less than $40K,Blue,22,3,3,1,2784.0,2378,2021,57,0.854,30s,High
+6393,713953383,Attrited Customer,50,M,1,Post-Graduate,Single,$60K - $80K,Blue,36,4,3,2,2317.0,0,2214,41,0.0,50s,Low
+6394,716510658,Attrited Customer,50,F,0,Doctorate,Single,Less than $40K,Blue,38,4,3,3,2595.0,2353,2526,41,0.907,50s,High
+6397,708519108,Attrited Customer,46,F,1,Graduate,Married,Unknown,Blue,24,3,3,2,2694.0,1576,2041,57,0.585,40s,Medium
+6398,719740008,Attrited Customer,51,F,4,High School,Married,Less than $40K,Blue,41,3,3,4,2791.0,940,2584,49,0.337,50s,Medium
+6419,714408933,Attrited Customer,44,M,4,Graduate,Single,$80K - $120K,Blue,36,4,2,2,10834.0,0,2249,51,0.0,40s,Low
+6436,712795833,Attrited Customer,34,F,4,Graduate,Married,Less than $40K,Blue,36,2,2,4,5021.0,2517,2270,40,0.501,30s,Medium
+6441,712593933,Attrited Customer,40,M,3,Doctorate,Married,$40K - $60K,Blue,36,3,3,4,2313.0,0,2249,42,0.0,40s,Low
+6446,714164808,Attrited Customer,42,F,4,Graduate,Married,$40K - $60K,Blue,33,4,3,2,2918.0,0,2056,54,0.0,40s,Low
+6452,710500983,Attrited Customer,43,M,2,College,Single,$80K - $120K,Blue,34,2,4,3,4617.0,1035,1779,35,0.224,40s,Low
+6456,717666783,Attrited Customer,56,F,3,College,Single,Less than $40K,Blue,46,1,3,3,2272.0,1350,2354,49,0.594,50s,Medium
+6461,720731808,Attrited Customer,52,F,3,Graduate,Single,Less than $40K,Blue,38,2,3,4,2437.0,0,3068,53,0.0,50s,Low
+6463,789907533,Attrited Customer,49,M,3,Graduate,Married,$80K - $120K,Blue,40,4,2,3,4576.0,193,3100,54,0.042,40s,Low
+6465,715919283,Attrited Customer,39,F,4,College,Single,$40K - $60K,Blue,36,3,2,3,1776.0,0,2201,31,0.0,30s,Low
+6469,714559458,Attrited Customer,46,M,4,College,Married,$60K - $80K,Blue,36,4,2,1,1681.0,0,1953,48,0.0,40s,Low
+6471,772150983,Attrited Customer,48,F,3,High School,Unknown,Less than $40K,Blue,37,4,2,1,2363.0,978,2635,40,0.414,40s,Medium
+6494,713920158,Attrited Customer,41,F,3,Uneducated,Unknown,Unknown,Blue,36,2,3,1,13733.0,0,1591,30,0.0,40s,Low
+6498,712998033,Attrited Customer,37,M,3,High School,Single,$120K +,Blue,36,3,2,2,7361.0,0,2109,44,0.0,30s,Low
+6499,712843983,Attrited Customer,41,F,2,College,Divorced,Less than $40K,Blue,36,3,3,4,1569.0,257,2288,45,0.164,40s,Low
+6512,714127383,Attrited Customer,48,F,3,Unknown,Unknown,Unknown,Blue,36,3,3,2,4431.0,2517,2185,48,0.568,40s,Medium
+6517,779380908,Attrited Customer,51,M,1,Unknown,Married,$80K - $120K,Blue,39,4,3,4,24462.0,946,1709,37,0.039,50s,Low
+6523,713011683,Attrited Customer,37,F,3,College,Married,Unknown,Blue,24,4,2,4,11239.0,0,2055,43,0.0,30s,Low
+6535,712677633,Attrited Customer,42,F,0,Uneducated,Divorced,Unknown,Blue,31,3,3,4,2712.0,0,2307,28,0.0,40s,Low
+6551,713381433,Attrited Customer,38,F,1,High School,Married,Less than $40K,Blue,28,3,3,3,4196.0,731,1868,30,0.174,30s,Low
+6556,716697708,Attrited Customer,61,F,1,High School,Single,Unknown,Blue,52,3,2,4,3293.0,0,3121,56,0.0,60s,Low
+6566,720507108,Attrited Customer,42,F,3,College,Married,Less than $40K,Blue,28,3,3,2,1601.0,0,2339,41,0.0,40s,Low
+6567,716751858,Attrited Customer,34,F,1,Unknown,Married,Less than $40K,Blue,36,2,3,3,2401.0,496,2597,40,0.207,30s,Low
+6568,712829808,Attrited Customer,39,M,3,Uneducated,Married,$60K - $80K,Blue,29,4,3,4,2187.0,0,2031,40,0.0,30s,Low
+6575,779302233,Attrited Customer,40,F,4,Graduate,Single,Less than $40K,Blue,22,4,2,3,1438.3,0,2502,45,0.0,40s,Low
+6579,717042333,Attrited Customer,53,F,2,College,Married,Less than $40K,Blue,44,3,3,3,1473.0,0,2836,48,0.0,50s,Low
+6585,771061008,Attrited Customer,40,F,2,Doctorate,Married,$40K - $60K,Blue,27,4,2,3,2208.0,0,2659,56,0.0,40s,Low
+6607,720824883,Attrited Customer,48,F,1,Unknown,Single,Less than $40K,Blue,40,3,1,2,3251.0,2517,2483,50,0.774,40s,High
+6610,715847058,Attrited Customer,59,F,2,Uneducated,Divorced,Less than $40K,Blue,36,3,3,3,1863.0,1853,2462,40,0.995,50s,High
+6613,712770408,Attrited Customer,42,F,2,Graduate,Unknown,Less than $40K,Blue,36,6,3,2,3413.0,0,2285,40,0.0,40s,Low
+6617,710752233,Attrited Customer,43,F,5,High School,Unknown,$40K - $60K,Blue,24,3,2,2,4430.0,2203,2742,49,0.497,40s,Medium
+6620,715146558,Attrited Customer,34,F,2,College,Married,Less than $40K,Blue,36,1,3,2,1696.0,0,2325,56,0.0,30s,Low
+6622,778606308,Attrited Customer,45,M,3,Uneducated,Divorced,$80K - $120K,Blue,25,2,2,3,6614.0,1881,3016,51,0.284,40s,Low
+6623,710438358,Attrited Customer,42,F,1,Uneducated,Single,Less than $40K,Blue,35,4,3,3,3241.0,0,2152,43,0.0,40s,Low
+6624,712562433,Attrited Customer,48,F,2,Unknown,Married,Less than $40K,Blue,30,3,3,3,4204.0,0,2316,43,0.0,40s,Low
+6626,713717283,Attrited Customer,40,F,3,Unknown,Single,$40K - $60K,Blue,29,3,3,3,2473.0,2332,1738,32,0.943,40s,High
+6627,713822208,Attrited Customer,42,M,2,High School,Single,$60K - $80K,Blue,33,3,3,3,4836.0,493,1870,45,0.102,40s,Low
+6630,718230933,Attrited Customer,45,M,4,Graduate,Single,Less than $40K,Blue,36,5,2,3,1438.3,1060,1253,29,0.737,40s,High
+6632,711637458,Attrited Customer,44,F,3,High School,Single,Less than $40K,Blue,36,2,3,3,2228.0,0,2523,45,0.0,40s,Low
+6636,708384033,Attrited Customer,45,F,3,Uneducated,Married,Less than $40K,Blue,35,3,3,3,2745.0,2463,2466,39,0.897,40s,High
+6643,713677158,Attrited Customer,31,F,1,Graduate,Divorced,Unknown,Blue,22,2,2,3,1623.0,0,2126,45,0.0,30s,Low
+6646,718090233,Attrited Customer,56,F,3,Graduate,Single,Unknown,Blue,36,3,3,3,10016.0,1872,2804,37,0.187,50s,Low
+6655,787529583,Attrited Customer,41,F,5,Unknown,Married,$40K - $60K,Blue,30,5,2,3,1588.0,0,2561,61,0.0,40s,Low
+6659,713772333,Attrited Customer,45,F,3,Unknown,Divorced,Less than $40K,Blue,34,4,3,1,3223.0,243,1979,38,0.075,40s,Low
+6664,714514008,Attrited Customer,38,F,1,Graduate,Married,Unknown,Blue,29,3,3,3,8953.0,0,1982,43,0.0,30s,Low
+6665,711669258,Attrited Customer,50,F,3,Uneducated,Single,Unknown,Blue,36,2,3,3,3187.0,986,2381,47,0.309,50s,Medium
+6670,720592533,Attrited Customer,41,M,4,Graduate,Unknown,$80K - $120K,Blue,31,3,3,2,19782.0,868,2535,44,0.044,40s,Low
+6674,778207083,Attrited Customer,53,M,4,Uneducated,Single,$80K - $120K,Blue,44,3,3,2,11561.0,2189,2153,39,0.189,50s,Low
+6675,778781508,Attrited Customer,44,F,2,High School,Married,Unknown,Blue,32,4,3,3,8477.0,2517,2455,41,0.297,40s,Low
+6685,712130058,Attrited Customer,44,F,4,Uneducated,Single,Unknown,Blue,36,3,3,4,8075.0,317,2415,41,0.039,40s,Low
+6695,794719983,Attrited Customer,44,F,4,High School,Unknown,Less than $40K,Blue,38,2,2,3,2616.0,2505,2576,42,0.958,40s,High
+6696,778378983,Attrited Customer,54,F,1,Graduate,Single,Less than $40K,Blue,34,5,2,2,2939.0,2152,2476,42,0.732,50s,High
+6711,712448658,Attrited Customer,52,F,1,High School,Single,Less than $40K,Blue,36,3,3,2,1795.0,0,2281,55,0.0,50s,Low
+6717,708276183,Attrited Customer,52,F,3,Post-Graduate,Married,Less than $40K,Blue,45,2,4,1,1760.0,0,1554,35,0.0,50s,Low
+6719,720590058,Attrited Customer,51,F,1,Graduate,Single,$40K - $60K,Blue,36,3,3,3,8840.0,1794,2839,47,0.203,50s,Low
+6722,717748608,Attrited Customer,35,F,4,High School,Married,Less than $40K,Blue,24,3,2,4,1555.0,872,2252,51,0.561,30s,Medium
+6724,716694108,Attrited Customer,42,M,4,Uneducated,Married,$120K +,Blue,34,2,3,3,5195.0,468,2682,48,0.09,40s,Low
+6726,719981508,Attrited Customer,37,M,2,Uneducated,Single,Unknown,Blue,24,2,2,3,1649.0,0,2574,51,0.0,30s,Low
+6729,716754783,Attrited Customer,43,M,4,High School,Married,$120K +,Blue,30,3,2,3,17228.0,1331,2229,44,0.077,40s,Low
+6736,708575058,Attrited Customer,46,F,3,Uneducated,Divorced,$40K - $60K,Blue,39,2,3,2,3157.0,965,3300,58,0.306,40s,Medium
+6737,713929533,Attrited Customer,36,F,3,College,Married,Less than $40K,Blue,36,2,2,2,1707.0,0,2060,52,0.0,30s,Low
+6740,720766908,Attrited Customer,40,F,2,Uneducated,Single,Less than $40K,Blue,28,2,2,2,3021.0,0,2814,37,0.0,40s,Low
+6746,805524708,Attrited Customer,52,F,3,High School,Divorced,Less than $40K,Blue,47,3,3,1,6629.0,2517,2599,50,0.38,50s,Medium
+6756,716299608,Attrited Customer,58,F,3,Unknown,Divorced,Less than $40K,Blue,36,2,2,3,1508.0,0,1990,31,0.0,50s,Low
+6762,714923583,Attrited Customer,38,F,2,Graduate,Unknown,Less than $40K,Blue,36,2,3,2,2369.0,0,1924,48,0.0,30s,Low
+6775,720719883,Attrited Customer,54,F,1,Graduate,Single,Unknown,Blue,41,3,3,3,1874.0,0,2535,55,0.0,50s,Low
+6784,806914158,Attrited Customer,38,F,4,Graduate,Married,$40K - $60K,Blue,33,4,3,1,4047.0,0,2134,34,0.0,30s,Low
+6794,793630083,Attrited Customer,39,M,2,High School,Single,$120K +,Blue,33,1,3,4,1726.0,1476,1804,34,0.855,30s,High
+6797,712900308,Attrited Customer,44,F,2,College,Single,Less than $40K,Blue,34,4,3,3,1751.0,0,2078,37,0.0,40s,Low
+6802,780660183,Attrited Customer,43,F,4,High School,Divorced,Less than $40K,Blue,32,2,3,2,8203.0,0,2613,46,0.0,40s,Low
+6803,720761208,Attrited Customer,59,M,1,College,Single,$120K +,Blue,47,2,4,2,4789.0,357,2496,41,0.075,50s,Low
+6804,788794758,Attrited Customer,46,M,4,Graduate,Single,$40K - $60K,Blue,28,2,2,4,2979.0,0,2061,38,0.0,40s,Low
+6805,711150333,Attrited Customer,40,F,3,Graduate,Single,Less than $40K,Blue,31,5,3,2,2391.0,0,2857,40,0.0,40s,Low
+6810,715516458,Attrited Customer,42,F,1,High School,Married,$40K - $60K,Blue,36,5,3,2,2705.0,2430,2602,43,0.898,40s,High
+6822,713373708,Attrited Customer,54,F,3,Unknown,Single,Less than $40K,Blue,36,2,3,3,1857.0,0,2464,57,0.0,50s,Low
+6835,711448983,Attrited Customer,47,F,2,Graduate,Married,Less than $40K,Blue,34,2,2,2,2234.0,2024,2313,37,0.906,40s,High
+6836,712664658,Attrited Customer,35,F,1,Graduate,Single,Less than $40K,Blue,30,2,2,2,1649.0,0,2549,54,0.0,30s,Low
+6837,714237033,Attrited Customer,42,F,4,Uneducated,Married,Unknown,Blue,36,6,2,3,5557.0,2246,2299,39,0.404,40s,Medium
+6839,713726958,Attrited Customer,40,F,3,Doctorate,Married,Less than $40K,Blue,21,5,2,2,1728.0,0,2191,38,0.0,40s,Low
+6842,711873033,Attrited Customer,35,F,3,Unknown,Single,Unknown,Blue,29,4,2,3,1438.3,0,2549,56,0.0,30s,Low
+6843,712715208,Attrited Customer,52,M,1,High School,Single,$80K - $120K,Blue,44,1,3,2,3770.0,0,2387,51,0.0,50s,Low
+6844,778899708,Attrited Customer,56,F,2,Unknown,Single,$40K - $60K,Blue,37,2,2,3,2963.0,0,2919,47,0.0,50s,Low
+6845,771865908,Attrited Customer,48,F,2,Graduate,Single,Unknown,Blue,37,4,2,3,11750.0,487,2532,48,0.041,40s,Low
+6848,715162608,Attrited Customer,48,F,2,Graduate,Single,Less than $40K,Blue,41,4,2,3,2168.0,1323,2499,38,0.61,40s,Medium
+6855,709079883,Attrited Customer,45,F,4,Doctorate,Married,Less than $40K,Blue,36,5,3,3,1663.0,1012,2729,38,0.609,40s,Medium
+6856,721406658,Attrited Customer,32,F,0,Unknown,Divorced,Less than $40K,Blue,36,6,3,3,1732.0,0,2479,43,0.0,30s,Low
+6862,797150733,Attrited Customer,44,M,3,Unknown,Single,$40K - $60K,Blue,38,5,2,2,1643.0,0,1754,39,0.0,40s,Low
+6873,714930333,Attrited Customer,39,M,3,College,Married,$80K - $120K,Blue,30,2,3,3,4618.0,0,2476,49,0.0,30s,Low
+6883,717489033,Attrited Customer,27,F,0,High School,Single,Less than $40K,Blue,18,6,1,4,1438.3,0,2641,40,0.0,20s,Low
+6888,714424533,Attrited Customer,41,F,4,Graduate,Married,Less than $40K,Blue,36,6,2,2,1655.0,0,2156,37,0.0,40s,Low
+6893,713748708,Attrited Customer,46,F,3,Graduate,Single,Less than $40K,Blue,37,1,2,4,1438.3,0,1757,44,0.0,40s,Low
+6895,816476658,Attrited Customer,54,F,2,Unknown,Married,Unknown,Blue,49,2,4,3,1812.0,1798,2921,44,0.992,50s,High
+6902,711234783,Attrited Customer,44,F,4,Unknown,Married,Less than $40K,Blue,28,5,2,3,2020.0,0,2621,45,0.0,40s,Low
+6906,717409533,Attrited Customer,36,F,2,Post-Graduate,Single,Less than $40K,Blue,26,1,2,3,1821.0,1486,2824,43,0.816,30s,High
+6910,787452333,Attrited Customer,39,F,1,High School,Married,Less than $40K,Blue,25,2,2,1,2024.0,0,2870,36,0.0,30s,Low
+6911,709520058,Attrited Customer,53,M,5,Uneducated,Married,$120K +,Blue,38,4,2,2,19138.0,0,2028,43,0.0,50s,Low
+6913,711800658,Attrited Customer,42,F,3,High School,Single,Less than $40K,Blue,36,2,3,3,2145.0,0,2465,42,0.0,40s,Low
+6915,712279683,Attrited Customer,44,M,3,Graduate,Married,$60K - $80K,Blue,36,2,3,3,9114.0,0,2740,52,0.0,40s,Low
+6929,712853358,Attrited Customer,39,F,3,High School,Unknown,Less than $40K,Blue,36,2,3,2,1817.0,0,2216,44,0.0,30s,Low
+6934,719860308,Attrited Customer,42,F,2,Graduate,Married,Less than $40K,Blue,36,2,3,3,1438.3,0,2418,48,0.0,40s,Low
+6935,714443058,Attrited Customer,43,F,4,College,Married,Less than $40K,Blue,28,5,2,4,1484.0,0,1664,39,0.0,40s,Low
+6947,718806783,Attrited Customer,46,F,3,Uneducated,Married,Unknown,Blue,36,2,3,1,2872.0,357,2629,41,0.124,40s,Low
+6948,714484008,Attrited Customer,49,F,4,Uneducated,Married,Less than $40K,Blue,31,4,3,2,1567.0,0,2138,41,0.0,40s,Low
+6949,719176308,Attrited Customer,43,M,3,College,Divorced,$80K - $120K,Blue,32,6,3,2,7278.0,0,2120,43,0.0,40s,Low
+6952,714630858,Attrited Customer,36,F,1,Uneducated,Unknown,Less than $40K,Blue,36,2,3,2,1470.0,458,2383,39,0.312,30s,Medium
+6957,779905008,Attrited Customer,54,F,4,Graduate,Unknown,$40K - $60K,Blue,38,2,2,1,1779.0,0,2660,41,0.0,50s,Low
+6960,720961383,Attrited Customer,47,F,3,Uneducated,Single,Unknown,Blue,36,2,3,4,2952.0,0,2907,60,0.0,40s,Low
+6961,714202008,Attrited Customer,53,F,2,High School,Married,Less than $40K,Blue,36,6,3,2,3918.0,2517,2115,42,0.642,50s,Medium
+6965,712704933,Attrited Customer,49,F,4,High School,Unknown,$40K - $60K,Blue,43,4,3,3,4048.0,0,2227,41,0.0,40s,Low
+6970,715904433,Attrited Customer,42,F,4,College,Married,$40K - $60K,Blue,34,1,3,2,1695.0,0,2055,46,0.0,40s,Low
+6975,711691608,Attrited Customer,46,F,4,Graduate,Single,Less than $40K,Blue,36,2,3,3,2881.0,2450,2450,49,0.85,40s,High
+6978,708266883,Attrited Customer,34,F,2,Graduate,Single,Less than $40K,Blue,36,1,2,3,1666.0,0,2312,35,0.0,30s,Low
+6984,711102858,Attrited Customer,48,F,2,Doctorate,Single,Unknown,Blue,36,4,2,3,3137.0,860,1618,34,0.274,40s,Low
+6985,711722808,Attrited Customer,51,F,4,Graduate,Single,Less than $40K,Blue,44,5,3,3,1483.0,0,2520,40,0.0,50s,Low
+6996,710292333,Attrited Customer,44,F,3,High School,Married,Unknown,Blue,36,3,3,4,7772.0,0,2618,52,0.0,40s,Low
+6999,714848958,Attrited Customer,47,F,2,Graduate,Single,Less than $40K,Gold,37,6,2,1,15109.0,897,2315,43,0.059,40s,Low
+7006,713144208,Attrited Customer,51,F,0,High School,Married,Unknown,Blue,42,1,4,4,9989.0,568,2053,49,0.057,50s,Low
+7007,771594783,Attrited Customer,56,F,1,College,Married,Unknown,Blue,44,2,4,4,1438.3,0,2264,37,0.0,50s,Low
+7014,719305608,Attrited Customer,57,F,3,High School,Single,Less than $40K,Blue,36,4,3,3,2347.0,1900,2447,47,0.81,50s,High
+7015,720190083,Attrited Customer,56,F,3,Unknown,Single,Less than $40K,Blue,39,1,3,4,1632.0,0,2509,47,0.0,50s,Low
+7016,708323208,Attrited Customer,49,F,3,Uneducated,Married,Less than $40K,Blue,36,4,2,4,1522.0,0,2241,36,0.0,40s,Low
+7019,716963283,Attrited Customer,47,F,3,Graduate,Unknown,Less than $40K,Blue,38,2,2,3,3165.0,2517,2751,49,0.795,40s,High
+7022,719449533,Attrited Customer,49,F,3,Uneducated,Single,$40K - $60K,Blue,38,1,2,3,2655.0,2283,2386,49,0.86,40s,High
+7037,778819083,Attrited Customer,41,F,2,Doctorate,Married,$40K - $60K,Blue,33,1,3,3,1604.0,0,2264,47,0.0,40s,Low
+7038,714773508,Attrited Customer,54,F,1,Graduate,Married,$40K - $60K,Blue,46,6,4,3,1632.0,351,2532,43,0.215,50s,Low
+7043,711456108,Attrited Customer,46,F,4,Unknown,Married,$40K - $60K,Blue,39,5,3,3,1438.3,819,2488,44,0.569,40s,Medium
+7048,713027058,Attrited Customer,46,F,4,Doctorate,Single,Less than $40K,Blue,36,2,2,3,2292.0,0,2595,31,0.0,40s,Low
+7050,781137783,Attrited Customer,40,M,3,High School,Unknown,Less than $40K,Blue,33,1,3,4,2420.0,191,2478,43,0.079,40s,Low
+7057,714197133,Attrited Customer,51,F,3,College,Married,$40K - $60K,Blue,36,2,3,3,4762.0,0,2811,52,0.0,50s,Low
+7070,716279508,Attrited Customer,48,M,3,College,Married,$80K - $120K,Blue,41,2,3,3,3430.0,2517,2639,46,0.734,40s,High
+7072,717502083,Attrited Customer,41,M,3,Doctorate,Single,$120K +,Blue,28,4,2,3,6314.0,0,2718,44,0.0,40s,Low
+7074,709745508,Attrited Customer,58,F,2,Unknown,Divorced,$40K - $60K,Blue,47,1,4,3,2295.0,0,2140,40,0.0,50s,Low
+7085,807946833,Attrited Customer,44,F,2,Graduate,Single,Less than $40K,Blue,39,6,3,3,1791.0,0,2771,36,0.0,40s,Low
+7090,717146208,Attrited Customer,59,F,1,Graduate,Single,Less than $40K,Blue,51,1,4,4,4257.0,2517,2828,50,0.591,50s,Medium
+7099,785237958,Attrited Customer,45,M,5,College,Married,$60K - $80K,Blue,39,2,3,3,3439.0,0,2661,35,0.0,40s,Low
+7103,719123958,Attrited Customer,40,M,4,Unknown,Divorced,$60K - $80K,Blue,27,2,2,3,5051.0,0,2137,45,0.0,40s,Low
+7107,712660308,Attrited Customer,44,F,1,High School,Single,Less than $40K,Blue,36,2,3,3,1895.0,0,2472,40,0.0,40s,Low
+7119,824560758,Attrited Customer,35,F,3,Graduate,Single,Less than $40K,Blue,31,1,3,4,1678.0,0,2475,61,0.0,30s,Low
+7120,757710783,Attrited Customer,36,F,1,Graduate,Married,Less than $40K,Blue,29,4,2,3,1493.0,0,2516,63,0.0,30s,Low
+7125,711683358,Attrited Customer,46,F,3,High School,Unknown,Less than $40K,Blue,41,2,3,4,3313.0,0,2135,44,0.0,40s,Low
+7137,779859558,Attrited Customer,54,F,3,High School,Married,Less than $40K,Blue,38,2,2,4,2452.0,1012,2398,29,0.413,50s,Medium
+7144,780670083,Attrited Customer,39,F,2,Unknown,Unknown,$40K - $60K,Blue,28,1,2,3,4363.0,0,2596,48,0.0,30s,Low
+7152,712790358,Attrited Customer,39,F,3,Uneducated,Married,Unknown,Blue,30,6,3,4,3023.0,1348,2219,44,0.446,30s,Medium
+7174,713931258,Attrited Customer,56,F,3,Graduate,Married,Less than $40K,Blue,45,2,3,4,1438.3,0,1988,42,0.0,50s,Low
+7182,784895358,Attrited Customer,49,F,1,Graduate,Married,Less than $40K,Blue,43,5,3,3,1938.0,0,2870,49,0.0,40s,Low
+7207,772271508,Attrited Customer,46,F,3,Uneducated,Single,Unknown,Blue,35,2,3,3,1706.0,0,2320,42,0.0,40s,Low
+7233,785285883,Attrited Customer,49,F,3,Graduate,Single,Less than $40K,Blue,43,6,3,4,1675.0,0,2622,53,0.0,40s,Low
+7238,715773783,Attrited Customer,44,F,2,Graduate,Single,$40K - $60K,Blue,35,2,3,4,4196.0,561,2558,38,0.134,40s,Low
+7241,712747758,Attrited Customer,50,F,4,Uneducated,Single,Less than $40K,Blue,36,2,2,3,2477.0,0,2037,43,0.0,50s,Low
+7243,750995508,Attrited Customer,41,M,3,Unknown,Single,$60K - $80K,Blue,32,1,3,3,4697.0,1046,1679,29,0.223,40s,Low
+7246,718437033,Attrited Customer,46,M,2,Uneducated,Unknown,$60K - $80K,Blue,30,4,3,2,1438.3,681,2527,38,0.473,40s,Medium
+7254,709222008,Attrited Customer,41,M,3,Unknown,Single,$80K - $120K,Blue,32,1,3,4,4742.0,2221,2422,41,0.468,40s,Medium
+7260,718742808,Attrited Customer,55,F,1,High School,Married,$40K - $60K,Blue,46,2,4,3,4629.0,710,2877,49,0.153,50s,Low
+7262,721041483,Attrited Customer,45,M,4,Doctorate,Married,$60K - $80K,Blue,37,1,2,2,13093.0,2517,2032,39,0.192,40s,Low
+7279,708416433,Attrited Customer,41,F,1,High School,Single,Less than $40K,Blue,36,4,3,2,2372.0,0,2499,41,0.0,40s,Low
+7280,779183958,Attrited Customer,45,F,2,Graduate,Single,Less than $40K,Blue,33,1,3,4,1492.0,0,2469,38,0.0,40s,Low
+7289,711666708,Attrited Customer,52,F,2,High School,Married,Unknown,Blue,39,1,3,4,2233.0,1790,2888,50,0.802,50s,High
+7297,819634233,Attrited Customer,46,F,2,Graduate,Unknown,Less than $40K,Blue,40,5,2,2,6568.0,0,1507,33,0.0,40s,Low
+7323,719868183,Attrited Customer,42,F,3,High School,Married,$40K - $60K,Blue,30,5,3,2,1456.0,0,2843,42,0.0,40s,Low
+7328,767404083,Attrited Customer,52,M,2,Graduate,Single,$60K - $80K,Blue,45,2,3,3,3460.0,0,2355,47,0.0,50s,Low
+7330,772127508,Attrited Customer,31,F,1,Uneducated,Married,Less than $40K,Blue,20,6,2,2,1438.3,0,2614,49,0.0,30s,Low
+7341,778441533,Attrited Customer,45,F,4,High School,Single,Unknown,Blue,26,6,2,2,4549.0,1631,2240,34,0.359,40s,Medium
+7346,712683633,Attrited Customer,32,F,0,Unknown,Married,Less than $40K,Blue,36,5,3,3,1438.3,0,2464,37,0.0,30s,Low
+7360,719150658,Attrited Customer,51,F,2,Graduate,Married,Unknown,Blue,34,2,3,2,7551.0,0,2977,46,0.0,50s,Low
+7363,716354883,Attrited Customer,59,F,0,Graduate,Unknown,Unknown,Blue,49,2,3,2,9076.0,0,3048,53,0.0,50s,Low
+7376,711092658,Attrited Customer,39,F,3,Graduate,Married,Unknown,Blue,26,2,2,3,4376.0,855,2862,52,0.195,30s,Low
+7384,772306383,Attrited Customer,57,F,3,Unknown,Unknown,Less than $40K,Blue,43,5,3,2,1462.0,0,2299,42,0.0,50s,Low
+7390,719759733,Attrited Customer,59,F,0,Unknown,Single,$40K - $60K,Blue,52,2,4,3,1852.0,0,2851,49,0.0,50s,Low
+7392,822170733,Attrited Customer,45,F,4,College,Single,Less than $40K,Blue,41,6,3,2,3785.0,2517,2401,54,0.665,40s,Medium
+7394,719299533,Attrited Customer,55,F,1,Unknown,Unknown,Less than $40K,Blue,36,2,3,2,3626.0,795,2954,42,0.219,50s,Low
+7400,716688183,Attrited Customer,51,F,1,High School,Married,Less than $40K,Blue,43,4,3,3,1665.0,1521,2878,45,0.914,50s,High
+7406,741517458,Attrited Customer,49,F,4,Graduate,Married,Less than $40K,Blue,42,2,4,3,2575.0,2517,1874,40,0.977,40s,High
+7410,772286658,Attrited Customer,63,M,1,Graduate,Single,$60K - $80K,Blue,52,6,4,3,14324.0,2507,2083,56,0.175,60s,Low
+7412,771045708,Attrited Customer,41,F,5,Graduate,Married,Less than $40K,Blue,28,2,3,3,1504.0,970,2801,51,0.645,40s,Medium
+7418,720460083,Attrited Customer,45,F,4,Unknown,Single,Unknown,Gold,27,1,2,3,34516.0,0,2198,42,0.0,40s,Low
+7422,717874533,Attrited Customer,46,M,2,High School,Single,$40K - $60K,Blue,36,5,2,2,6362.0,0,1968,51,0.0,40s,Low
+7426,712136058,Attrited Customer,54,F,2,College,Single,Unknown,Blue,36,1,3,3,8827.0,0,2643,50,0.0,50s,Low
+7428,714276408,Attrited Customer,52,F,3,Uneducated,Single,$40K - $60K,Blue,36,2,3,3,1915.0,1445,2264,39,0.755,50s,High
+7433,713555133,Attrited Customer,56,F,3,High School,Unknown,Less than $40K,Blue,44,4,3,2,1667.0,595,2424,40,0.357,50s,Medium
+7434,711232608,Attrited Customer,47,F,5,High School,Single,Less than $40K,Blue,36,2,3,2,1636.0,0,2235,35,0.0,40s,Low
+7437,719590458,Attrited Customer,44,F,4,Graduate,Married,Less than $40K,Blue,36,6,3,3,1905.0,0,3120,46,0.0,40s,Low
+7440,807379833,Attrited Customer,48,M,3,Graduate,Divorced,$40K - $60K,Blue,43,2,3,3,9104.0,145,2563,34,0.016,40s,Low
+7446,778860783,Attrited Customer,57,M,2,Unknown,Divorced,$120K +,Blue,38,1,2,4,24379.0,1116,2836,41,0.046,50s,Low
+7448,721274208,Attrited Customer,41,F,2,High School,Single,Less than $40K,Blue,36,4,3,3,2201.0,2104,2408,38,0.956,40s,High
+7449,714076683,Attrited Customer,29,F,0,College,Married,Less than $40K,Blue,19,2,1,2,3261.0,2517,2461,54,0.772,20s,High
+7454,812218908,Attrited Customer,46,F,2,Unknown,Married,Less than $40K,Blue,36,2,3,2,4065.0,2517,2899,51,0.619,40s,Medium
+7456,813810333,Attrited Customer,50,M,3,Post-Graduate,Married,$60K - $80K,Blue,45,6,4,3,2049.0,0,2703,54,0.0,50s,Low
+7486,802668333,Attrited Customer,49,M,2,Graduate,Single,$80K - $120K,Blue,43,2,3,3,2384.0,1919,3512,50,0.805,40s,High
+7495,710061783,Attrited Customer,49,M,1,Graduate,Married,$40K - $60K,Blue,40,6,1,4,14973.0,0,4517,59,0.0,40s,Low
+7528,789312033,Attrited Customer,48,F,4,Post-Graduate,Single,Less than $40K,Blue,38,3,3,3,3874.0,460,4921,51,0.119,40s,Low
+7531,713425383,Attrited Customer,59,F,1,High School,Single,Less than $40K,Blue,46,2,3,2,7484.0,1939,4923,56,0.259,50s,Low
+7532,770842833,Attrited Customer,49,F,3,High School,Married,Unknown,Silver,36,2,3,3,34516.0,1273,4777,51,0.037,40s,Low
+7541,809464608,Attrited Customer,47,F,3,High School,Married,Unknown,Silver,31,3,3,2,34516.0,2517,2691,42,0.073,40s,Low
+7564,712925808,Attrited Customer,51,F,1,Unknown,Married,$40K - $60K,Blue,36,2,3,2,2710.0,0,4724,60,0.0,50s,Low
+7578,708419733,Attrited Customer,47,M,3,College,Single,$60K - $80K,Blue,39,5,3,2,22599.0,0,4739,55,0.0,40s,Low
+7597,801380808,Attrited Customer,44,M,2,Doctorate,Married,$80K - $120K,Blue,38,1,2,1,25894.0,2517,4847,49,0.097,40s,Low
+7598,716329383,Attrited Customer,46,F,3,Graduate,Single,Less than $40K,Blue,36,4,2,3,3138.0,986,4724,56,0.314,40s,Medium
+7610,715327683,Attrited Customer,45,F,4,Post-Graduate,Single,Less than $40K,Blue,36,1,3,3,4477.0,2517,4996,55,0.562,40s,Medium
+7613,718958583,Attrited Customer,44,M,4,Post-Graduate,Single,$80K - $120K,Blue,36,5,3,2,2367.0,1606,4506,59,0.678,40s,Medium
+7617,778863258,Attrited Customer,46,F,4,Unknown,Married,Unknown,Blue,27,1,2,3,6030.0,0,4983,62,0.0,40s,Low
+7618,712075083,Attrited Customer,50,M,4,High School,Single,$120K +,Blue,41,4,3,3,6982.0,0,4830,50,0.0,50s,Low
+7620,720903258,Attrited Customer,48,M,3,Unknown,Unknown,$60K - $80K,Blue,28,2,2,1,9405.0,0,4801,47,0.0,40s,Low
+7627,811700058,Attrited Customer,41,M,2,Graduate,Single,$60K - $80K,Gold,36,2,3,3,34516.0,687,4822,57,0.02,40s,Low
+7628,720164358,Attrited Customer,53,F,4,Graduate,Single,$40K - $60K,Blue,43,1,3,2,6058.0,0,4754,60,0.0,50s,Low
+7630,711325308,Attrited Customer,46,M,3,Unknown,Single,$80K - $120K,Blue,34,4,3,3,9959.0,0,4859,64,0.0,40s,Low
+7636,709893858,Attrited Customer,43,M,3,Post-Graduate,Married,$40K - $60K,Blue,36,6,2,2,9422.0,2108,4633,58,0.224,40s,Low
+7639,711854808,Attrited Customer,41,M,3,High School,Married,$120K +,Blue,32,2,2,1,34516.0,0,4734,57,0.0,40s,Low
+7643,720891633,Attrited Customer,53,F,2,High School,Single,Less than $40K,Blue,46,6,1,2,3199.0,0,4805,59,0.0,50s,Low
+7655,779315508,Attrited Customer,43,M,4,Post-Graduate,Single,$40K - $60K,Blue,25,1,2,2,9043.0,1974,4638,48,0.218,40s,Low
+7671,789560433,Attrited Customer,49,M,3,Post-Graduate,Single,$60K - $80K,Blue,42,2,4,2,14895.0,0,5147,53,0.0,40s,Low
+7674,771097683,Attrited Customer,43,M,2,High School,Single,$120K +,Blue,30,1,2,2,10896.0,2517,4935,58,0.231,40s,Low
+7676,711736083,Attrited Customer,47,F,4,College,Divorced,Unknown,Blue,36,4,3,3,6769.0,274,4885,54,0.04,40s,Low
+7680,718304583,Attrited Customer,43,M,2,Unknown,Married,$60K - $80K,Gold,33,1,3,2,34516.0,1085,4805,54,0.031,40s,Low
+7688,780450708,Attrited Customer,58,M,1,College,Single,$120K +,Silver,45,1,3,2,34516.0,0,4864,48,0.0,50s,Low
+7709,714342033,Attrited Customer,52,M,1,High School,Married,$120K +,Blue,34,2,3,1,34516.0,0,4863,56,0.0,50s,Low
+7711,788943333,Attrited Customer,51,M,3,Post-Graduate,Married,$80K - $120K,Silver,37,6,2,2,34516.0,989,4810,55,0.029,50s,Low
+7715,714077583,Attrited Customer,43,M,3,Post-Graduate,Married,$40K - $60K,Platinum,31,2,3,4,23981.0,593,4758,65,0.025,40s,Low
+7731,716212383,Attrited Customer,38,M,1,High School,Single,$120K +,Blue,30,5,3,3,10874.0,2415,4619,59,0.222,30s,Low
+7732,757667133,Attrited Customer,54,M,2,College,Single,$80K - $120K,Blue,47,2,2,2,13769.0,0,4738,53,0.0,50s,Low
+7733,794571108,Attrited Customer,39,M,2,Graduate,Divorced,$40K - $60K,Silver,23,5,2,3,17894.0,304,4691,63,0.017,30s,Low
+7739,714938733,Attrited Customer,48,M,1,Post-Graduate,Single,$80K - $120K,Blue,38,4,2,2,13174.0,0,4890,49,0.0,40s,Low
+7754,716199408,Attrited Customer,52,F,2,Graduate,Single,Unknown,Blue,41,2,3,3,3608.0,2517,4907,53,0.698,50s,Medium
+7756,790051758,Attrited Customer,50,M,2,Graduate,Single,$120K +,Blue,42,2,1,2,31782.0,0,4800,53,0.0,50s,Low
+7762,807393558,Attrited Customer,51,M,4,Unknown,Single,$120K +,Silver,46,2,3,3,34516.0,1279,4615,49,0.037,50s,Low
+7784,717579258,Attrited Customer,36,M,1,Unknown,Unknown,$40K - $60K,Blue,36,2,3,3,6893.0,1462,4782,50,0.212,30s,Low
+7788,716609433,Attrited Customer,55,M,2,High School,Divorced,$120K +,Blue,46,5,3,2,16828.0,2517,4939,63,0.15,50s,Low
+7800,720962208,Attrited Customer,42,M,2,Post-Graduate,Married,$60K - $80K,Blue,27,2,2,2,2476.0,2250,4659,48,0.909,40s,High
+7807,771411408,Attrited Customer,50,M,1,Post-Graduate,Unknown,$80K - $120K,Blue,38,2,3,4,2673.0,0,4929,54,0.0,50s,Low
+7812,720006333,Attrited Customer,48,M,2,College,Divorced,$80K - $120K,Blue,40,4,3,3,4479.0,0,4520,63,0.0,40s,Low
+7834,712582983,Attrited Customer,47,F,3,Graduate,Married,Less than $40K,Silver,36,4,3,1,14057.0,1381,4729,54,0.098,40s,Low
+7840,713003358,Attrited Customer,40,M,3,Graduate,Single,$80K - $120K,Blue,30,2,2,2,29338.0,159,4983,40,0.005,40s,Low
+7848,718259433,Attrited Customer,45,F,3,High School,Married,Unknown,Blue,40,1,4,2,8383.0,0,5460,63,0.0,40s,Low
+7850,720655833,Attrited Customer,48,F,4,High School,Married,Less than $40K,Blue,30,2,3,2,2913.0,0,4955,56,0.0,40s,Low
+7854,711742758,Attrited Customer,43,F,5,College,Single,$40K - $60K,Blue,32,2,3,1,11508.0,0,5242,74,0.0,40s,Low
+7857,712157958,Attrited Customer,44,M,3,High School,Married,$80K - $120K,Blue,36,1,3,2,10908.0,0,4883,42,0.0,40s,Low
+7865,711332883,Attrited Customer,62,M,1,High School,Single,$60K - $80K,Blue,46,2,3,3,7547.0,2477,5294,73,0.328,60s,Medium
+7866,717696333,Attrited Customer,44,M,4,Unknown,Married,$120K +,Blue,36,4,3,3,34516.0,0,5425,60,0.0,40s,Low
+7885,718353633,Attrited Customer,50,M,1,Post-Graduate,Unknown,$80K - $120K,Gold,36,2,3,2,34516.0,0,5547,75,0.0,50s,Low
+7898,789412458,Attrited Customer,44,M,2,Post-Graduate,Married,$60K - $80K,Blue,34,6,3,4,23026.0,2517,4909,52,0.109,40s,Low
+7900,711249858,Attrited Customer,49,M,4,Unknown,Married,$80K - $120K,Blue,38,2,3,2,29890.0,0,3315,47,0.0,40s,Low
+7905,719071158,Attrited Customer,54,F,0,Graduate,Single,Unknown,Platinum,38,2,2,2,34516.0,0,3901,54,0.0,50s,Low
+7911,719714658,Attrited Customer,61,M,0,Post-Graduate,Single,$60K - $80K,Blue,43,5,3,2,12218.0,0,5272,62,0.0,60s,Low
+7921,716858433,Attrited Customer,43,F,4,Graduate,Single,Less than $40K,Blue,32,4,3,1,3015.0,0,5372,75,0.0,40s,Low
+7923,714052158,Attrited Customer,49,M,2,High School,Married,$120K +,Blue,39,2,3,2,11714.0,949,5366,68,0.081,40s,Low
+7931,720178158,Attrited Customer,46,F,4,High School,Unknown,Less than $40K,Blue,37,5,3,3,7552.0,0,5537,63,0.0,40s,Low
+7933,710958933,Attrited Customer,43,M,3,Graduate,Single,$40K - $60K,Blue,35,5,3,2,6080.0,787,4866,56,0.129,40s,Low
+7934,720698883,Attrited Customer,51,M,1,High School,Single,$80K - $120K,Blue,38,2,3,3,28605.0,0,5524,67,0.0,50s,Low
+7935,780384483,Attrited Customer,49,M,4,Unknown,Unknown,$80K - $120K,Blue,39,2,2,2,2886.0,925,5481,58,0.321,40s,Medium
+7936,714190983,Attrited Customer,51,F,2,Graduate,Single,Unknown,Platinum,32,2,3,3,34516.0,531,5418,65,0.015,50s,Low
+7946,742865883,Attrited Customer,46,F,3,Unknown,Single,$40K - $60K,Blue,39,4,3,3,9110.0,2517,5290,69,0.276,40s,Low
+7954,755212608,Attrited Customer,50,M,2,Unknown,Married,$40K - $60K,Blue,43,4,3,3,13067.0,0,5468,71,0.0,50s,Low
+7955,716486508,Attrited Customer,45,F,3,High School,Married,$40K - $60K,Blue,37,6,2,2,3399.0,0,5529,78,0.0,40s,Low
+7966,711613308,Attrited Customer,58,M,2,Unknown,Single,$60K - $80K,Blue,48,2,1,2,2236.0,710,2562,38,0.318,50s,Medium
+7967,718558758,Attrited Customer,34,M,1,Unknown,Single,$80K - $120K,Blue,22,1,2,2,3711.0,1413,3922,51,0.381,30s,Medium
+7968,718504233,Attrited Customer,43,F,4,Uneducated,Married,Less than $40K,Blue,30,2,2,3,2082.0,1794,3423,48,0.862,40s,High
+7973,813804783,Attrited Customer,41,F,1,High School,Single,$40K - $60K,Blue,36,4,3,3,2667.0,0,4399,54,0.0,40s,Low
+7975,715649358,Attrited Customer,39,M,2,College,Married,$60K - $80K,Blue,26,1,2,2,3879.0,0,7786,81,0.0,30s,Low
+7980,718732833,Attrited Customer,56,F,1,College,Single,Less than $40K,Blue,48,4,2,2,2783.0,1763,3967,42,0.633,50s,Medium
+7982,803216433,Attrited Customer,43,F,5,Graduate,Married,Less than $40K,Silver,33,6,3,2,14806.0,2517,4804,57,0.17,40s,Low
+7986,820666083,Attrited Customer,41,M,2,Graduate,Single,$120K +,Blue,37,5,3,4,27742.0,2517,8646,85,0.091,40s,Low
+7987,712044558,Attrited Customer,51,F,1,Uneducated,Single,Less than $40K,Silver,41,6,2,3,14563.0,1309,6408,70,0.09,50s,Low
+7988,713131158,Attrited Customer,58,M,2,Uneducated,Single,$80K - $120K,Blue,46,1,3,1,10286.0,0,8199,59,0.0,50s,Low
+7992,718113633,Attrited Customer,41,M,3,Uneducated,Married,$120K +,Blue,36,1,2,3,34516.0,0,5603,56,0.0,40s,Low
+7995,708229308,Attrited Customer,49,F,2,Unknown,Married,Less than $40K,Blue,41,5,2,2,3243.0,0,6059,71,0.0,40s,Low
+8009,709319658,Attrited Customer,48,F,4,Graduate,Single,Less than $40K,Platinum,37,5,3,4,15987.0,0,7681,71,0.0,40s,Low
+8013,709764483,Attrited Customer,61,M,1,Graduate,Unknown,$60K - $80K,Blue,53,1,1,2,6157.0,581,4041,65,0.094,60s,Low
+8019,717580458,Attrited Customer,43,M,4,Uneducated,Divorced,$80K - $120K,Blue,36,2,3,2,19333.0,0,7847,63,0.0,40s,Low
+8024,710161083,Attrited Customer,62,F,0,Uneducated,Single,Less than $40K,Blue,36,6,3,3,5780.0,0,6613,40,0.0,60s,Low
+8032,715799808,Attrited Customer,52,M,0,High School,Single,$60K - $80K,Blue,39,4,3,2,3764.0,0,6574,69,0.0,50s,Low
+8034,711838008,Attrited Customer,37,M,3,Graduate,Married,$60K - $80K,Blue,28,2,3,2,6407.0,478,9322,77,0.075,30s,Low
+8040,708369633,Attrited Customer,34,F,3,Graduate,Married,Less than $40K,Gold,36,6,3,2,15487.0,1847,7031,67,0.119,30s,Low
+8043,714959358,Attrited Customer,50,M,3,High School,Married,$80K - $120K,Silver,36,5,3,3,34516.0,2292,8045,71,0.066,50s,Low
+8045,719593608,Attrited Customer,56,M,1,Uneducated,Married,$80K - $120K,Blue,36,6,2,1,33870.0,0,7661,61,0.0,50s,Low
+8046,715830558,Attrited Customer,50,M,2,Uneducated,Unknown,$120K +,Blue,38,6,2,1,34516.0,397,7454,81,0.012,50s,Low
+8048,716088783,Attrited Customer,60,M,0,College,Married,$80K - $120K,Blue,50,1,4,2,29239.0,0,8169,65,0.0,60s,Low
+8050,715630983,Attrited Customer,31,F,0,Graduate,Single,Less than $40K,Blue,21,4,2,3,4598.0,0,6317,77,0.0,30s,Low
+8051,712768983,Attrited Customer,51,M,4,Graduate,Single,$80K - $120K,Silver,42,6,4,2,34516.0,230,8629,65,0.007,50s,Low
+8052,716881683,Attrited Customer,45,M,5,Uneducated,Married,$80K - $120K,Blue,34,2,3,3,3435.0,2517,5567,51,0.733,40s,High
+8060,717529233,Attrited Customer,40,F,3,Graduate,Single,Less than $40K,Blue,30,4,3,2,3319.0,0,4840,44,0.0,40s,Low
+8064,711794358,Attrited Customer,61,M,0,College,Single,$80K - $120K,Blue,50,2,4,3,21398.0,0,3119,53,0.0,60s,Low
+8065,719683158,Attrited Customer,56,F,2,Unknown,Married,Less than $40K,Blue,48,2,4,2,4746.0,0,7154,66,0.0,50s,Low
+8086,718045008,Attrited Customer,31,M,0,Post-Graduate,Married,Less than $40K,Blue,21,1,2,2,3768.0,0,6639,71,0.0,30s,Low
+8095,811076883,Attrited Customer,45,M,3,Graduate,Married,$40K - $60K,Blue,40,1,4,3,7979.0,0,5056,63,0.0,40s,Low
+8098,716863458,Attrited Customer,44,M,2,Uneducated,Single,$80K - $120K,Silver,36,2,3,3,34516.0,569,8570,68,0.016,40s,Low
+8099,766821033,Attrited Customer,61,M,0,Unknown,Single,$120K +,Blue,46,6,3,3,4650.0,1162,7976,74,0.25,60s,Low
+8103,714615258,Attrited Customer,32,M,1,High School,Single,$40K - $60K,Blue,36,6,3,2,4819.0,2134,9330,64,0.443,30s,Medium
+8116,710455608,Attrited Customer,40,M,3,High School,Single,$80K - $120K,Blue,36,2,3,2,4620.0,0,6644,61,0.0,40s,Low
+8119,713514633,Attrited Customer,59,M,2,Graduate,Single,$60K - $80K,Blue,50,2,4,2,6224.0,0,8291,69,0.0,50s,Low
+8124,717571683,Attrited Customer,47,F,4,Uneducated,Married,$40K - $60K,Gold,34,2,3,3,23981.0,0,4536,61,0.0,40s,Low
+8137,712916958,Attrited Customer,55,F,2,Graduate,Married,Unknown,Blue,36,5,3,2,12494.0,0,7026,69,0.0,50s,Low
+8138,716124408,Attrited Customer,32,M,2,Graduate,Single,$120K +,Gold,22,2,2,3,34516.0,1692,7486,64,0.049,30s,Low
+8143,800758233,Attrited Customer,30,M,0,College,Single,$60K - $80K,Blue,24,6,2,2,4109.0,0,8642,77,0.0,30s,Low
+8149,821241708,Attrited Customer,47,M,4,Unknown,Unknown,$80K - $120K,Blue,42,1,4,1,7953.0,0,8670,74,0.0,40s,Low
+8152,709259958,Attrited Customer,53,F,1,Graduate,Single,Less than $40K,Blue,44,1,3,2,5541.0,2517,9195,73,0.454,50s,Medium
+8161,709213458,Attrited Customer,42,M,3,High School,Married,$80K - $120K,Blue,36,1,3,2,22993.0,0,7867,75,0.0,40s,Low
+8171,718252533,Attrited Customer,30,F,0,Graduate,Divorced,Less than $40K,Blue,18,5,1,1,4203.0,996,7292,68,0.237,30s,Low
+8173,717898758,Attrited Customer,55,F,2,Graduate,Married,Less than $40K,Silver,45,6,3,3,12207.0,0,5838,74,0.0,50s,Low
+8183,708662583,Attrited Customer,41,M,3,Unknown,Married,$60K - $80K,Silver,29,1,3,4,27945.0,0,8345,70,0.0,40s,Low
+8189,708152358,Attrited Customer,54,M,1,Post-Graduate,Unknown,$80K - $120K,Blue,36,1,3,2,18512.0,1664,8019,57,0.09,50s,Low
+8196,709075533,Attrited Customer,41,M,5,Uneducated,Single,$80K - $120K,Blue,32,4,3,3,12094.0,0,8607,90,0.0,40s,Low
+8201,714361083,Attrited Customer,40,F,2,College,Single,Less than $40K,Blue,36,4,2,3,5989.0,0,5843,60,0.0,40s,Low
+8202,714608583,Attrited Customer,45,M,5,High School,Divorced,$120K +,Blue,36,2,3,2,5287.0,0,8392,69,0.0,40s,Low
+8211,709928358,Attrited Customer,40,M,3,Graduate,Single,$80K - $120K,Blue,20,1,2,2,32554.0,0,8528,87,0.0,40s,Low
+8219,715051608,Attrited Customer,34,M,2,High School,Single,$60K - $80K,Blue,36,2,3,2,9719.0,2517,9183,51,0.259,30s,Low
+8225,717439983,Attrited Customer,48,M,2,Graduate,Married,$80K - $120K,Blue,28,1,3,3,14774.0,2517,8293,63,0.17,40s,Low
+8226,714391683,Attrited Customer,39,M,4,Unknown,Married,$60K - $80K,Gold,36,4,3,2,34516.0,2517,8248,66,0.073,30s,Low
+8228,708841233,Attrited Customer,41,M,2,College,Married,$80K - $120K,Blue,33,2,3,3,14682.0,2517,8193,72,0.171,40s,Low
+8241,713632983,Attrited Customer,43,M,4,High School,Married,$80K - $120K,Blue,35,2,3,2,10588.0,503,7886,70,0.048,40s,Low
+8244,719612583,Attrited Customer,52,F,4,Uneducated,Divorced,Unknown,Blue,42,4,4,1,12091.0,0,8127,74,0.0,50s,Low
+8253,718333983,Attrited Customer,57,M,4,Unknown,Divorced,$120K +,Blue,36,2,2,3,13694.0,2219,9040,63,0.162,50s,Low
+8259,717518733,Attrited Customer,56,F,2,High School,Married,Less than $40K,Blue,46,4,3,3,9463.0,764,7106,61,0.081,50s,Low
+8266,708805908,Attrited Customer,30,M,2,Graduate,Married,Less than $40K,Silver,18,1,1,3,10017.0,726,9299,68,0.072,30s,Low
+8267,710155158,Attrited Customer,37,M,2,Uneducated,Unknown,$80K - $120K,Blue,18,1,1,2,31832.0,518,10201,59,0.016,30s,Low
+8270,720353808,Attrited Customer,34,M,3,High School,Unknown,$80K - $120K,Silver,21,1,2,3,34516.0,0,9177,50,0.0,30s,Low
+8273,717047583,Attrited Customer,47,F,3,Doctorate,Married,Less than $40K,Blue,35,2,3,2,4779.0,2517,8912,63,0.527,40s,Medium
+8279,712895733,Attrited Customer,40,M,4,Uneducated,Single,$80K - $120K,Blue,36,6,3,2,34516.0,572,8659,81,0.017,40s,Low
+8281,719629308,Attrited Customer,55,F,2,Unknown,Single,Unknown,Silver,37,2,2,3,34516.0,1783,8472,80,0.052,50s,Low
+8282,754443033,Attrited Customer,50,M,1,Graduate,Single,$80K - $120K,Silver,43,6,3,3,34516.0,432,9045,72,0.013,50s,Low
+8290,720748608,Attrited Customer,44,M,3,Graduate,Divorced,$40K - $60K,Blue,32,1,2,2,3575.0,0,7672,66,0.0,40s,Low
+8291,709823733,Attrited Customer,44,F,2,Graduate,Unknown,$40K - $60K,Blue,34,2,3,3,5508.0,0,7507,78,0.0,40s,Low
+8293,720512433,Attrited Customer,56,M,1,Uneducated,Single,$60K - $80K,Blue,36,6,4,3,15219.0,2281,7625,78,0.15,50s,Low
+8300,710878308,Attrited Customer,50,F,4,Graduate,Single,Less than $40K,Blue,37,1,2,3,3699.0,913,7297,71,0.247,50s,Low
+8316,713390433,Attrited Customer,44,M,3,Graduate,Unknown,$60K - $80K,Gold,29,2,3,2,34516.0,2517,6782,67,0.073,40s,Low
+8329,712010358,Attrited Customer,49,M,4,Graduate,Single,$80K - $120K,Blue,36,2,3,2,3999.0,0,7567,76,0.0,40s,Low
+8333,711432258,Attrited Customer,55,M,3,Graduate,Single,$60K - $80K,Blue,46,2,4,2,4178.0,0,7914,54,0.0,50s,Low
+8336,714294183,Attrited Customer,54,M,1,Graduate,Divorced,$80K - $120K,Blue,44,1,3,3,9580.0,132,5385,51,0.014,50s,Low
+8340,708354858,Attrited Customer,51,M,2,Unknown,Single,$120K +,Blue,42,2,4,2,14938.0,0,8192,80,0.0,50s,Low
+8343,708301683,Attrited Customer,40,M,2,Uneducated,Married,$80K - $120K,Blue,30,6,2,3,20798.0,1059,8038,90,0.051,40s,Low
+8346,712113558,Attrited Customer,45,M,2,Graduate,Married,$80K - $120K,Blue,36,4,3,3,24844.0,1273,6549,75,0.051,40s,Low
+8348,720597108,Attrited Customer,48,F,3,Post-Graduate,Divorced,Less than $40K,Blue,36,5,3,1,9943.0,2138,8325,54,0.215,40s,Low
+8354,719767683,Attrited Customer,46,M,0,College,Single,$80K - $120K,Blue,39,2,3,3,16983.0,0,8526,79,0.0,40s,Low
+8355,715321008,Attrited Customer,39,M,2,Unknown,Married,$120K +,Blue,36,6,3,3,34516.0,2517,7866,63,0.073,30s,Low
+8360,780042633,Attrited Customer,37,F,2,Unknown,Married,Unknown,Silver,21,2,2,2,31718.0,0,7432,64,0.0,30s,Low
+8361,713269533,Attrited Customer,42,M,2,College,Single,$80K - $120K,Blue,36,1,3,1,9959.0,2517,8847,85,0.253,40s,Low
+8363,789684258,Attrited Customer,57,M,2,Post-Graduate,Single,$80K - $120K,Silver,43,2,3,3,34516.0,1847,7842,61,0.054,50s,Low
+8366,787518258,Attrited Customer,49,M,3,Uneducated,Married,$120K +,Blue,38,2,3,3,8549.0,0,9192,77,0.0,40s,Low
+8367,717631908,Attrited Customer,56,M,2,Unknown,Married,Less than $40K,Blue,44,5,3,1,4390.0,0,8454,69,0.0,50s,Low
+8368,769396158,Attrited Customer,55,M,1,College,Single,$80K - $120K,Blue,43,2,2,3,24884.0,0,5107,53,0.0,50s,Low
+8370,709383933,Attrited Customer,31,M,2,Unknown,Unknown,$80K - $120K,Blue,18,2,1,3,4246.0,2517,8102,66,0.593,30s,Medium
+8376,715113933,Attrited Customer,54,M,1,Unknown,Single,$80K - $120K,Blue,36,2,3,2,11077.0,573,8165,87,0.052,50s,Low
+8378,715714458,Attrited Customer,48,M,5,Graduate,Single,$40K - $60K,Blue,38,2,3,3,4446.0,0,8753,76,0.0,40s,Low
+8395,715076358,Attrited Customer,57,M,1,Post-Graduate,Unknown,$80K - $120K,Blue,36,4,3,3,23714.0,0,8463,62,0.0,50s,Low
+8397,769667583,Attrited Customer,34,M,3,Post-Graduate,Single,$40K - $60K,Blue,28,2,3,2,3744.0,0,8202,69,0.0,30s,Low
+8407,778643733,Attrited Customer,48,F,1,Uneducated,Single,$40K - $60K,Gold,28,3,2,1,23981.0,1454,9140,64,0.061,40s,Low
+8414,710980383,Attrited Customer,53,M,3,High School,Single,$80K - $120K,Silver,33,2,2,3,34516.0,0,6361,74,0.0,50s,Low
+8418,709971708,Attrited Customer,51,F,1,High School,Single,Unknown,Blue,41,3,3,2,9701.0,0,9404,62,0.0,50s,Low
+8420,720565458,Attrited Customer,43,M,2,Post-Graduate,Single,$60K - $80K,Blue,36,2,3,3,17306.0,0,6205,65,0.0,40s,Low
+8421,715496058,Attrited Customer,41,F,4,Uneducated,Single,Less than $40K,Gold,36,3,3,3,15987.0,0,7832,73,0.0,40s,Low
+8424,716238483,Attrited Customer,59,M,0,College,Married,$80K - $120K,Blue,50,3,2,3,12918.0,2352,9138,76,0.182,50s,Low
+8429,719118708,Attrited Customer,49,F,3,Unknown,Single,Less than $40K,Blue,37,2,2,2,5855.0,0,9202,80,0.0,40s,Low
+8430,779333883,Attrited Customer,51,F,3,Uneducated,Married,Less than $40K,Blue,33,3,3,3,7428.0,0,8078,62,0.0,50s,Low
+8447,789817833,Attrited Customer,44,F,5,Post-Graduate,Unknown,Less than $40K,Blue,33,3,3,2,9073.0,2466,6793,60,0.272,40s,Low
+8449,717060858,Attrited Customer,31,M,0,Graduate,Married,Less than $40K,Blue,36,3,2,3,6911.0,2517,8123,71,0.364,30s,Medium
+8452,757291008,Attrited Customer,46,M,4,Unknown,Married,$80K - $120K,Blue,39,3,3,2,34516.0,289,8964,76,0.008,40s,Low
+8454,708963258,Attrited Customer,46,M,3,College,Married,$60K - $80K,Blue,39,3,3,2,13344.0,1907,8534,86,0.143,40s,Low
+8455,711746133,Attrited Customer,50,M,1,Unknown,Single,$120K +,Blue,37,4,3,2,32563.0,0,9220,81,0.0,50s,Low
+8465,710895708,Attrited Customer,35,F,0,Doctorate,Married,Less than $40K,Blue,27,2,3,2,3876.0,0,7712,73,0.0,30s,Low
+8468,719859033,Attrited Customer,32,M,3,Graduate,Married,$40K - $60K,Blue,20,2,2,2,3264.0,0,6439,63,0.0,30s,Low
+8472,710155983,Attrited Customer,52,M,1,Unknown,Single,$40K - $60K,Blue,36,3,3,4,4826.0,0,8585,62,0.0,50s,Low
+8473,779571708,Attrited Customer,43,M,5,Graduate,Married,$60K - $80K,Blue,25,1,2,3,4259.0,0,7993,71,0.0,40s,Low
+8478,713318733,Attrited Customer,32,M,0,College,Single,$60K - $80K,Blue,24,3,2,3,4097.0,0,8376,64,0.0,30s,Low
+8479,709611183,Attrited Customer,41,F,3,High School,Married,Less than $40K,Blue,31,3,3,3,3952.0,0,8241,82,0.0,40s,Low
+8480,712441308,Attrited Customer,41,F,4,Unknown,Single,Unknown,Blue,25,2,2,3,29295.0,0,9865,65,0.0,40s,Low
+8483,711684408,Attrited Customer,50,F,0,Graduate,Married,Less than $40K,Blue,38,2,3,1,4935.0,1574,8527,84,0.319,50s,Medium
+8485,715825458,Attrited Customer,47,M,2,Graduate,Married,$80K - $120K,Blue,36,3,3,2,12933.0,2239,6564,56,0.173,40s,Low
+8493,711161133,Attrited Customer,36,F,2,Unknown,Single,Less than $40K,Blue,36,2,3,3,6071.0,0,9338,59,0.0,30s,Low
+8499,713242383,Attrited Customer,39,M,2,Uneducated,Married,$120K +,Silver,19,2,1,2,34516.0,796,7721,75,0.023,30s,Low
+8502,717457008,Attrited Customer,43,M,3,Uneducated,Single,$40K - $60K,Blue,36,3,3,3,9267.0,0,7991,90,0.0,40s,Low
+8509,712841883,Attrited Customer,50,M,3,College,Single,$80K - $120K,Silver,36,3,3,2,34516.0,2517,7155,66,0.073,50s,Low
+8510,719582058,Attrited Customer,41,M,3,Doctorate,Single,$80K - $120K,Blue,29,2,2,3,24001.0,1629,9102,75,0.068,40s,Low
+8521,708197358,Attrited Customer,57,M,2,Uneducated,Unknown,$80K - $120K,Blue,48,4,1,3,30543.0,264,7784,63,0.009,50s,Low
+8522,757247808,Attrited Customer,42,F,3,Graduate,Married,Less than $40K,Blue,35,2,4,3,5230.0,2517,9495,61,0.481,40s,Medium
+8529,710170758,Attrited Customer,32,M,0,Post-Graduate,Married,$60K - $80K,Blue,25,6,2,2,4469.0,2331,8314,67,0.522,30s,Medium
+8534,780511683,Attrited Customer,47,M,3,Graduate,Single,$40K - $60K,Blue,34,4,3,3,4413.0,232,7869,76,0.053,40s,Low
+8536,719847108,Attrited Customer,52,M,1,Unknown,Married,$40K - $60K,Blue,36,4,3,3,8455.0,2517,8124,73,0.298,50s,Low
+8538,708385533,Attrited Customer,49,F,1,Graduate,Married,Less than $40K,Silver,36,2,3,3,11059.0,0,9524,80,0.0,40s,Low
+8539,719379858,Attrited Customer,39,M,1,Graduate,Married,$80K - $120K,Blue,36,2,2,3,24239.0,0,8549,73,0.0,30s,Low
+8540,709657533,Attrited Customer,44,M,3,High School,Unknown,$120K +,Blue,36,2,3,2,7793.0,2270,8260,54,0.291,40s,Low
+8548,712487883,Attrited Customer,54,M,5,High School,Married,$80K - $120K,Blue,48,2,1,3,7464.0,0,9071,74,0.0,50s,Low
+8549,753220383,Attrited Customer,29,M,0,Graduate,Single,$120K +,Blue,22,2,2,3,11722.0,0,8302,78,0.0,20s,Low
+8550,708340758,Attrited Customer,41,M,4,High School,Married,Less than $40K,Blue,32,2,3,3,7769.0,0,8109,74,0.0,40s,Low
+8555,718376583,Attrited Customer,52,M,2,Graduate,Divorced,$80K - $120K,Silver,44,4,3,2,34516.0,751,5806,40,0.022,50s,Low
+8556,720827133,Attrited Customer,43,F,3,Doctorate,Single,Less than $40K,Blue,30,1,2,2,6261.0,463,8132,64,0.074,40s,Low
+8561,708948483,Attrited Customer,54,M,3,Graduate,Married,$80K - $120K,Silver,36,2,3,1,34516.0,761,8444,68,0.022,50s,Low
+8563,716721483,Attrited Customer,59,M,0,Uneducated,Single,$40K - $60K,Blue,52,1,2,2,14458.0,2017,8696,72,0.14,50s,Low
+8566,710527533,Attrited Customer,45,M,5,College,Single,$40K - $60K,Blue,36,4,3,3,4982.0,0,8586,58,0.0,40s,Low
+8571,714022833,Attrited Customer,42,F,2,Graduate,Single,$40K - $60K,Silver,32,4,3,3,17909.0,0,5977,58,0.0,40s,Low
+8573,711156858,Attrited Customer,48,F,5,High School,Single,Less than $40K,Blue,40,1,4,3,8297.0,2517,9819,74,0.303,40s,Medium
+8576,710306358,Attrited Customer,38,M,1,Unknown,Married,$40K - $60K,Blue,18,1,1,2,9664.0,1983,7995,56,0.205,30s,Low
+8581,779055033,Attrited Customer,43,F,3,Uneducated,Unknown,Less than $40K,Blue,24,1,2,2,8256.0,2416,8104,64,0.293,40s,Low
+8584,714145233,Attrited Customer,34,M,0,Graduate,Divorced,$80K - $120K,Silver,24,1,2,3,34516.0,400,5112,49,0.012,30s,Low
+8586,789432033,Attrited Customer,32,F,1,Graduate,Married,Less than $40K,Blue,23,1,2,3,4065.0,230,7844,64,0.057,30s,Low
+8594,714820158,Attrited Customer,29,M,0,High School,Single,$40K - $60K,Blue,36,6,3,1,5988.0,660,10211,68,0.11,20s,Low
+8595,713347608,Attrited Customer,54,F,2,Post-Graduate,Single,Less than $40K,Blue,43,2,3,2,4917.0,0,9442,69,0.0,50s,Low
+8605,718080558,Attrited Customer,41,F,4,High School,Single,Less than $40K,Blue,36,6,3,3,4720.0,0,8798,67,0.0,40s,Low
+8609,713880633,Attrited Customer,53,M,2,Unknown,Single,$60K - $80K,Blue,43,2,2,3,5905.0,0,8883,83,0.0,50s,Low
+8617,758753283,Attrited Customer,52,M,3,Doctorate,Married,$120K +,Blue,45,1,3,3,34516.0,550,7341,71,0.016,50s,Low
+8619,773172483,Attrited Customer,30,M,0,Graduate,Married,$40K - $60K,Blue,23,6,2,4,4063.0,0,7463,70,0.0,30s,Low
+8624,712941483,Attrited Customer,51,F,4,Post-Graduate,Married,$40K - $60K,Silver,43,1,3,3,3735.0,0,6826,61,0.0,50s,Low
+8626,714757083,Attrited Customer,44,M,4,Uneducated,Married,$60K - $80K,Silver,37,1,2,2,29076.0,0,8765,84,0.0,40s,Low
+8628,714136233,Attrited Customer,53,M,4,Graduate,Married,$120K +,Blue,38,5,2,3,34516.0,0,8417,72,0.0,50s,Low
+8629,778888083,Attrited Customer,45,F,2,Graduate,Married,$40K - $60K,Blue,26,6,2,4,4307.0,0,8697,62,0.0,40s,Low
+8636,718665033,Attrited Customer,44,M,5,Doctorate,Single,$60K - $80K,Silver,36,2,3,4,34140.0,0,8177,76,0.0,40s,Low
+8637,771561183,Attrited Customer,42,F,4,Graduate,Single,$40K - $60K,Blue,30,6,3,3,13753.0,2517,7464,66,0.183,40s,Low
+8644,712036383,Attrited Customer,49,M,4,High School,Single,$60K - $80K,Blue,30,6,3,3,18418.0,0,9980,68,0.0,40s,Low
+8649,715671183,Attrited Customer,43,M,3,Uneducated,Married,$80K - $120K,Blue,31,6,3,4,6824.0,2517,9045,67,0.369,40s,Medium
+8652,822084333,Attrited Customer,51,M,3,High School,Married,$80K - $120K,Blue,47,2,4,3,4041.0,0,8219,84,0.0,50s,Low
+8653,708821733,Attrited Customer,43,F,3,Unknown,Single,$40K - $60K,Silver,36,2,3,4,19713.0,531,8301,70,0.027,40s,Low
+8667,717174558,Attrited Customer,57,F,1,Uneducated,Single,Less than $40K,Blue,46,2,3,3,9129.0,0,7733,81,0.0,50s,Low
+8675,713668158,Attrited Customer,31,F,1,Uneducated,Single,Unknown,Blue,36,2,3,3,21067.0,0,9212,71,0.0,30s,Low
+8676,709249083,Attrited Customer,40,M,2,Unknown,Single,$60K - $80K,Blue,20,4,2,4,4283.0,0,8672,64,0.0,40s,Low
+8679,713399583,Attrited Customer,49,M,2,Unknown,Married,$80K - $120K,Blue,39,2,3,4,29865.0,2097,8636,74,0.07,40s,Low
+8689,709977933,Attrited Customer,52,M,5,Uneducated,Married,$80K - $120K,Blue,44,2,3,4,9959.0,199,8517,60,0.02,50s,Low
+8695,710081208,Attrited Customer,52,M,2,College,Single,$120K +,Blue,32,4,3,1,4935.0,0,7886,64,0.0,50s,Low
+8697,711460458,Attrited Customer,44,M,1,Uneducated,Married,$40K - $60K,Blue,34,5,2,3,10973.0,0,10583,75,0.0,40s,Low
+8699,710047533,Attrited Customer,51,M,3,Graduate,Single,$80K - $120K,Gold,36,4,3,3,34516.0,2201,8614,63,0.064,50s,Low
+8700,712766208,Attrited Customer,45,M,5,Uneducated,Single,$120K +,Silver,36,4,2,1,34516.0,0,8603,84,0.0,40s,Low
+8701,715150983,Attrited Customer,44,F,3,Unknown,Single,Unknown,Blue,34,2,3,3,26021.0,0,8898,60,0.0,40s,Low
+8704,714879483,Attrited Customer,39,M,4,Graduate,Married,$80K - $120K,Blue,31,1,3,3,3929.0,542,7773,64,0.138,30s,Low
+8708,714919308,Attrited Customer,32,F,0,Graduate,Single,Less than $40K,Blue,36,5,3,3,8135.0,0,8620,67,0.0,30s,Low
+8713,759584958,Attrited Customer,51,F,1,Graduate,Married,Unknown,Silver,44,4,2,4,33004.0,2418,10156,72,0.073,50s,Low
+8716,709660233,Attrited Customer,52,M,3,Unknown,Single,$80K - $120K,Blue,44,1,2,4,3526.0,2429,7775,63,0.689,50s,Medium
+8719,712627083,Attrited Customer,38,M,4,Uneducated,Married,$80K - $120K,Blue,25,5,2,4,5768.0,0,9867,78,0.0,30s,Low
+8721,711433908,Attrited Customer,41,F,3,Uneducated,Married,Less than $40K,Blue,30,1,2,3,9491.0,0,9061,51,0.0,40s,Low
+8728,711745233,Attrited Customer,30,F,0,High School,Single,Unknown,Blue,22,1,2,4,13894.0,0,9351,69,0.0,30s,Low
+8731,710721858,Attrited Customer,46,F,3,Unknown,Married,$40K - $60K,Blue,37,2,3,4,5542.0,0,8246,59,0.0,40s,Low
+8735,712457208,Attrited Customer,58,M,1,Graduate,Single,$80K - $120K,Blue,36,6,3,4,22718.0,0,8100,77,0.0,50s,Low
+8739,713934633,Attrited Customer,40,F,4,Uneducated,Divorced,Less than $40K,Blue,35,2,3,3,4423.0,2517,8935,87,0.569,40s,Medium
+8744,714945708,Attrited Customer,33,M,4,College,Single,$40K - $60K,Silver,20,2,1,3,15977.0,0,7745,64,0.0,30s,Low
+8749,714524583,Attrited Customer,56,M,3,Uneducated,Married,$80K - $120K,Blue,46,1,3,3,23240.0,1534,9441,82,0.066,50s,Low
+8751,714199008,Attrited Customer,50,M,2,Unknown,Married,$120K +,Blue,36,6,2,2,16081.0,492,6100,61,0.031,50s,Low
+8756,719326758,Attrited Customer,52,F,0,Doctorate,Married,Less than $40K,Blue,36,4,3,2,4353.0,1489,9226,85,0.342,50s,Medium
+8759,718840833,Attrited Customer,49,M,3,High School,Single,$40K - $60K,Blue,36,1,3,4,4601.0,0,9610,76,0.0,40s,Low
+8761,715020933,Attrited Customer,44,F,4,High School,Unknown,Unknown,Blue,34,4,3,4,15944.0,0,9360,67,0.0,40s,Low
+8762,711149133,Attrited Customer,30,F,1,Graduate,Married,Unknown,Blue,18,4,1,4,4377.0,2517,8759,74,0.575,30s,Medium
+8763,716832858,Attrited Customer,46,M,3,Graduate,Married,$60K - $80K,Blue,34,1,2,4,4930.0,159,7412,60,0.032,40s,Low
+8764,715154058,Attrited Customer,49,F,0,Unknown,Married,Less than $40K,Blue,39,1,3,3,4982.0,2517,9274,65,0.505,40s,Medium
+8765,789497283,Attrited Customer,50,M,2,High School,Single,$120K +,Blue,42,1,3,2,34162.0,1723,7572,56,0.05,50s,Low
+8771,714544908,Attrited Customer,56,M,4,Graduate,Divorced,$60K - $80K,Blue,36,6,3,3,6224.0,0,8979,68,0.0,50s,Low
+8776,714677583,Attrited Customer,50,F,3,Doctorate,Single,Unknown,Blue,36,4,3,3,5173.0,0,8757,68,0.0,50s,Low
+8782,715493733,Attrited Customer,53,M,2,Graduate,Married,$40K - $60K,Blue,36,2,3,4,5735.0,0,9088,64,0.0,50s,Low
+8783,827440458,Attrited Customer,48,M,4,College,Married,$80K - $120K,Blue,44,2,3,3,9524.0,1449,7527,58,0.152,40s,Low
+8784,720128658,Attrited Customer,49,M,1,Uneducated,Single,$120K +,Blue,30,5,3,3,5181.0,0,8943,68,0.0,40s,Low
+8785,770038983,Attrited Customer,37,M,4,High School,Single,$60K - $80K,Silver,31,1,3,3,28831.0,2517,8688,69,0.087,30s,Low
+8786,714684108,Attrited Customer,31,M,1,Post-Graduate,Single,$40K - $60K,Blue,24,4,2,4,4169.0,534,8565,70,0.128,30s,Low
+8788,710066133,Attrited Customer,30,M,0,Graduate,Single,Less than $40K,Silver,36,4,3,3,12833.0,0,9619,75,0.0,30s,Low
+8796,718614183,Attrited Customer,43,F,4,High School,Unknown,Less than $40K,Silver,31,6,2,2,13651.0,0,9772,71,0.0,40s,Low
+8797,709865883,Attrited Customer,38,M,2,High School,Divorced,$60K - $80K,Silver,25,1,2,3,26794.0,821,8788,58,0.031,30s,Low
+8798,717390408,Attrited Customer,49,F,4,Uneducated,Married,$40K - $60K,Blue,36,5,2,3,4167.0,0,7590,87,0.0,40s,Low
+8801,713281833,Attrited Customer,37,M,3,Unknown,Single,$40K - $60K,Blue,29,6,2,3,13589.0,2517,9456,79,0.185,30s,Low
+8818,720328983,Attrited Customer,52,F,5,Unknown,Married,Less than $40K,Blue,36,4,3,3,9611.0,0,7636,64,0.0,50s,Low
+8821,713437008,Attrited Customer,40,F,3,Graduate,Married,Unknown,Blue,25,1,2,3,6888.0,1878,9038,64,0.273,40s,Low
+8826,716644008,Attrited Customer,55,M,3,Graduate,Single,$120K +,Silver,36,4,3,4,34516.0,0,9931,70,0.0,50s,Low
+8830,717185658,Attrited Customer,51,M,1,High School,Married,$80K - $120K,Blue,36,4,3,4,22754.0,0,8531,77,0.0,50s,Low
+8832,709646433,Attrited Customer,59,F,1,High School,Married,Less than $40K,Blue,50,1,4,3,5043.0,743,10170,66,0.147,50s,Low
+8833,714471183,Attrited Customer,47,M,4,Graduate,Divorced,$80K - $120K,Blue,39,4,3,4,17504.0,476,10468,66,0.027,40s,Low
+8836,708564858,Attrited Customer,33,M,2,College,Married,$120K +,Gold,20,2,1,4,34516.0,0,9338,73,0.0,30s,Low
+8837,713733633,Attrited Customer,27,M,0,High School,Divorced,$60K - $80K,Blue,36,2,3,2,13303.0,2517,10219,85,0.189,20s,Low
+8841,713755458,Attrited Customer,50,M,1,Unknown,Unknown,$80K - $120K,Blue,36,6,3,4,9959.0,952,10310,63,0.096,50s,Low
+8842,716893683,Attrited Customer,55,F,3,Uneducated,Single,Unknown,Blue,47,4,3,3,14657.0,2517,6009,53,0.172,50s,Low
+8845,710638233,Attrited Customer,41,M,2,Unknown,Divorced,$40K - $60K,Blue,25,4,2,3,4277.0,2186,8764,69,0.511,40s,Medium
+8846,716506083,Attrited Customer,44,F,1,High School,Married,Less than $40K,Blue,36,5,3,4,5409.0,0,10291,60,0.0,40s,Low
+8847,717406983,Attrited Customer,30,M,2,Graduate,Unknown,$40K - $60K,Blue,36,4,3,3,5281.0,0,8395,62,0.0,30s,Low
+8848,714337233,Attrited Customer,43,F,2,Graduate,Married,Less than $40K,Silver,25,6,2,4,10388.0,1961,10294,61,0.189,40s,Low
