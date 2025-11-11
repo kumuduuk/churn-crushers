@@ -27,6 +27,9 @@ def load_data():
 
 df = load_data()
 
+# show the banner
+st.image("images/churn.jpg", width=2000)
+
 # Sidebar for filters
 st.sidebar.title("🔍 Filter Options")
 
@@ -75,7 +78,7 @@ filtered_df = df[
 ]
 
 # Main dashboard
-st.title("🏦 Bank Customer Churn Analysis Dashboard")
+st.title("🏦 Bank Customer Churn Analysis")
 st.markdown("---")
 
 # Key Metrics
@@ -438,9 +441,10 @@ with tab5:
 
     # PowerBI embed code
     powerbi_embed_code = """
-    <iframe title="Churn Crushers Dashboard" width="1140" height="541.25" 
-            src="https://app.powerbi.com/reportEmbed?reportId=1f2680f0-7338-4a9a-94a9-a752d4578ec1&autoAuth=true&ctid=c233c072-135b-431d-af59-35e05babf941" 
-            frameborder="0" allowFullScreen="true"></iframe>
+    <iframe title="churn_crushers_dashboard" width="1140" height="541.25" 
+    src="https://app.powerbi.com/reportEmbed?reportId=ee6cc040-bbb3-4dcb-b472-fb5ce9e82201&autoAuth=true&ctid=c233c072-135b-431d-af59-35e05babf941" 
+    frameborder="0" allowFullScreen="true">
+    </iframe>
     """
 
     # Display the PowerBI dashboard
