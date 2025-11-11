@@ -22,6 +22,8 @@
 
 The project uses a dataset looking at existing and attrited customers from a bank. It contains over 10,000 records of customers who have used the banks services in the past or still do, using this we can identify trends and patterns within the dataset and will also look to make a predicitive model that the bank can use on future applicants to see whether they are likely to churn (leave) or not.
 
+![project_header](images/readme_header.png)
+
 ## Dataset content
 
 | Field                    | Description                                                |
@@ -48,18 +50,22 @@ The project uses a dataset looking at existing and attrited customers from a ban
 | age_bracket              | age brackets to convert age into a categorical             |
 | utilization_cat          | Credit score like rating (1.00 being high risk - 0.01 low) |
 
-## Business requirements - SN
+## Business requirements
 
 The bank manager is perplexed as to why an increasing number of customers are leaving their credit card services. They are looking for someone to present the historical data in a way that can help them find out if there are any patterns in who is churning and why so they can proactively approach those customers who may leave and provide them with a better service in a bid to persuade them to stay.
 We will also put together a predictive model that will allow the bank to vet new applicants and deem them to be likely to churn based on our findings throughout the project.
 
 ## Hypothesis testing - AK
 
-## Project Board - SN
+## Project Board
+
+![project_board](images/project_board.png)
 
 ## Analysis techniques used - AK
 
 ## Ethical
+
+All data has been included anonymously, nobody in this dataset can be identified from the values in this table. The only unique identifier is the bank client number but the name of the bank has not been given anywhere.
 
 ## Development Roadmap - ALL
 
