@@ -90,3 +90,21 @@ This has been a python based project, the libraries and additional software used
 -   PowerBI
 
 ## Credits
+
+Code Institute LMS
+Masterclass and data coach session notes
+Code Institute project template
+Kaggle - source for the dataset
+
+## Content
+
+All images throughout the project that were not produced by this group are free to use.
+
+## Acknowledgements
+
+-   Code institute tutors, masterclass coach Spencer Barriball and data coach Mark Briscoe
+-   Peers in September cohort for support
+
+---
+
+# Conclusion
