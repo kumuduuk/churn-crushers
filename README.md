@@ -14,7 +14,7 @@ Project bookmarks:
 | Name            |      Role       |                   Responsibility                   |
 | :-------------- | :-------------: | :------------------------------------------------: |
 | Kumudu Liyanage | Project Manager | Oversee the project and create streamlit dashboard |
-| Ali Khurshid    | Data Architecht |                 Visualise the data                 |
+| Ali Khurshid    | Data Architect  |                 Visualise the data                 |
 | Steven Naylor   |  Data Analyst   |            Clean and tranform the data             |
 
 ## Contents:
@@ -36,7 +36,7 @@ Project bookmarks:
 
 The project uses a dataset looking at existing and attrited customers from a bank. It contains over 10,000 records of customers who have used the banks services in the past or still do, using this we can identify trends and patterns within the dataset and will also look to make a predicitive model that the bank can use on future applicants to see whether they are likely to churn (leave) or not.
 
-![project_header](images/readme_header.png)
+![project_header](images/churn.jpg)
 
 ## Dataset content
 
@@ -95,7 +95,7 @@ We will also put together a predictive model that will allow the bank to vet new
 
 ## Project Board
 
-![project_board](images/project_board.png)
+![project_board](images_sn/project_board.png)
 
 As this was a group project all tasks within the project were assigned to users, some tasks were for the individual to complete and others allowed for a collaborative approach to be taken so were applied to multiple or all members of the group. We were assigned different roles in the group and took a lead area:  
 Data Analyst - Run the data through the ETL process  
@@ -155,6 +155,10 @@ _"The feedback I received from my first solo project was that I needed to be mor
 
 _"I encountered difficulties getting Plotly graphs to work due to a missing nbformat file. Using Microsoft Copilot, I discovered that a pip update was necessary to resolve the issue. Additionally, I faced a roadblock with Git commands returning errors. Kuminda assisted me by demonstrating an alternative approach and updating my Git main branch, which successfully resolved the problem"_ - Ali Khurshid
 
+_"I learnt some extra commands for cleaning the data when it comes to preparing it so we can visualise it on graphs. I enjoyed using streamlit and would use it for future projects. I was able to help Ali and Steven use a group github repository for their first time."_ Kumudu Liyanage
+
+As a group we performed well. We successfully completed all 'Must Have' tasks, along with a couple of 'Could Have' items. Two tasks have been set aside to be addressed in future improvements to ensure continuous progress and refinement. This approach allowed the project to meet its core objectives while laying the groundwork for ongoing development.
+
 ## Main Data Analysis Libraries
 
 This has been a python based project, the libraries and additional software used on this project were:
@@ -172,39 +176,33 @@ This has been a python based project, the libraries and additional software used
 
 -   **Hypothesis 1** Transaction count emerged as the strongest factor associated with reduced churn rates. While transaction amount also shows a strong relationship, the data suggests the existence of an optimal transaction level that minimizes the likelihood of churn. This insight is explored further in the Power BI dashboard - in Streamlit.
 
-![alt text](visuals/hypothesis_1.jpg)
+![alt text](images_ali/hypothesis_1.jpg)
 
 -   **Hypothesis 2**: This assumption was disproven, as no discernible pattern was observed in the visuals comparing education level and churn. The total number of customers was plotted by education level and labeled according to their churn status, revealing no significant correlation between the two variables.
 
-![alt text](visuals/hypothesis_2.jpg)
+![alt text](images_ali/hypothesis_2.jpg)
 
 -   **Hypothesis 3** Customer inactivity over the past 12 months shows a strong correlation with churn. The more inactive a customer becomes, the higher the likelihood that they will eventually leave the bank.
 
-![alt text](visuals/hypothesis_3.jpg)
+![alt text](images_ali/hypothesis_3.jpg)
 
 -   **Hypothesis 4**: Power BI analysis revealed a clear trend indicating that male customers generally have higher credit limits compared to their female counterparts. Further investigation uncovered a corresponding income gap between genders, with the highest income bracket for female customers falling within the $40K–$60K range. This relationship is evident in the interactive Power BI dashboard. It is worth noting that an “unknown” salary category exists; however, it is reasonable to infer that these values likely fall within the two known income brackets—otherwise, the corresponding credit limits would be expected to be higher.
 
-![alt text](visuals/hypothesis_4a.jpg)
+![alt text](images_ali/hypothesis_4a.jpg)
 
-![alt text](visuals/hypothesis_4b.jpg)
+![alt text](images_ali/hypothesis_4b.jpg)
 
 -   **Hypothesis 5**: Credit limit is directly influenced by income category—customers with higher incomes are offered higher credit limits by the bank. Power BI visuals clearly illustrate this trend. While this relationship is expected, it also appears to have an indirect impact on churn rate.
 
-![alt text](visuals/hypothesis_5.jpg)
+![alt text](images_ali/hypothesis_5.jpg)
 
 -   **Hypothesis 6**: Analysis indicates that customers with a higher number of product subscriptions tend to exhibit greater satisfaction. This trend is evident in the visual below, which shows a decrease in churn rate as the number of subscribed products increases. Notably, customers with two products display a slightly higher churn rate than those with only one, suggesting that single-product customers may have limited exposure for comparison and therefore perceive fewer differences in service quality.
 
-![alt text](visuals/hypothesis_6.jpg)
+![alt text](images_ali/hypothesis_6.jpg)
 
 -   **Hypothesis 7**: Analysis shows that customers who contacted the bank more frequently over the past 12 months are more likely to churn. This suggests that customers with higher contact frequency may be experiencing dissatisfaction with the bank’s services.
 
-![alt text](visuals/hypothesis_7.jpg)
-
-### **Progress Summary**
-
-Overall, the project board performed well. I successfully completed all 'Must Have' tasks, along with a couple of 'Could Have' items. Two tasks have been set aside to be addressed in future improvements to ensure continuous progress and refinement. This approach allowed the project to meet its core objectives while laying the groundwork for ongoing development.
-
-![alt text](<assets/images/Project Board final.jpg>)
+![alt text](images_ali/hypothesis_7.jpg)
 
 ## Data Limitations based on correlation heatmap statements
 
