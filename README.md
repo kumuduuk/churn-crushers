@@ -5,6 +5,7 @@ Project bookmarks:
 -   [README](https://github.com/kumuduuk/churn-crushers/blob/main/README.md)
 -   [Project board](https://github.com/users/kumuduuk/projects/3)
 -   [Raw Data](https://github.com/kumuduuk/churn-crushers/blob/main/data/raw_data/BankChurners.csv) | [Clean data](https://github.com/kumuduuk/churn-crushers/blob/main/data/cleaned_data/bankchurners.csv)
+-   [ETL Jupyter Notebook](https://github.com/kumuduuk/churn-crushers/blob/main/jupyter_notebooks/bankchurners.ipynb)
 -   [Streamlit](https://churn-crusher-dashboard.streamlit.app/)
 -   [Conclusion](#conclusion)
 
@@ -144,7 +145,7 @@ This has been a python based project, the libraries and additional software used
 
 # Conclusion
 
-# Limitations to the dataset
+## Data Limitations based on correlation heatmap statements
 
 From this further statistical analysis we have been able to find some limitations in this dataset:
 
@@ -152,6 +153,7 @@ From this further statistical analysis we have been able to find some limitation
 -   As a result gender distribution of credit limit amongst gender is skewed towards males having more.
 -   Platinum card holders only amount to 20 people out of 8849. We don't have enough information to make an informed decision about the trends of platinum members that churn. Gold also only has 103 members.
 -   People in their 40s make up nearly 50% of the dataset.
+-   There are 6 products in the dataset but we are only given the names of four of them
 
 ## Credits
 
