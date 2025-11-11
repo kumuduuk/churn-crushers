@@ -1,72 +1,66 @@
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# BankChurners - Hackathon project
 
-## Template Instructions
+## Team Members:
 
-Welcome,
+| Name            |      Role       |                           Responsibility                            |
+| :-------------- | :-------------: | :-----------------------------------------------------------------: |
+| Kumudu Liyanage | Project Manager | Oversee the project, ensuring we are on track to meet project goals |
+| Ali Khurshid    | Data Architecht |                         Visualise the data                          |
+| Steven Naylor   |  Data Analyst   |                     Clean and tranform the data                     |
 
-This is the Code Institute student template for the Data Analytics capstone project. We have preinstalled all of the tools you need to get started. It's perfectly okay to use this template as the basis for your project submissions. Click the `Use this template` button above to get started.
+## Contents:
 
-You can safely delete the Template Instructions section of this README.md file and modify the remaining paragraphs for your own project. Please do read the Template Instructions at least once, though! It contains some important information about the IDE and the extensions we use.
+-   Project overview
+-   Project board
+-   Hypothesis testing
+-   Raw Data | Clean data
+-   ETL and data analysis
+-   Interactive dashboard
+-   Streamlit
 
-## How to use this repo
+## Project overview - Bank churners
 
-1. Use this template to create your GitHub project repo. Click the **Use this template** button, then click **Create a new repository**.
+The project uses a dataset looking at existing and attrited customers from a bank. It contains over 10,000 records of customers who have used the banks services in the past or still do, using this we can identify trends and patterns within the dataset and will also look to make a predicitive model that the bank can use on future applicants to see whether they are likely to churn (leave) or not.
 
-1. Copy the URL of your repository to your clipboard.
+## Dataset content
 
-1. In VS Code, select **File** -> **Open Folder**.
+| Field                    | Description                                                |
+| ------------------------ | ---------------------------------------------------------- |
+| clientnum                | Unique customer identifier                                 |
+| customer_status          | 'Existing' or 'Attrited'                                   |
+| age                      | Age of the customer in years                               |
+| gender                   | Customer’s gender                                          |
+| dependencies             | Number of dependents                                       |
+| education_level          | Highest education achieved                                 |
+| marital_status           | Marital status                                             |
+| income_category          | Annual income sorted into brackets                         |
+| card_category            | Type of credit card                                        |
+| months_on_book           | Total relationship length (in months)                      |
+| total_relationship_count | Total number of products                                   |
+| months_inactive_12_mon   | Inactive months in the last 12 months                      |
+| contacts_count_12_mon    | Number of contacts with the bank in the last 12 months     |
+| credit_limit             | Credit card limit                                          |
+| total_revolving_bal      | Money owed going into the next month                       |
+| avg_open_to_buy          | Credit available to spend                                  |
+| total_trans_amt          | Total transaction amount (12 months)                       |
+| total_trans_ct           | Total transaction count (12 months)                        |
+| avg_utilization_ratio    | Average card utilization                                   |
+| age_bracket              | age brackets to convert age into a categorical             |
+| utilization_cat          | Credit score like rating (1.00 being high risk - 0.01 low) |
 
-1. Select your `vscode-projects` folder, then click the **Select Folder** button on Windows, or the **Open** button on Mac.
+## Business requirements - SN
 
-1. From the top menu in VS Code, select **Terminal** > **New Terminal** to open the terminal.
+The bank manager is perplexed as to why an increasing number of customers are leaving their credit card services. They are looking for someone to present the historical data in a way that can help them find out if there are any patterns in who is churning and why so they can proactively approach those customers who may leave and provide them with a better service in a bid to persuade them to stay.
+We will also put together a predictive model that will allow the bank to vet new applicants and deem them to be likely to churn based on our findings throughout the project.
 
-1. In the terminal, type `git clone` followed by the URL of your GitHub repository. Then hit **Enter**. This command will download all the files in your GitHub repository into your vscode-projects folder.
+## Hypothesis testing - AK
 
-1. In VS Code, select **File** > **Open Folder** again.
+## Project Board - SN
 
-1. This time, navigate to and select the folder for the project you just downloaded. Then, click **Select Folder**.
+## Analysis techniques used - AK
 
-1. A virtual environment is necessary when working with Python projects to ensure each project's dependencies are kept separate from each other. You need to create your virtual environment, also called a venv, and then ensure that it is activated any time you return to your workspace.
-Click the gear icon in the lower left-hand corner of the screen to open the Manage menu and select **Command Palette** to open the VS Code command palette.
+## Ethical
 
-1. In the command palette, type: *create environment* and select **Python: Create Environment…**
+## Development Roadmap - ALL
 
-1. Choose **Venv** from the dropdown list.
-
-1. Choose the Python version you installed earlier. Currently, we recommend Python 3.12.8
-
-1. **DO NOT** click the box next to `requirements.txt`, as you need to do more steps before you can install your dependencies. Click **OK**.
-
-1. You will see a `.venv` folder appear in the file explorer pane to show that the virtual environment has been created.
-
-1. **Important**: Note that the `.venv` folder is in the `.gitignore` file so that Git won't track it.
-
-1. Return to the terminal by clicking on the TERMINAL tab, or click on the **Terminal** menu and choose **New Terminal** if no terminal is currently open.
-
-1. In the terminal, use the command below to install your dependencies. This may take several minutes.
-
- ```console
- pip3 install -r requirements.txt
- ```
-
-1. Open the `jupyter_notebooks` directory, and click on the notebook you want to open.
-
-1. Click the **kernel** button and choose **Python Environments**.
-
-Note that the kernel says `Python 3.12.8` as it inherits from the venv, so it will be Python-3.12.8 if that is what is installed on your PC. To confirm this, you can use the command below in a notebook code cell.
-
-```console
-! python --version
-```
-
-## Deployment Reminders
-
-* Set the `.python-version` Python version to a [Heroku-22](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version that closest matches what you used in this project.
-* The project can be deployed to Heroku using the following steps.
-
-1. Log in to Heroku and create an App
-2. At the **Deploy** tab, select **GitHub** as the deployment method.
-3. Select your repository name and click **Search**. Once it is found, click **Connect**.
-4. Select the branch you want to deploy, then click **Deploy Branch**.
-5. The deployment process should happen smoothly if all deployment files are fully functional. Click the button **Open App** at the top of the page to access your App.
-6. If the slug size is too large, then add large files not required for the app to the `.slugignore` file.
+## Main Data Analysis Libraries - SN
