@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as components
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -78,7 +79,7 @@ st.title("🏦 Bank Customer Churn Analysis Dashboard")
 st.markdown("---")
 
 # Key Metrics
-col1, col2, col3, col4 , col5 = st.columns(5)
+col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     total_customers = len(filtered_df)
@@ -96,15 +97,12 @@ with col4:
     avg_utilization = filtered_df['avg_utilization_ratio'].mean() * 100
     st.metric("Avg Utilization", f"{avg_utilization:.1f}%")
 
-with col5:
-    avg_products = filtered_df['no_of_products'].mean()
-    st.metric("Avg No. of Products", f"{avg_products:.1f}") 
 st.markdown("---")
 
 # Descriptive Statistics Section
 st.header("📊 Descriptive Statistics")
 
-tab1, tab2, tab3, tab4 = st.tabs(["Churn Overview", "Demographic Analysis", "Behavioral Patterns", "Predictive Analysis"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(["Churn Overview", "Demographic Analysis", "Behavioral Patterns", "Churn Calculator", "PowerBI Dashboard"])
 
 with tab1:
     col1, col2 = st.columns(2)
@@ -435,7 +433,18 @@ with tab4:
         - Compare different combinations to find patterns
         """)
 
+with tab5:
+    st.subheader("📊 PowerBI Dashboard Integration")
 
+    # PowerBI embed code
+    powerbi_embed_code = """
+    <iframe title="Churn Crushers Dashboard" width="1140" height="541.25" 
+            src="https://app.powerbi.com/reportEmbed?reportId=1f2680f0-7338-4a9a-94a9-a752d4578ec1&autoAuth=true&ctid=c233c072-135b-431d-af59-35e05babf941" 
+            frameborder="0" allowFullScreen="true"></iframe>
+    """
+
+    # Display the PowerBI dashboard
+    components.html(powerbi_embed_code, height=600, scrolling=True)
 
 
 # Segmentation Analysis
