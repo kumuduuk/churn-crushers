@@ -55,7 +55,7 @@ The project uses a dataset looking at existing and attrited customers from a ban
 The bank manager is perplexed as to why an increasing number of customers are leaving their credit card services. They are looking for someone to present the historical data in a way that can help them find out if there are any patterns in who is churning and why so they can proactively approach those customers who may leave and provide them with a better service in a bid to persuade them to stay.
 We will also put together a predictive model that will allow the bank to vet new applicants and deem them to be likely to churn based on our findings throughout the project.
 
-## Hypothesis testing - AK
+## Hypothesis testing and validation
 
 ## Project Board
 
@@ -66,13 +66,20 @@ Data Analyst - Run the data through the ETL process
 Data Architect - Visualise the data
 Project Manager/Dashboard builder - Manage the project and build the dashboard to house the project findings.
 
-## Analysis techniques used - AK
+## Analysis techniques used - SN/AK
+
+The ETL stage of this project allowed us to deploy a number of data analysis techniques to take our raw data set and turn it into a useable clean version ready to visualise and deploy on our streamlit dashboard.
+
+-   Data cleaning: To maintain data integrity we identified all problem values within our dataset, these include missing values, duplicates, and some incorrect data entries such as a string value being found in the age category.
+-   Data categorisation: By categorising data and grouping it we were able to spot whether there were any trends or issues within our data set, one notable example being when we sorted by gender and looked at value counts of income bracket we found that women earning over $60k were not represented in this dateset. Grouping the data also allowed us to see the distribution amongst categories prior to plotting them on a histogram.
+-   Outlier detection: We looked into the statistical analysis of the dataset early on, using .describe() to check the values of our numerical columns, one key area were the values between 0% and the first quartile (25%) and the third quartile (75%) and 100%. This was an early indicator of whether we had outliers in our data. Double checked with the plotting of boxplots to highlight outliers within the dataset. We then made the decision as a group which values to keep and whihc to drop.
+-   Column management - To create consistency across the board we put all of our column names into lowercase letters as there was a mix of upper and lower case characters within the same column set which made writing code frustrating.
 
 ## Ethical
 
 All data has been included anonymously, nobody in this dataset can be identified from the values in this table. The only unique identifier is the bank client number but the name of the bank has not been given anywhere.
 
-## Development Roadmap - ALL
+## Development Roadmap
 
 This project was the first project we have worked on as a group which also involved us using a joint github repository for the first time. This involved working to group deadlines and not to your own individual timings. It also meant there had to be compromise within the group about which features of the project to include/exclude and how to present our findings.
 
@@ -105,6 +112,6 @@ All images throughout the project that were not produced by this group are free 
 -   Code institute tutors, masterclass coach Spencer Barriball and data coach Mark Briscoe
 -   Peers in September cohort for support
 
----
+10\*---
 
 # Conclusion
