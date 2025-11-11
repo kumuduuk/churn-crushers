@@ -10,11 +10,11 @@ Project bookmarks:
 
 ## Team Members:
 
-| Name            |      Role       |                           Responsibility                            |
-| :-------------- | :-------------: | :-----------------------------------------------------------------: |
-| Kumudu Liyanage | Project Manager | Oversee the project, ensuring we are on track to meet project goals |
-| Ali Khurshid    | Data Architecht |                         Visualise the data                          |
-| Steven Naylor   |  Data Analyst   |                     Clean and tranform the data                     |
+| Name            |      Role       |                   Responsibility                   |
+| :-------------- | :-------------: | :------------------------------------------------: |
+| Kumudu Liyanage | Project Manager | Oversee the project and create streamlit dashboard |
+| Ali Khurshid    | Data Architecht |                 Visualise the data                 |
+| Steven Naylor   |  Data Analyst   |            Clean and tranform the data             |
 
 ## Contents:
 
@@ -77,6 +77,34 @@ Data Analyst - Run the data through the ETL process
 Data Architect - Visualise the data
 Project Manager/Dashboard builder - Manage the project and build the dashboard to house the project findings.
 
+The project baord allowed us to clearly plan out the three days with measurable targets to keep track of our progress.
+
+### Day 1 — Data Understanding & Preparation
+
+Import and Inspect the Dataset
+Data Cleaning and Pre-processing
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Begin basic visualisation
+Create wireframe of streamlit dashboard
+
+### Day 2 — Analysis, Visualisation & Insights
+
+Testing our dataset against a set of hypothesis and validation rules.
+Data Visualisation (Matplotlib, Seaborn)
+Descriptive Statistics & Correlation Analysis
+Advanced plots to be done on Power BI
+Discuss key insights, trends and patterns in the data
+Build streamlit webpage and function test, ready for integrating of project components
+
+### Day 3
+
+Integrate all necessary components of project onto streamlit webpage.
+Document all steps done throughout the project on the project board
+Cross reference this with the README to ensure accuracy of project notes
+Proof read documents
+Check over project intended outcomes, have we achieved them
+
 ## Analysis techniques used
 
 The ETL stage of this project allowed us to deploy a number of data analysis techniques to take our raw data set and turn it into a useable clean version ready to visualise and deploy on our streamlit dashboard.
@@ -94,7 +122,7 @@ All data has been included anonymously, nobody in this dataset can be identified
 
 This project was the first project we have worked on as a group which also involved us using a joint github repository for the first time. This involved working to group deadlines and not to your own individual timings. It also meant there had to be compromise within the group about which features of the project to include/exclude and how to present our findings.
 
-_"The feedback I received from my first solo project was that I needed to be more concise with my markdown and #code comments, markdown to explain the why each bit of code has been included and the #to label what each bit of code is doing. That is something I have made a conscious effort to include in this project."_ - Steven Naylor
+_"The feedback I received from my first solo project was that I needed to be more concise with my markdown and code comments, markdown to explain the why each bit of code has been included and the code comment to describe what each bit of code is doing. That is something I have made a conscious effort to include in this project. Working collaboratively lends itself to having people to bounce ideas off but can also require a bit of compromise when deciding on the best course of action as a group. Overall it's been a beneficial experience, on a steep learning curve"_ - Steven Naylor
 
 ## Main Data Analysis Libraries
 
