@@ -97,12 +97,12 @@ We will also put together a predictive model that will allow the bank to vet new
 
 ![project_board](images/project_board.png)
 
-As this was a group project all tasks within the project were assigned to users, some tasks were for the individual to complete and others allowed for a collaborative approach to be taken so were applied to multiple or all members of the group. We were assigned different roles in the group and took a lead area:
-Data Analyst - Run the data through the ETL process
-Data Architect - Visualise the data
+As this was a group project all tasks within the project were assigned to users, some tasks were for the individual to complete and others allowed for a collaborative approach to be taken so were applied to multiple or all members of the group. We were assigned different roles in the group and took a lead area:  
+Data Analyst - Run the data through the ETL process  
+Data Architect - Visualise the data  
 Project Manager/Dashboard builder - Manage the project and build the dashboard to house the project findings.
 
-The project baord allowed us to clearly plan out the three days with measurable targets to keep track of our progress.
+The project board allowed us to clearly plan out the three days with measurable targets to keep track of our progress.
 
 ### Day 1 — Data Understanding & Preparation
 
@@ -122,7 +122,7 @@ Advanced plots to be done on Power BI
 Discuss key insights, trends and patterns in the data
 Build streamlit webpage and function test, ready for integrating of project components
 
-### Day 3
+### Day 3 - Documentation, dashboard and presentation
 
 Integrate all necessary components of project onto streamlit webpage.
 Document all steps done throughout the project on the project board
