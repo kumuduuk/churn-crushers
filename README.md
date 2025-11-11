@@ -153,7 +153,7 @@ This project was the first project we have worked on as a group which also invol
 
 _"The feedback I received from my first solo project was that I needed to be more concise with my markdown and code comments, markdown to explain the why each bit of code has been included and the code comment to describe what each bit of code is doing. That is something I have made a conscious effort to include in this project. Working collaboratively lends itself to having people to bounce ideas off but can also require a bit of compromise when deciding on the best course of action as a group. Overall it's been a beneficial experience, on a steep learning curve"_ - Steven Naylor
 
-_"I encountered difficulties getting Plotly graphs to work due to a missing nbformat file. Using Microsoft Copilot, I discovered that a pip update was necessary to resolve the issue. Additionally, I faced a roadblock with Git commands returning errors. Kuminda assisted me by demonstrating an alternative approach and updating my Git main branch, which successfully resolved the problem"_ - Ali Khurshid
+_"Feedback from my first project refined my approach to this group work and introduced me to Power BI. I learned how to load, transform, and model data using DAX to create new columns and measures. Building an interactive, relationship-driven dashboard helped me validate our hypotheses and showcase to Kumud and Steven the value of Power BI in data architecture and advanced analysis.  "_ - Ali Khurshid
 
 _"I learnt some extra commands for cleaning the data when it comes to preparing it so we can visualise it on graphs. I enjoyed using streamlit and would use it for future projects. I was able to help Ali and Steven use a group github repository for their first time."_ Kumudu Liyanage
 
