@@ -8,7 +8,7 @@ Project bookmarks:
 -   [ETL Jupyter Notebook](https://github.com/kumuduuk/churn-crushers/blob/main/jupyter_notebooks/bankchurners.ipynb)
 -   [PowerBI dashboard](https://app.powerbi.com/reportEmbed?reportId=ee6cc040-bbb3-4dcb-b472-fb5ce9e82201&autoAuth=true&ctid=c233c072-135b-431d-af59-35e05babf941)
 -   [Streamlit](https://churn-crusher-dashboard.streamlit.app/)
--   [Conclusion and discussion](#conclusion)
+-   [Conclusion and discussion](#conclusion-and-discussion)
 
 ## Team Members:
 
