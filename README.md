@@ -26,6 +26,7 @@ Project bookmarks:
 -   [Development Roadmap](#development-roadmap)
 -   [Libraries & External Software Used](#libraries--external-software-used)
 -   [Conclusion](#conclusion)
+-   [Limitations](#limitations-to-the-dataset)
 -   [Credits](#credits)
 -   [Acknowledgements](#acknowledgements)
 
@@ -118,6 +119,10 @@ The ETL stage of this project allowed us to deploy a number of data analysis tec
 
 All data has been included anonymously, nobody in this dataset can be identified from the values in this table. The only unique identifier is the bank client number but the name of the bank has not been given anywhere.
 
+## Bug fixes
+
+-   No bugs to report.
+
 ## Development Roadmap
 
 This project was the first project we have worked on as a group which also involved us using a joint github repository for the first time. This involved working to group deadlines and not to your own individual timings. It also meant there had to be compromise within the group about which features of the project to include/exclude and how to present our findings.
@@ -138,6 +143,15 @@ This has been a python based project, the libraries and additional software used
 -   PowerBI
 
 # Conclusion
+
+# Limitations to the dataset
+
+From this further statistical analysis we have been able to find some limitations in this dataset:
+
+-   High earning females (over $60k per year) are not represented in the dataset.
+-   As a result gender distribution of credit limit amongst gender is skewed towards males having more.
+-   Platinum card holders only amount to 20 people out of 8849. We don't have enough information to make an informed decision about the trends of platinum members that churn. Gold also only has 103 members.
+-   People in their 40s make up nearly 50% of the dataset.
 
 ## Credits
 
