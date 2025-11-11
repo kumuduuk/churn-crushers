@@ -23,6 +23,7 @@ Project bookmarks:
 -   [Dataset Content](#dataset-content)
 -   [Business Requirements](#business-requirements)
 -   [Hypothesis Testing and Validation](#hypothesis-testing-and-validation)
+-   [Rationale to map business requirements](#the-rationale-to-map-the-business-requirements-to-the-data-visualisations)
 -   [Analysis Techniques Used](#analysis-techniques-used)
 -   [Development Roadmap](#development-roadmap)
 -   [Libraries & External Software Used](#libraries--external-software-used)
@@ -69,6 +70,28 @@ The bank manager is perplexed as to why an increasing number of customers are le
 We will also put together a predictive model that will allow the bank to vet new applicants and deem them to be likely to churn based on our findings throughout the project.
 
 ## Hypothesis testing and validation
+
+| Hypothesis number | Hypothesis description                                                                                                                                 | Validation method                                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                 | Customer churn is heavily influenced by transaction activity                                                                                           | In PBI check the relationship between transaction activity and churn flag. The trnsaction can be the average amount or count                   |
+| 2                 | Education level has a statistically significant association with churn rate                                                                            | Analyze whether education level has an impact on churn rate and if there are other variables that influence it indirectly.                     |
+| 3                 | Inactive periods increases the likelihood of churn. Customers with more inactive months in a given period (the last 12 months) are more prone to churn | Analyze how customer inactivity impacts churn rate by plotting interactive visuals in PBI.                                                     |
+| 4                 | Gender effects credit limit due to a salary gap                                                                                                        | Examine whether gender has a correlation between credit limit and what drives this.                                                            |
+| 5                 | Customers on a salary < $40k are most likely to churn                                                                                                  | Examine income bracket to churn flag through PBI toolsets.                                                                                     |
+| 6                 | Customers on more than 2 products are less likely to churn as it shows their satisfaction with the services the bank offers                            | Using PBI, check what the average no. of products is for churn rate to decrease.                                                               |
+| 7                 | Unhappy customers are likely to contact the bank more                                                                                                  | Analyze the likelihood of contact being a measure of unhappy customers vs happy customers. Validate this by measuring the trend in churn rate. |
+
+## The rationale to map the business requirements to the Data Visualisations
+
+| Hypothesis                                                                                                                                             | Visualization             | Description                                                                                         | Insights Highlighted                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Customer churn is heavily influenced by transaction activity                                                                                           | Donut Chart               | Shows the average churn figures by average transaction count and amount                             | Highlights the relationship between transaction activity and likelihood of churn        |
+| Education level has a statistically significant association with churn rate                                                                            | 100% stacked column chart | Compares the percentage of existing customers to attrited customers across the education categories | Reveals trends or patterns of attrited customers across all the education levels.       |
+| Inactive periods increases the likelihood of churn. Customers with more inactive months in a given period (the last 12 months) are more prone to churn | Stacked Column Chart      | Compares how customer inactivity impacts the averge churn likelihood                                | Reveals a rising or declining pattern vs churn.                                         |
+| Gender effects credit limit due to a salary gap                                                                                                        | Stacked Bar Chart         | Plots average credit limit by gender                                                                | Shows the difference in average credit limit by gender                                  |
+| Customers on a salary < 40k are most likely to churn                                                                                                   | Stacked Column Chart      | Plots average credit limit by income category                                                       | Reveals whether a trend exists between credit limit and income category                 |
+| Customers on more than 2 products are less likely to churn as it shows their satisfaction with the services the bank offers                            | Line Chart                | Compares the churn rate with no. of products per customer                                           | Reveals any trends in customer satisfaction vs the number of products they subscribe to |
+| Unhappy customers are likely to contact the bank more                                                                                                  | Stacked Area Chart        | Shows whether increased contact with the bank impacted churn rate or not                            | Higher churn rate with increased contact demonstrates unhappy customers and vice versa  |
 
 ## Project Board
 
@@ -130,6 +153,8 @@ This project was the first project we have worked on as a group which also invol
 
 _"The feedback I received from my first solo project was that I needed to be more concise with my markdown and code comments, markdown to explain the why each bit of code has been included and the code comment to describe what each bit of code is doing. That is something I have made a conscious effort to include in this project. Working collaboratively lends itself to having people to bounce ideas off but can also require a bit of compromise when deciding on the best course of action as a group. Overall it's been a beneficial experience, on a steep learning curve"_ - Steven Naylor
 
+_"I encountered difficulties getting Plotly graphs to work due to a missing nbformat file. Using Microsoft Copilot, I discovered that a pip update was necessary to resolve the issue. Additionally, I faced a roadblock with Git commands returning errors. Kuminda assisted me by demonstrating an alternative approach and updating my Git main branch, which successfully resolved the problem"_ - Ali Khurshid
+
 ## Main Data Analysis Libraries
 
 This has been a python based project, the libraries and additional software used on this project were:
@@ -143,7 +168,43 @@ This has been a python based project, the libraries and additional software used
 -   Streamlit
 -   PowerBI
 
-# Conclusion
+## Conclusion
+
+-   **Hypothesis 1** Transaction count emerged as the strongest factor associated with reduced churn rates. While transaction amount also shows a strong relationship, the data suggests the existence of an optimal transaction level that minimizes the likelihood of churn. This insight is explored further in the Power BI dashboard - in Streamlit.
+
+![alt text](visuals/hypothesis_1.jpg)
+
+-   **Hypothesis 2**: This assumption was disproven, as no discernible pattern was observed in the visuals comparing education level and churn. The total number of customers was plotted by education level and labeled according to their churn status, revealing no significant correlation between the two variables.
+
+![alt text](visuals/hypothesis_2.jpg)
+
+-   **Hypothesis 3** Customer inactivity over the past 12 months shows a strong correlation with churn. The more inactive a customer becomes, the higher the likelihood that they will eventually leave the bank.
+
+![alt text](visuals/hypothesis_3.jpg)
+
+-   **Hypothesis 4**: Power BI analysis revealed a clear trend indicating that male customers generally have higher credit limits compared to their female counterparts. Further investigation uncovered a corresponding income gap between genders, with the highest income bracket for female customers falling within the $40K–$60K range. This relationship is evident in the interactive Power BI dashboard. It is worth noting that an “unknown” salary category exists; however, it is reasonable to infer that these values likely fall within the two known income brackets—otherwise, the corresponding credit limits would be expected to be higher.
+
+![alt text](visuals/hypothesis_4a.jpg)
+
+![alt text](visuals/hypothesis_4b.jpg)
+
+-   **Hypothesis 5**: Credit limit is directly influenced by income category—customers with higher incomes are offered higher credit limits by the bank. Power BI visuals clearly illustrate this trend. While this relationship is expected, it also appears to have an indirect impact on churn rate.
+
+![alt text](visuals/hypothesis_5.jpg)
+
+-   **Hypothesis 6**: Analysis indicates that customers with a higher number of product subscriptions tend to exhibit greater satisfaction. This trend is evident in the visual below, which shows a decrease in churn rate as the number of subscribed products increases. Notably, customers with two products display a slightly higher churn rate than those with only one, suggesting that single-product customers may have limited exposure for comparison and therefore perceive fewer differences in service quality.
+
+![alt text](visuals/hypothesis_6.jpg)
+
+-   **Hypothesis 7**: Analysis shows that customers who contacted the bank more frequently over the past 12 months are more likely to churn. This suggests that customers with higher contact frequency may be experiencing dissatisfaction with the bank’s services.
+
+![alt text](visuals/hypothesis_7.jpg)
+
+### **Progress Summary**
+
+Overall, the project board performed well. I successfully completed all 'Must Have' tasks, along with a couple of 'Could Have' items. Two tasks have been set aside to be addressed in future improvements to ensure continuous progress and refinement. This approach allowed the project to meet its core objectives while laying the groundwork for ongoing development.
+
+![alt text](<assets/images/Project Board final.jpg>)
 
 ## Data Limitations based on correlation heatmap statements
 
@@ -165,6 +226,10 @@ Kaggle - source for the dataset
 ## Content
 
 All images throughout the project that were not produced by this group are free to use.
+
+-   [Google Images](https://www.google.com/search?q=google+images&oq=google+images&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIHCAEQABiABDIKCAIQABixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiPAtIBCDE2NjZqMWo3qAIIsAIB8QVuTNGH65UllA&sourceid=chrome&ie=UTF-8) The photo used on the home page was downloaded from Google Images, which is an open source site.
+
+-   [Kaggle](https://www.kaggle.com/datasets/sureshgupta/health-insurance-data-set) Online library for my dataset
 
 ## Acknowledgements
 
