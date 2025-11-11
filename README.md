@@ -6,8 +6,9 @@ Project bookmarks:
 -   [Project board](https://github.com/users/kumuduuk/projects/3)
 -   [Raw Data](https://github.com/kumuduuk/churn-crushers/blob/main/data/raw_data/BankChurners.csv) | [Clean data](https://github.com/kumuduuk/churn-crushers/blob/main/data/cleaned_data/bankchurners.csv)
 -   [ETL Jupyter Notebook](https://github.com/kumuduuk/churn-crushers/blob/main/jupyter_notebooks/bankchurners.ipynb)
+-   [PowerBI dashboard](https://app.powerbi.com/reportEmbed?reportId=ee6cc040-bbb3-4dcb-b472-fb5ce9e82201&autoAuth=true&ctid=c233c072-135b-431d-af59-35e05babf941)
 -   [Streamlit](https://churn-crusher-dashboard.streamlit.app/)
--   [Conclusion](#conclusion)
+-   [Conclusion and discussion](#conclusion-and-discussion)
 
 ## Team Members:
 
@@ -27,7 +28,7 @@ Project bookmarks:
 -   [Analysis Techniques Used](#analysis-techniques-used)
 -   [Development Roadmap](#development-roadmap)
 -   [Libraries & External Software Used](#libraries--external-software-used)
--   [Conclusion](#conclusion)
+-   [Conclusion and discussion](#conclusion-and-discussion)
 -   [Limitations](#limitations-to-the-dataset)
 -   [Credits](#credits)
 -   [Acknowledgements](#acknowledgements)
@@ -172,7 +173,7 @@ This has been a python based project, the libraries and additional software used
 -   Streamlit
 -   PowerBI
 
-## Conclusion
+## Conclusion and discussion
 
 -   **Hypothesis 1** Transaction count emerged as the strongest factor associated with reduced churn rates. While transaction amount also shows a strong relationship, the data suggests the existence of an optimal transaction level that minimizes the likelihood of churn. This insight is explored further in the Power BI dashboard - in Streamlit.
 
@@ -204,6 +205,9 @@ This has been a python based project, the libraries and additional software used
 
 ![alt text](images_ali/hypothesis_7.jpg)
 
+Having looked at the seven hypothesis outlined above we can conclude that there are some factors that act as indicators to churn. These are things such as extended account inactivity, high number of contacts with the bank but limited product engagement, and low transaction frequency. Whereas characteristics of a customer less likely to churn are that they have mulitple products with the bank, high transaction activity in terms of amount and total credit used.
+Amongst the categorical columns, education status, marital status, income bracket we didn't find too many indicators that the customer is likely to churn or not more than the average 16% across all customers. Gender was to be discounted as a metric as over half of the women polled earned less than $40k and there were no females over $60k included in the dataset.
+
 ## Data Limitations based on correlation heatmap statements
 
 From this further statistical analysis we have been able to find some limitations in this dataset:
@@ -231,5 +235,5 @@ All images throughout the project that were not produced by this group are free 
 
 ## Acknowledgements
 
--   Code institute tutors, masterclass coach Spencer Barriball and data coach Mark Briscoe
+-   Code institute tutors, course facilitator Emma Lamont, masterclass coach Spencer Barriball and data coach Mark Briscoe
 -   Peers in September cohort for support
