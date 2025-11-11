@@ -93,6 +93,8 @@ This has been a python based project, the libraries and additional software used
 -   Numpy
 -   Matplotlib
 -   Seaborn
+-   Scikit-learn
+-   SciPy
 -   Streamlit
 -   PowerBI
 
