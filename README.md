@@ -61,6 +61,11 @@ We will also put together a predictive model that will allow the bank to vet new
 
 ![project_board](images/project_board.png)
 
+As this was a group project all tasks within the project were assigned to users, some tasks were for the individual to complete and others allowed for a collaborative approach to be taken so were applied to multiple or all members of the group. We were assigned different roles in the group and took a lead area:
+Data Analyst - Run the data through the ETL process
+Data Architect - Visualise the data
+Project Manager/Dashboard builder - Manage the project and build the dashboard to house the project findings.
+
 ## Analysis techniques used - AK
 
 ## Ethical
@@ -69,4 +74,19 @@ All data has been included anonymously, nobody in this dataset can be identified
 
 ## Development Roadmap - ALL
 
+This project was the first project we have worked on as a group which also involved us using a joint github repository for the first time. This involved working to group deadlines and not to your own individual timings. It also meant there had to be compromise within the group about which features of the project to include/exclude and how to present our findings.
+
+_"The feedback I received from my first solo project was that I needed to be more concise with my markdown and #code comments, markdown to explain the why each bit of code has been included and the #to label what each bit of code is doing. That is something I have made a conscious effort to include in this project."_ - Steven Naylor
+
 ## Main Data Analysis Libraries - SN
+
+This has been a python based project, the libraries and additional software used on this project were:
+
+-   Pandas
+-   Numpy
+-   Matplotlib
+-   Seaborn
+-   Streamlit
+-   PowerBI
+
+## Credits
