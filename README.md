@@ -1,5 +1,13 @@
 # BankChurners - Hackathon project
 
+Project bookmarks:
+
+-   [README](https://github.com/kumuduuk/churn-crushers/blob/main/README.md)
+-   [Project board](https://github.com/users/kumuduuk/projects/3)
+-   [Raw Data](https://github.com/kumuduuk/churn-crushers/blob/main/data/raw_data/BankChurners.csv) | [Clean data](https://github.com/kumuduuk/churn-crushers/blob/main/data/cleaned_data/bankchurners.csv)
+-   [Streamlit](https://churn-crusher-dashboard.streamlit.app/)
+-   [Conclusion](#conclusion)
+
 ## Team Members:
 
 | Name            |      Role       |                           Responsibility                            |
@@ -10,15 +18,18 @@
 
 ## Contents:
 
--   Project overview
--   Project board
--   Hypothesis testing
--   Raw Data | Clean data
--   ETL and data analysis
--   Interactive dashboard
--   Streamlit
+-   [Project Overview](#project-overview)
+-   [Dataset Content](#dataset-content)
+-   [Business Requirements](#business-requirements)
+-   [Hypothesis Testing and Validation](#hypothesis-testing-and-validation)
+-   [Analysis Techniques Used](#analysis-techniques-used)
+-   [Development Roadmap](#development-roadmap)
+-   [Libraries & External Software Used](#libraries--external-software-used)
+-   [Conclusion](#conclusion)
+-   [Credits](#credits)
+-   [Acknowledgements](#acknowledgements)
 
-## Project overview - Bank churners
+## Project overview
 
 The project uses a dataset looking at existing and attrited customers from a bank. It contains over 10,000 records of customers who have used the banks services in the past or still do, using this we can identify trends and patterns within the dataset and will also look to make a predicitive model that the bank can use on future applicants to see whether they are likely to churn (leave) or not.
 
@@ -66,7 +77,7 @@ Data Analyst - Run the data through the ETL process
 Data Architect - Visualise the data
 Project Manager/Dashboard builder - Manage the project and build the dashboard to house the project findings.
 
-## Analysis techniques used - SN/AK
+## Analysis techniques used
 
 The ETL stage of this project allowed us to deploy a number of data analysis techniques to take our raw data set and turn it into a useable clean version ready to visualise and deploy on our streamlit dashboard.
 
@@ -85,7 +96,7 @@ This project was the first project we have worked on as a group which also invol
 
 _"The feedback I received from my first solo project was that I needed to be more concise with my markdown and #code comments, markdown to explain the why each bit of code has been included and the #to label what each bit of code is doing. That is something I have made a conscious effort to include in this project."_ - Steven Naylor
 
-## Main Data Analysis Libraries - SN
+## Main Data Analysis Libraries
 
 This has been a python based project, the libraries and additional software used on this project were:
 
@@ -97,6 +108,8 @@ This has been a python based project, the libraries and additional software used
 -   SciPy
 -   Streamlit
 -   PowerBI
+
+# Conclusion
 
 ## Credits
 
@@ -113,7 +126,3 @@ All images throughout the project that were not produced by this group are free 
 
 -   Code institute tutors, masterclass coach Spencer Barriball and data coach Mark Briscoe
 -   Peers in September cohort for support
-
-10\*---
-
-# Conclusion
